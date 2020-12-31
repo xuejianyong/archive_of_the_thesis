@@ -1,0 +1,6866 @@
+The Current Count Number is:1
+the BeliefState is:unknown
+the Mood  State is:0
+the IntendedExperience is:(0,0,0)
+the EnactedExperience  is:(0,0,0)
+The current score is:0
+updated the triedNumber Experience
+get the markedState from the map that shows this enactedExperience marked state is: 0
+the draw current belief state is:unknown
+the draw current mood   state is:2
+
+The sporadic experience List is:
+The newCreatedBeliefList is NULL
+isChanged is:false
+
+This EnactedExperience Marked is: 0
+ischange is:[0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:0
+(0,1,0) Marked:0
+(2,0,0) Marked:0
+(2,1,0) Marked:0
+(2,2,0) Marked:0
+(3,1,0) Marked:0
+(4,1,0) Marked:0
+(1,0,0) Marked:0
+(1,1,0) Marked:0
+(3,0,0) Marked:0
+
+The updated currentBeliefState is:unknown
+The updated mood is:2
+
+The currentBeliefState numberOfTriedMap
+(1,0,0) number:0
+(0,0,0) number:1
+(3,1,0) number:0
+(4,0,0) number:0
+(4,1,0) number:0
+(2,0,0) number:0
+(2,1,0) number:0
+(2,2,10) number:0
+(0,1,0) number:0
+(3,0,0) number:0
+(1,1,0) number:0
+The persistent sporadic persistent list is:
+The state of the environment is:  left:false  right:false
+
+---------------------------------------------------------
+The Current Count Number is:2
+the BeliefState is:unknown
+the Mood  State is:2
+the IntendedExperience is:(0,0,0)
+the EnactedExperience  is:(0,0,0)
+The current score is:0
+updated the triedNumber Experience
+get the markedState from the map that shows this enactedExperience marked state is: 0
+the draw current belief state is:unknown
+the draw current mood   state is:2
+
+The sporadic experience List is:
+The newCreatedBeliefList is NULL
+isChanged is:false
+
+This EnactedExperience Marked is: 0
+ischange is:[0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:0
+(0,1,0) Marked:0
+(2,0,0) Marked:0
+(2,1,0) Marked:0
+(2,2,0) Marked:0
+(3,1,0) Marked:0
+(4,1,0) Marked:0
+(1,0,0) Marked:0
+(1,1,0) Marked:0
+(3,0,0) Marked:0
+
+The updated currentBeliefState is:unknown
+The updated mood is:2
+
+The currentBeliefState numberOfTriedMap
+(1,0,0) number:0
+(0,0,0) number:2
+(3,1,0) number:0
+(4,0,0) number:0
+(4,1,0) number:0
+(2,0,0) number:0
+(2,1,0) number:0
+(2,2,10) number:0
+(0,1,0) number:0
+(3,0,0) number:0
+(1,1,0) number:0
+The persistent sporadic persistent list is:
+The state of the environment is:  left:false  right:false
+
+---------------------------------------------------------
+The Current Count Number is:3
+the BeliefState is:unknown
+the Mood  State is:2
+the IntendedExperience is:(0,0,0)
+the EnactedExperience  is:(0,0,0)
+The current score is:0
+updated the triedNumber Experience
+get the markedState from the map that shows this enactedExperience marked state is: 0
+the draw current belief state is:unknown
+the draw current mood   state is:2
+
+The sporadic experience List is:
+The newCreatedBeliefList is NULL
+isChanged is:false
+
+This EnactedExperience Marked is: 0
+ischange is:[0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:0
+(0,1,0) Marked:0
+(2,0,0) Marked:0
+(2,1,0) Marked:0
+(2,2,0) Marked:0
+(3,1,0) Marked:0
+(4,1,0) Marked:0
+(1,0,0) Marked:0
+(1,1,0) Marked:0
+(3,0,0) Marked:0
+
+The updated currentBeliefState is:unknown
+The updated mood is:2
+
+The currentBeliefState numberOfTriedMap
+(1,0,0) number:0
+(0,0,0) number:3
+(3,1,0) number:0
+(4,0,0) number:0
+(4,1,0) number:0
+(2,0,0) number:0
+(2,1,0) number:0
+(2,2,10) number:0
+(0,1,0) number:0
+(3,0,0) number:0
+(1,1,0) number:0
+The persistent sporadic persistent list is:
+The state of the environment is:  left:false  right:false
+
+---------------------------------------------------------
+The Current Count Number is:4
+the BeliefState is:unknown
+the Mood  State is:2
+the IntendedExperience is:(0,0,0)
+the EnactedExperience  is:(0,0,0)
+The current score is:0
+updated the triedNumber Experience
+get the markedState from the map that shows this enactedExperience marked state is: 0
+the draw current belief state is:unknown
+the draw current mood   state is:2
+
+The sporadic experience List is:
+The newCreatedBeliefList is NULL
+isChanged is:false
+
+This EnactedExperience Marked is: 0
+ischange is:[0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:0
+(0,1,0) Marked:0
+(2,0,0) Marked:0
+(2,1,0) Marked:0
+(2,2,0) Marked:0
+(3,1,0) Marked:0
+(4,1,0) Marked:0
+(1,0,0) Marked:0
+(1,1,0) Marked:0
+(3,0,0) Marked:0
+
+The updated currentBeliefState is:unknown
+The updated mood is:2
+
+The currentBeliefState numberOfTriedMap
+(1,0,0) number:0
+(0,0,0) number:4
+(3,1,0) number:0
+(4,0,0) number:0
+(4,1,0) number:0
+(2,0,0) number:0
+(2,1,0) number:0
+(2,2,10) number:0
+(0,1,0) number:0
+(3,0,0) number:0
+(1,1,0) number:0
+The persistent sporadic persistent list is:
+The state of the environment is:  left:false  right:false
+
+---------------------------------------------------------
+The Current Count Number is:5
+the BeliefState is:unknown
+the Mood  State is:2
+the IntendedExperience is:(0,0,0)
+the EnactedExperience  is:(0,0,0)
+The current score is:0
+updated the triedNumber Experience
+get the markedState from the map that shows this enactedExperience marked state is: 0
+the draw current belief state is:unknown
+the draw current mood   state is:2
+
+The sporadic experience List is:
+The newCreatedBeliefList is NULL
+isChanged is:false
+
+This EnactedExperience Marked is: 0
+ischange is:[0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:0
+(0,1,0) Marked:0
+(2,0,0) Marked:0
+(2,1,0) Marked:0
+(2,2,0) Marked:0
+(3,1,0) Marked:0
+(4,1,0) Marked:0
+(1,0,0) Marked:0
+(1,1,0) Marked:0
+(3,0,0) Marked:0
+
+The updated currentBeliefState is:unknown
+The updated mood is:2
+
+The currentBeliefState numberOfTriedMap
+(1,0,0) number:0
+(0,0,0) number:5
+(3,1,0) number:0
+(4,0,0) number:0
+(4,1,0) number:0
+(2,0,0) number:0
+(2,1,0) number:0
+(2,2,10) number:0
+(0,1,0) number:0
+(3,0,0) number:0
+(1,1,0) number:0
+The persistent sporadic persistent list is:
+The state of the environment is:  left:false  right:false
+
+---------------------------------------------------------
+The Current Count Number is:6
+the BeliefState is:unknown
+the Mood  State is:2
+the IntendedExperience is:(0,0,0)
+the EnactedExperience  is:(0,0,0)
+The current score is:0
+updated the triedNumber Experience
+the intended experience is persistent and update the experienceMarkedMap
+the  enacted Experience is already marked and the mark is:2
+the draw current belief state is:(0,0,0)
+the draw current mood   state is:0
+
+The sporadic experience List is:
+The createNewBeliefStateList is:
+(0,0,0)
+
+Enter the connected procedure process
+isChanged is:false
+
+This EnactedExperience is already Marked ! mark is: 2
+ischange is:[0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:2
+(0,1,0) Marked:0
+(2,0,0) Marked:0
+(2,1,0) Marked:0
+(2,2,0) Marked:0
+(3,1,0) Marked:0
+(4,1,0) Marked:0
+(1,0,0) Marked:0
+(1,1,0) Marked:0
+(3,0,0) Marked:0
+
+The updated currentBeliefState is:(0,0,0)
+The updated mood is:0
+
+The currentBeliefState numberOfTriedMap
+(3,1,0) number:0
+(2,0,0) number:0
+(3,0,0) number:0
+(4,0,0) number:0
+(4,1,0) number:0
+(2,2,10) number:0
+(1,1,0) number:0
+(0,0,0) number:0
+(1,0,0) number:0
+(0,1,0) number:0
+(2,1,0) number:0
+The persistent sporadic persistent list is:
+The state of the environment is:  left:false  right:false
+
+---------------------------------------------------------
+The Current Count Number is:7
+the BeliefState is:(0,0,0)
+the Mood  State is:0
+get the intendedexperience from function leasTriedExperience
+the IntendedExperience is:(3,1,0)
+the EnactedExperience  is:(3,0,0)
+The current score is:0
+updated the triedNumber Experience
+get the markedState from the map that shows this enactedExperience marked state is: 0
+the draw current belief state is:unknown
+the draw current mood   state is:2
+
+The sporadic experience List is:
+The createNewBeliefStateList is:
+(0,0,0)
+isChanged is:false
+
+This EnactedExperience Marked is: 0
+ischange is:[0, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:2
+(0,1,0) Marked:0
+(2,0,0) Marked:0
+(2,1,0) Marked:0
+(2,2,0) Marked:0
+(3,1,0) Marked:0
+(4,1,0) Marked:0
+(1,0,0) Marked:0
+(1,1,0) Marked:0
+(3,0,0) Marked:0
+
+The updated currentBeliefState is:unknown
+The updated mood is:2
+
+The currentBeliefState numberOfTriedMap
+(1,0,0) number:0
+(0,0,0) number:6
+(3,1,0) number:0
+(4,0,0) number:0
+(4,1,0) number:0
+(2,0,0) number:0
+(2,1,0) number:0
+(2,2,10) number:0
+(0,1,0) number:0
+(3,0,0) number:0
+(1,1,0) number:0
+The persistent sporadic persistent list is:
+The state of the environment is:  left:false  right:false
+
+---------------------------------------------------------
+The Current Count Number is:8
+the BeliefState is:unknown
+the Mood  State is:2
+the IntendedExperience is:(3,0,0)
+the EnactedExperience  is:(3,0,0)
+The current score is:0
+updated the triedNumber Experience
+get the markedState from the map that shows this enactedExperience marked state is: 0
+the draw current belief state is:unknown
+the draw current mood   state is:2
+
+The sporadic experience List is:
+The createNewBeliefStateList is:
+(0,0,0)
+isChanged is:false
+
+This EnactedExperience Marked is: 0
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:2
+(0,1,0) Marked:0
+(2,0,0) Marked:0
+(2,1,0) Marked:0
+(2,2,0) Marked:0
+(3,1,0) Marked:0
+(4,1,0) Marked:0
+(1,0,0) Marked:0
+(1,1,0) Marked:0
+(3,0,0) Marked:0
+
+The updated currentBeliefState is:unknown
+The updated mood is:2
+
+The currentBeliefState numberOfTriedMap
+(1,0,0) number:0
+(0,0,0) number:6
+(3,1,0) number:0
+(4,0,0) number:0
+(4,1,0) number:0
+(2,0,0) number:0
+(2,1,0) number:0
+(2,2,10) number:0
+(0,1,0) number:0
+(3,0,0) number:1
+(1,1,0) number:0
+The persistent sporadic persistent list is:
+The state of the environment is:  left:false  right:false
+
+---------------------------------------------------------
+The Current Count Number is:9
+the BeliefState is:unknown
+the Mood  State is:2
+the IntendedExperience is:(3,0,0)
+the EnactedExperience  is:(3,0,0)
+The current score is:0
+updated the triedNumber Experience
+get the markedState from the map that shows this enactedExperience marked state is: 0
+the draw current belief state is:unknown
+the draw current mood   state is:2
+
+The sporadic experience List is:
+The createNewBeliefStateList is:
+(0,0,0)
+isChanged is:false
+
+This EnactedExperience Marked is: 0
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:2
+(0,1,0) Marked:0
+(2,0,0) Marked:0
+(2,1,0) Marked:0
+(2,2,0) Marked:0
+(3,1,0) Marked:0
+(4,1,0) Marked:0
+(1,0,0) Marked:0
+(1,1,0) Marked:0
+(3,0,0) Marked:0
+
+The updated currentBeliefState is:unknown
+The updated mood is:2
+
+The currentBeliefState numberOfTriedMap
+(1,0,0) number:0
+(0,0,0) number:6
+(3,1,0) number:0
+(4,0,0) number:0
+(4,1,0) number:0
+(2,0,0) number:0
+(2,1,0) number:0
+(2,2,10) number:0
+(0,1,0) number:0
+(3,0,0) number:2
+(1,1,0) number:0
+The persistent sporadic persistent list is:
+The state of the environment is:  left:false  right:false
+
+---------------------------------------------------------
+The Current Count Number is:10
+the BeliefState is:unknown
+the Mood  State is:2
+the IntendedExperience is:(3,0,0)
+the EnactedExperience  is:(3,0,0)
+The current score is:0
+updated the triedNumber Experience
+get the markedState from the map that shows this enactedExperience marked state is: 0
+the draw current belief state is:unknown
+the draw current mood   state is:2
+
+The sporadic experience List is:
+The createNewBeliefStateList is:
+(0,0,0)
+isChanged is:false
+
+This EnactedExperience Marked is: 0
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:2
+(0,1,0) Marked:0
+(2,0,0) Marked:0
+(2,1,0) Marked:0
+(2,2,0) Marked:0
+(3,1,0) Marked:0
+(4,1,0) Marked:0
+(1,0,0) Marked:0
+(1,1,0) Marked:0
+(3,0,0) Marked:0
+
+The updated currentBeliefState is:unknown
+The updated mood is:2
+
+The currentBeliefState numberOfTriedMap
+(1,0,0) number:0
+(0,0,0) number:6
+(3,1,0) number:0
+(4,0,0) number:0
+(4,1,0) number:0
+(2,0,0) number:0
+(2,1,0) number:0
+(2,2,10) number:0
+(0,1,0) number:0
+(3,0,0) number:3
+(1,1,0) number:0
+The persistent sporadic persistent list is:
+The state of the environment is:  left:false  right:false
+
+---------------------------------------------------------
+The Current Count Number is:11
+the BeliefState is:unknown
+the Mood  State is:2
+the IntendedExperience is:(3,0,0)
+the EnactedExperience  is:(3,0,0)
+The current score is:0
+updated the triedNumber Experience
+get the markedState from the map that shows this enactedExperience marked state is: 0
+the draw current belief state is:unknown
+the draw current mood   state is:2
+
+The sporadic experience List is:
+The createNewBeliefStateList is:
+(0,0,0)
+isChanged is:false
+
+This EnactedExperience Marked is: 0
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:2
+(0,1,0) Marked:0
+(2,0,0) Marked:0
+(2,1,0) Marked:0
+(2,2,0) Marked:0
+(3,1,0) Marked:0
+(4,1,0) Marked:0
+(1,0,0) Marked:0
+(1,1,0) Marked:0
+(3,0,0) Marked:0
+
+The updated currentBeliefState is:unknown
+The updated mood is:2
+
+The currentBeliefState numberOfTriedMap
+(1,0,0) number:0
+(0,0,0) number:6
+(3,1,0) number:0
+(4,0,0) number:0
+(4,1,0) number:0
+(2,0,0) number:0
+(2,1,0) number:0
+(2,2,10) number:0
+(0,1,0) number:0
+(3,0,0) number:4
+(1,1,0) number:0
+The persistent sporadic persistent list is:
+The state of the environment is:  left:false  right:false
+
+---------------------------------------------------------
+The Current Count Number is:12
+the BeliefState is:unknown
+the Mood  State is:2
+the IntendedExperience is:(3,0,0)
+the EnactedExperience  is:(3,0,0)
+The current score is:0
+updated the triedNumber Experience
+the intended experience is persistent and update the experienceMarkedMap
+the  enacted Experience is already marked and the mark is:2
+the draw current belief state is:(3,0,0)
+the draw current mood   state is:0
+
+The sporadic experience List is:
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+
+Enter the connected procedure process
+isChanged is:false
+
+This EnactedExperience is already Marked ! mark is: 2
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:2
+(0,1,0) Marked:0
+(2,0,0) Marked:0
+(2,1,0) Marked:0
+(2,2,0) Marked:0
+(3,1,0) Marked:0
+(4,1,0) Marked:0
+(1,0,0) Marked:0
+(1,1,0) Marked:0
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:(3,0,0)
+The updated mood is:0
+
+The currentBeliefState numberOfTriedMap
+(4,1,0) number:0
+(2,2,10) number:0
+(3,0,0) number:0
+(0,0,0) number:0
+(3,1,0) number:0
+(1,1,0) number:0
+(2,1,0) number:0
+(1,0,0) number:0
+(4,0,0) number:0
+(0,1,0) number:0
+(2,0,0) number:0
+The persistent sporadic persistent list is:
+The state of the environment is:  left:false  right:false
+
+---------------------------------------------------------
+The Current Count Number is:13
+the BeliefState is:(3,0,0)
+the Mood  State is:0
+get the intendedexperience from function leasTriedExperience
+the IntendedExperience is:(4,1,0)
+the EnactedExperience  is:(4,1,0)
+The current score is:0
+updated the triedNumber Experience
+get the markedState from the map that shows this enactedExperience marked state is: 0
+the draw current belief state is:unknown
+the draw current mood   state is:2
+
+The sporadic experience List is:
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+isChanged is:false
+
+This EnactedExperience Marked is: 0
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:2
+(0,1,0) Marked:0
+(2,0,0) Marked:0
+(2,1,0) Marked:0
+(2,2,0) Marked:0
+(3,1,0) Marked:0
+(4,1,0) Marked:0
+(1,0,0) Marked:0
+(1,1,0) Marked:0
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:unknown
+The updated mood is:2
+
+The currentBeliefState numberOfTriedMap
+(1,0,0) number:0
+(0,0,0) number:6
+(3,1,0) number:0
+(4,0,0) number:0
+(4,1,0) number:0
+(2,0,0) number:0
+(2,1,0) number:0
+(2,2,10) number:0
+(0,1,0) number:0
+(3,0,0) number:5
+(1,1,0) number:0
+The persistent sporadic persistent list is:
+The state of the environment is:  left:false  right:true
+
+---------------------------------------------------------
+The Current Count Number is:14
+the BeliefState is:unknown
+the Mood  State is:2
+the IntendedExperience is:(4,1,0)
+the EnactedExperience  is:(4,0,0)
+The current score is:0
+updated the triedNumber Experience
+the intended experience is sporadic and update the experienceMarkedMap
+add the sporadicExperience into the sporadicExperienceList
+get the markedState from the map that shows this enactedExperience marked state is: 0
+the draw current belief state is:unknown
+the draw current mood   state is:2
+
+The sporadic experience List is:
+(4,1,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+
+Enter the connected procedure process
+sporadicAction is:4
+
+11111111111111111111111111111111111111111111111111
+observer is:(0,0,0)
+The state of the environment is:  left:false  right:false
+the intendtedExperience  is:(0,0,0)
+the enactedExperiencePre is:(0,0,0)
+The Current Count Number is:15
+enter the same result function
+
+444444444444444444444444444444444444444444444444444444444444444444
+the intendedExperience  is:(4,1,0)
+the enactedExperienceSpo is :(4,1,0)
+The Current Count Number is:16
+
+555555555555555555555555555555555555555555555555555555555555555555555555
+the intendedExperience is:(0,0,0)
+the enactedExperiencePos is:(0,0,0)
+The Current Count Number is:17
+
+11111111111111111111111111111111111111111111111111
+observer is:(3,0,0)
+The state of the environment is:  left:false  right:true
+the intendtedExperience  is:(3,0,0)
+the enactedExperiencePre is:(3,1,0)
+The Current Count Number is:18
+enter the function if(observerResultPre != observer.result)
+persistentMark is 0, so the agent need to check the mark of this enactedExperience
+isChanged is:false
+
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:2
+(0,1,0) Marked:0
+(2,0,0) Marked:0
+(2,1,0) Marked:0
+(2,2,0) Marked:0
+(3,1,0) Marked:0
+(4,1,0) Marked:1
+(1,0,0) Marked:0
+(1,1,0) Marked:0
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:unknown
+The updated mood is:2
+
+The currentBeliefState numberOfTriedMap
+(1,0,0) number:0
+(0,0,0) number:6
+(3,1,0) number:0
+(4,0,0) number:0
+(4,1,0) number:1
+(2,0,0) number:0
+(2,1,0) number:0
+(2,2,10) number:0
+(0,1,0) number:0
+(3,0,0) number:5
+(1,1,0) number:0
+The persistent sporadic persistent list is:
+The state of the environment is:  left:false  right:true
+
+---------------------------------------------------------
+The Current Count Number is:19
+the BeliefState is:unknown
+the Mood  State is:2
+the IntendedExperience is:(3,1,0)
+the EnactedExperience  is:(3,1,0)
+The current score is:0
+updated the triedNumber Experience
+get the markedState from the map that shows this enactedExperience marked state is: 0
+the draw current belief state is:unknown
+the draw current mood   state is:2
+
+The sporadic experience List is:
+(4,1,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+isChanged is:false
+
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:2
+(0,1,0) Marked:0
+(2,0,0) Marked:0
+(2,1,0) Marked:0
+(2,2,0) Marked:0
+(3,1,0) Marked:0
+(4,1,0) Marked:1
+(1,0,0) Marked:0
+(1,1,0) Marked:0
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:unknown
+The updated mood is:2
+
+The currentBeliefState numberOfTriedMap
+(1,0,0) number:0
+(0,0,0) number:6
+(3,1,0) number:1
+(4,0,0) number:0
+(4,1,0) number:1
+(2,0,0) number:0
+(2,1,0) number:0
+(2,2,10) number:0
+(0,1,0) number:0
+(3,0,0) number:5
+(1,1,0) number:0
+The persistent sporadic persistent list is:
+The state of the environment is:  left:false  right:true
+
+---------------------------------------------------------
+The Current Count Number is:20
+the BeliefState is:unknown
+the Mood  State is:2
+the IntendedExperience is:(3,1,0)
+the EnactedExperience  is:(3,1,0)
+The current score is:0
+updated the triedNumber Experience
+get the markedState from the map that shows this enactedExperience marked state is: 0
+the draw current belief state is:unknown
+the draw current mood   state is:2
+
+The sporadic experience List is:
+(4,1,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+isChanged is:false
+
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:2
+(0,1,0) Marked:0
+(2,0,0) Marked:0
+(2,1,0) Marked:0
+(2,2,0) Marked:0
+(3,1,0) Marked:0
+(4,1,0) Marked:1
+(1,0,0) Marked:0
+(1,1,0) Marked:0
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:unknown
+The updated mood is:2
+
+The currentBeliefState numberOfTriedMap
+(1,0,0) number:0
+(0,0,0) number:6
+(3,1,0) number:2
+(4,0,0) number:0
+(4,1,0) number:1
+(2,0,0) number:0
+(2,1,0) number:0
+(2,2,10) number:0
+(0,1,0) number:0
+(3,0,0) number:5
+(1,1,0) number:0
+The persistent sporadic persistent list is:
+The state of the environment is:  left:false  right:true
+
+---------------------------------------------------------
+The Current Count Number is:21
+the BeliefState is:unknown
+the Mood  State is:2
+the IntendedExperience is:(3,1,0)
+the EnactedExperience  is:(3,1,0)
+The current score is:0
+updated the triedNumber Experience
+get the markedState from the map that shows this enactedExperience marked state is: 0
+the draw current belief state is:unknown
+the draw current mood   state is:2
+
+The sporadic experience List is:
+(4,1,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+isChanged is:false
+
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:2
+(0,1,0) Marked:0
+(2,0,0) Marked:0
+(2,1,0) Marked:0
+(2,2,0) Marked:0
+(3,1,0) Marked:0
+(4,1,0) Marked:1
+(1,0,0) Marked:0
+(1,1,0) Marked:0
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:unknown
+The updated mood is:2
+
+The currentBeliefState numberOfTriedMap
+(1,0,0) number:0
+(0,0,0) number:6
+(3,1,0) number:3
+(4,0,0) number:0
+(4,1,0) number:1
+(2,0,0) number:0
+(2,1,0) number:0
+(2,2,10) number:0
+(0,1,0) number:0
+(3,0,0) number:5
+(1,1,0) number:0
+The persistent sporadic persistent list is:
+The state of the environment is:  left:false  right:true
+
+---------------------------------------------------------
+The Current Count Number is:22
+the BeliefState is:unknown
+the Mood  State is:2
+the IntendedExperience is:(3,1,0)
+the EnactedExperience  is:(3,1,0)
+The current score is:0
+updated the triedNumber Experience
+get the markedState from the map that shows this enactedExperience marked state is: 0
+the draw current belief state is:unknown
+the draw current mood   state is:2
+
+The sporadic experience List is:
+(4,1,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+isChanged is:false
+
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:2
+(0,1,0) Marked:0
+(2,0,0) Marked:0
+(2,1,0) Marked:0
+(2,2,0) Marked:0
+(3,1,0) Marked:0
+(4,1,0) Marked:1
+(1,0,0) Marked:0
+(1,1,0) Marked:0
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:unknown
+The updated mood is:2
+
+The currentBeliefState numberOfTriedMap
+(1,0,0) number:0
+(0,0,0) number:6
+(3,1,0) number:4
+(4,0,0) number:0
+(4,1,0) number:1
+(2,0,0) number:0
+(2,1,0) number:0
+(2,2,10) number:0
+(0,1,0) number:0
+(3,0,0) number:5
+(1,1,0) number:0
+The persistent sporadic persistent list is:
+The state of the environment is:  left:false  right:true
+
+---------------------------------------------------------
+The Current Count Number is:23
+the BeliefState is:unknown
+the Mood  State is:2
+the IntendedExperience is:(3,1,0)
+the EnactedExperience  is:(3,1,0)
+The current score is:0
+updated the triedNumber Experience
+the intended experience is persistent and update the experienceMarkedMap
+the  enacted Experience is already marked and the mark is:2
+the draw current belief state is:(3,1,0)
+the draw current mood   state is:0
+
+The sporadic experience List is:
+(4,1,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+
+Enter the connected procedure process
+sporadicAction is:4
+
+11111111111111111111111111111111111111111111111111
+observer is:(0,0,0)
+The state of the environment is:  left:false  right:true
+the intendtedExperience  is:(0,0,0)
+the enactedExperiencePre is:(0,0,0)
+The Current Count Number is:24
+enter the same result function
+
+444444444444444444444444444444444444444444444444444444444444444444
+the intendedExperience  is:(4,1,0)
+the enactedExperienceSpo is :(4,0,0)
+The Current Count Number is:25
+
+555555555555555555555555555555555555555555555555555555555555555555555555
+the intendedExperience is:(0,0,0)
+the enactedExperiencePos is:(0,0,0)
+The Current Count Number is:26
+
+11111111111111111111111111111111111111111111111111
+observer is:(3,0,0)
+The state of the environment is:  left:false  right:false
+the intendtedExperience  is:(3,0,0)
+the enactedExperiencePre is:(3,0,0)
+The Current Count Number is:27
+enter the same result function
+
+444444444444444444444444444444444444444444444444444444444444444444
+the intendedExperience  is:(4,1,0)
+the enactedExperienceSpo is :(4,1,0)
+The Current Count Number is:28
+
+555555555555555555555555555555555555555555555555555555555555555555555555
+the intendedExperience is:(3,0,0)
+the enactedExperiencePos is:(3,1,0)
+The Current Count Number is:29
+enter the function if(observerResultPos != observer.result)
+
+11111111111111111111111111111111111111111111111111
+observer is:(3,1,0)
+The state of the environment is:  left:false  right:true
+the intendtedExperience  is:(3,1,0)
+the enactedExperiencePre is:(3,1,0)
+The Current Count Number is:30
+enter the same result function
+
+444444444444444444444444444444444444444444444444444444444444444444
+the intendedExperience  is:(4,1,0)
+the enactedExperienceSpo is :(4,0,0)
+The Current Count Number is:31
+
+555555555555555555555555555555555555555555555555555555555555555555555555
+the intendedExperience is:(3,1,0)
+the enactedExperiencePos is:(3,0,0)
+The Current Count Number is:32
+enter the function if(observerResultPos != observer.result)
+isChanged is:true
+
+This EnactedExperience is already Marked ! mark is: 2
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:2
+(0,1,0) Marked:0
+(2,0,0) Marked:0
+(2,1,0) Marked:0
+(2,2,0) Marked:0
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:0
+(1,1,0) Marked:0
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:(3,0,0)
+The updated mood is:0
+
+The currentBeliefState numberOfTriedMap
+(4,1,0) number:1
+(2,2,10) number:0
+(3,0,0) number:0
+(0,0,0) number:0
+(3,1,0) number:0
+(1,1,0) number:0
+(2,1,0) number:0
+(1,0,0) number:0
+(4,0,0) number:0
+(0,1,0) number:0
+(2,0,0) number:0
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+The state of the environment is:  left:false  right:false
+
+---------------------------------------------------------
+The Current Count Number is:33
+the BeliefState is:(3,0,0)
+the Mood  State is:0
+get the intendedexperience from function leasTriedExperience
+the IntendedExperience is:(2,2,10)
+the EnactedExperience  is:(2,0,0)
+The current score is:0
+updated the triedNumber Experience
+get the markedState from the map that shows this enactedExperience marked state is: 0
+the draw current belief state is:unknown
+the draw current mood   state is:2
+
+The sporadic experience List is:
+(4,1,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+isChanged is:false
+
+This EnactedExperience Marked is: 0
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:2
+(0,1,0) Marked:0
+(2,0,0) Marked:0
+(2,1,0) Marked:0
+(2,2,0) Marked:0
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:0
+(1,1,0) Marked:0
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:unknown
+The updated mood is:2
+
+The currentBeliefState numberOfTriedMap
+(1,0,0) number:0
+(0,0,0) number:6
+(3,1,0) number:5
+(4,0,0) number:0
+(4,1,0) number:1
+(2,0,0) number:0
+(2,1,0) number:0
+(2,2,10) number:0
+(0,1,0) number:0
+(3,0,0) number:5
+(1,1,0) number:0
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+The state of the environment is:  left:false  right:false
+
+---------------------------------------------------------
+The Current Count Number is:34
+the BeliefState is:unknown
+the Mood  State is:2
+the IntendedExperience is:(2,0,0)
+the EnactedExperience  is:(2,0,0)
+The current score is:0
+updated the triedNumber Experience
+get the markedState from the map that shows this enactedExperience marked state is: 0
+the draw current belief state is:unknown
+the draw current mood   state is:2
+
+The sporadic experience List is:
+(4,1,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+isChanged is:false
+
+This EnactedExperience Marked is: 0
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:2
+(0,1,0) Marked:0
+(2,0,0) Marked:0
+(2,1,0) Marked:0
+(2,2,0) Marked:0
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:0
+(1,1,0) Marked:0
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:unknown
+The updated mood is:2
+
+The currentBeliefState numberOfTriedMap
+(1,0,0) number:0
+(0,0,0) number:6
+(3,1,0) number:5
+(4,0,0) number:0
+(4,1,0) number:1
+(2,0,0) number:1
+(2,1,0) number:0
+(2,2,10) number:0
+(0,1,0) number:0
+(3,0,0) number:5
+(1,1,0) number:0
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+The state of the environment is:  left:false  right:false
+
+---------------------------------------------------------
+The Current Count Number is:35
+the BeliefState is:unknown
+the Mood  State is:2
+the IntendedExperience is:(2,0,0)
+the EnactedExperience  is:(2,0,0)
+The current score is:0
+updated the triedNumber Experience
+get the markedState from the map that shows this enactedExperience marked state is: 0
+the draw current belief state is:unknown
+the draw current mood   state is:2
+
+The sporadic experience List is:
+(4,1,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+isChanged is:false
+
+This EnactedExperience Marked is: 0
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:2
+(0,1,0) Marked:0
+(2,0,0) Marked:0
+(2,1,0) Marked:0
+(2,2,0) Marked:0
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:0
+(1,1,0) Marked:0
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:unknown
+The updated mood is:2
+
+The currentBeliefState numberOfTriedMap
+(1,0,0) number:0
+(0,0,0) number:6
+(3,1,0) number:5
+(4,0,0) number:0
+(4,1,0) number:1
+(2,0,0) number:2
+(2,1,0) number:0
+(2,2,10) number:0
+(0,1,0) number:0
+(3,0,0) number:5
+(1,1,0) number:0
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+The state of the environment is:  left:false  right:false
+
+---------------------------------------------------------
+The Current Count Number is:36
+the BeliefState is:unknown
+the Mood  State is:2
+the IntendedExperience is:(2,0,0)
+the EnactedExperience  is:(2,0,0)
+The current score is:0
+updated the triedNumber Experience
+get the markedState from the map that shows this enactedExperience marked state is: 0
+the draw current belief state is:unknown
+the draw current mood   state is:2
+
+The sporadic experience List is:
+(4,1,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+isChanged is:false
+
+This EnactedExperience Marked is: 0
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:2
+(0,1,0) Marked:0
+(2,0,0) Marked:0
+(2,1,0) Marked:0
+(2,2,0) Marked:0
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:0
+(1,1,0) Marked:0
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:unknown
+The updated mood is:2
+
+The currentBeliefState numberOfTriedMap
+(1,0,0) number:0
+(0,0,0) number:6
+(3,1,0) number:5
+(4,0,0) number:0
+(4,1,0) number:1
+(2,0,0) number:3
+(2,1,0) number:0
+(2,2,10) number:0
+(0,1,0) number:0
+(3,0,0) number:5
+(1,1,0) number:0
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+The state of the environment is:  left:false  right:false
+
+---------------------------------------------------------
+The Current Count Number is:37
+the BeliefState is:unknown
+the Mood  State is:2
+the IntendedExperience is:(2,0,0)
+the EnactedExperience  is:(2,0,0)
+The current score is:0
+updated the triedNumber Experience
+get the markedState from the map that shows this enactedExperience marked state is: 0
+the draw current belief state is:unknown
+the draw current mood   state is:2
+
+The sporadic experience List is:
+(4,1,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+isChanged is:false
+
+This EnactedExperience Marked is: 0
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:2
+(0,1,0) Marked:0
+(2,0,0) Marked:0
+(2,1,0) Marked:0
+(2,2,0) Marked:0
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:0
+(1,1,0) Marked:0
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:unknown
+The updated mood is:2
+
+The currentBeliefState numberOfTriedMap
+(1,0,0) number:0
+(0,0,0) number:6
+(3,1,0) number:5
+(4,0,0) number:0
+(4,1,0) number:1
+(2,0,0) number:4
+(2,1,0) number:0
+(2,2,10) number:0
+(0,1,0) number:0
+(3,0,0) number:5
+(1,1,0) number:0
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+The state of the environment is:  left:false  right:false
+
+---------------------------------------------------------
+The Current Count Number is:38
+the BeliefState is:unknown
+the Mood  State is:2
+the IntendedExperience is:(2,0,0)
+the EnactedExperience  is:(2,0,0)
+The current score is:0
+updated the triedNumber Experience
+the intended experience is persistent and update the experienceMarkedMap
+the  enacted Experience is already marked and the mark is:2
+the draw current belief state is:(2,0,0)
+the draw current mood   state is:0
+
+The sporadic experience List is:
+(4,1,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+
+Enter the connected procedure process
+sporadicAction is:4
+
+11111111111111111111111111111111111111111111111111
+observer is:(0,0,0)
+The state of the environment is:  left:false  right:false
+the intendtedExperience  is:(0,0,0)
+the enactedExperiencePre is:(0,0,0)
+The Current Count Number is:39
+enter the same result function
+
+444444444444444444444444444444444444444444444444444444444444444444
+the intendedExperience  is:(4,1,0)
+the enactedExperienceSpo is :(4,1,0)
+The Current Count Number is:40
+
+555555555555555555555555555555555555555555555555555555555555555555555555
+the intendedExperience is:(0,0,0)
+the enactedExperiencePos is:(0,0,0)
+The Current Count Number is:41
+
+11111111111111111111111111111111111111111111111111
+observer is:(3,0,0)
+The state of the environment is:  left:false  right:true
+the intendtedExperience  is:(3,0,0)
+the enactedExperiencePre is:(3,1,0)
+The Current Count Number is:42
+enter the function if(observerResultPre != observer.result)
+
+22222222222222222222222222222222222222222222222222222222
+the intendtedExperience  is:(4,1,0)
+the enactedExperienceSpo is :(4,0,0)
+The Current Count Number is:43
+
+33333333333333333333333333333333333333333333333333333333333333
+the intendedExperience is:(3,0,0)
+the enactedExperiencePos is :(3,0,0)
+The Current Count Number is:44
+
+11111111111111111111111111111111111111111111111111
+observer is:(3,1,0)
+The state of the environment is:  left:false  right:false
+the intendtedExperience  is:(3,1,0)
+the enactedExperiencePre is:(3,0,0)
+The Current Count Number is:45
+enter the function if(observerResultPre != observer.result)
+
+22222222222222222222222222222222222222222222222222222222
+the intendtedExperience  is:(4,1,0)
+the enactedExperienceSpo is :(4,1,0)
+The Current Count Number is:46
+
+33333333333333333333333333333333333333333333333333333333333333
+the intendedExperience is:(3,1,0)
+the enactedExperiencePos is :(3,1,0)
+The Current Count Number is:47
+
+11111111111111111111111111111111111111111111111111
+observer is:(2,0,0)
+The state of the environment is:  left:false  right:true
+the intendtedExperience  is:(2,0,0)
+the enactedExperiencePre is:(2,1,0)
+The Current Count Number is:48
+enter the function if(observerResultPre != observer.result)
+persistentMark is 0, so the agent need to check the mark of this enactedExperience
+isChanged is:false
+
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:2
+(0,1,0) Marked:0
+(2,0,0) Marked:2
+(2,1,0) Marked:0
+(2,2,0) Marked:0
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:0
+(1,1,0) Marked:0
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:unknown
+The updated mood is:2
+
+The currentBeliefState numberOfTriedMap
+(1,0,0) number:0
+(0,0,0) number:6
+(3,1,0) number:5
+(4,0,0) number:0
+(4,1,0) number:1
+(2,0,0) number:5
+(2,1,0) number:0
+(2,2,10) number:0
+(0,1,0) number:0
+(3,0,0) number:5
+(1,1,0) number:0
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+The state of the environment is:  left:false  right:true
+
+---------------------------------------------------------
+The Current Count Number is:49
+the BeliefState is:unknown
+the Mood  State is:2
+the IntendedExperience is:(2,1,0)
+the EnactedExperience  is:(2,1,0)
+The current score is:0
+updated the triedNumber Experience
+get the markedState from the map that shows this enactedExperience marked state is: 0
+the draw current belief state is:unknown
+the draw current mood   state is:2
+
+The sporadic experience List is:
+(4,1,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+isChanged is:false
+
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:2
+(0,1,0) Marked:0
+(2,0,0) Marked:2
+(2,1,0) Marked:0
+(2,2,0) Marked:0
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:0
+(1,1,0) Marked:0
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:unknown
+The updated mood is:2
+
+The currentBeliefState numberOfTriedMap
+(1,0,0) number:0
+(0,0,0) number:6
+(3,1,0) number:5
+(4,0,0) number:0
+(4,1,0) number:1
+(2,0,0) number:5
+(2,1,0) number:1
+(2,2,10) number:0
+(0,1,0) number:0
+(3,0,0) number:5
+(1,1,0) number:0
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+The state of the environment is:  left:false  right:true
+
+---------------------------------------------------------
+The Current Count Number is:50
+the BeliefState is:unknown
+the Mood  State is:2
+the IntendedExperience is:(2,1,0)
+the EnactedExperience  is:(2,1,0)
+The current score is:0
+updated the triedNumber Experience
+get the markedState from the map that shows this enactedExperience marked state is: 0
+the draw current belief state is:unknown
+the draw current mood   state is:2
+
+The sporadic experience List is:
+(4,1,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+isChanged is:false
+
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:2
+(0,1,0) Marked:0
+(2,0,0) Marked:2
+(2,1,0) Marked:0
+(2,2,0) Marked:0
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:0
+(1,1,0) Marked:0
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:unknown
+The updated mood is:2
+
+The currentBeliefState numberOfTriedMap
+(1,0,0) number:0
+(0,0,0) number:6
+(3,1,0) number:5
+(4,0,0) number:0
+(4,1,0) number:1
+(2,0,0) number:5
+(2,1,0) number:2
+(2,2,10) number:0
+(0,1,0) number:0
+(3,0,0) number:5
+(1,1,0) number:0
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+The state of the environment is:  left:false  right:true
+
+---------------------------------------------------------
+The Current Count Number is:51
+the BeliefState is:unknown
+the Mood  State is:2
+the IntendedExperience is:(2,1,0)
+the EnactedExperience  is:(2,1,0)
+The current score is:0
+updated the triedNumber Experience
+get the markedState from the map that shows this enactedExperience marked state is: 0
+the draw current belief state is:unknown
+the draw current mood   state is:2
+
+The sporadic experience List is:
+(4,1,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+isChanged is:false
+
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:2
+(0,1,0) Marked:0
+(2,0,0) Marked:2
+(2,1,0) Marked:0
+(2,2,0) Marked:0
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:0
+(1,1,0) Marked:0
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:unknown
+The updated mood is:2
+
+The currentBeliefState numberOfTriedMap
+(1,0,0) number:0
+(0,0,0) number:6
+(3,1,0) number:5
+(4,0,0) number:0
+(4,1,0) number:1
+(2,0,0) number:5
+(2,1,0) number:3
+(2,2,10) number:0
+(0,1,0) number:0
+(3,0,0) number:5
+(1,1,0) number:0
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+The state of the environment is:  left:false  right:true
+
+---------------------------------------------------------
+The Current Count Number is:52
+the BeliefState is:unknown
+the Mood  State is:2
+the IntendedExperience is:(2,1,0)
+the EnactedExperience  is:(2,1,0)
+The current score is:0
+updated the triedNumber Experience
+get the markedState from the map that shows this enactedExperience marked state is: 0
+the draw current belief state is:unknown
+the draw current mood   state is:2
+
+The sporadic experience List is:
+(4,1,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+isChanged is:false
+
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:2
+(0,1,0) Marked:0
+(2,0,0) Marked:2
+(2,1,0) Marked:0
+(2,2,0) Marked:0
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:0
+(1,1,0) Marked:0
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:unknown
+The updated mood is:2
+
+The currentBeliefState numberOfTriedMap
+(1,0,0) number:0
+(0,0,0) number:6
+(3,1,0) number:5
+(4,0,0) number:0
+(4,1,0) number:1
+(2,0,0) number:5
+(2,1,0) number:4
+(2,2,10) number:0
+(0,1,0) number:0
+(3,0,0) number:5
+(1,1,0) number:0
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+The state of the environment is:  left:false  right:true
+
+---------------------------------------------------------
+The Current Count Number is:53
+the BeliefState is:unknown
+the Mood  State is:2
+the IntendedExperience is:(2,1,0)
+the EnactedExperience  is:(2,1,0)
+The current score is:0
+updated the triedNumber Experience
+the intended experience is persistent and update the experienceMarkedMap
+the  enacted Experience is already marked and the mark is:2
+the draw current belief state is:(2,1,0)
+the draw current mood   state is:0
+
+The sporadic experience List is:
+(4,1,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+(2,1,0)
+
+Enter the connected procedure process
+sporadicAction is:4
+
+11111111111111111111111111111111111111111111111111
+observer is:(0,0,0)
+The state of the environment is:  left:false  right:true
+the intendtedExperience  is:(0,0,0)
+the enactedExperiencePre is:(0,0,0)
+The Current Count Number is:54
+enter the same result function
+
+444444444444444444444444444444444444444444444444444444444444444444
+the intendedExperience  is:(4,1,0)
+the enactedExperienceSpo is :(4,0,0)
+The Current Count Number is:55
+
+555555555555555555555555555555555555555555555555555555555555555555555555
+the intendedExperience is:(0,0,0)
+the enactedExperiencePos is:(0,0,0)
+The Current Count Number is:56
+
+11111111111111111111111111111111111111111111111111
+observer is:(3,0,0)
+The state of the environment is:  left:false  right:false
+the intendtedExperience  is:(3,0,0)
+the enactedExperiencePre is:(3,0,0)
+The Current Count Number is:57
+enter the same result function
+
+444444444444444444444444444444444444444444444444444444444444444444
+the intendedExperience  is:(4,1,0)
+the enactedExperienceSpo is :(4,1,0)
+The Current Count Number is:58
+
+555555555555555555555555555555555555555555555555555555555555555555555555
+the intendedExperience is:(3,0,0)
+the enactedExperiencePos is:(3,1,0)
+The Current Count Number is:59
+enter the function if(observerResultPos != observer.result)
+
+11111111111111111111111111111111111111111111111111
+observer is:(3,1,0)
+The state of the environment is:  left:false  right:true
+the intendtedExperience  is:(3,1,0)
+the enactedExperiencePre is:(3,1,0)
+The Current Count Number is:60
+enter the same result function
+
+444444444444444444444444444444444444444444444444444444444444444444
+the intendedExperience  is:(4,1,0)
+the enactedExperienceSpo is :(4,0,0)
+The Current Count Number is:61
+
+555555555555555555555555555555555555555555555555555555555555555555555555
+the intendedExperience is:(3,1,0)
+the enactedExperiencePos is:(3,0,0)
+The Current Count Number is:62
+enter the function if(observerResultPos != observer.result)
+
+11111111111111111111111111111111111111111111111111
+observer is:(2,0,0)
+The state of the environment is:  left:false  right:false
+the intendtedExperience  is:(2,0,0)
+the enactedExperiencePre is:(2,0,0)
+The Current Count Number is:63
+enter the same result function
+
+444444444444444444444444444444444444444444444444444444444444444444
+the intendedExperience  is:(4,1,0)
+the enactedExperienceSpo is :(4,1,0)
+The Current Count Number is:64
+
+555555555555555555555555555555555555555555555555555555555555555555555555
+the intendedExperience is:(2,0,0)
+the enactedExperiencePos is:(2,1,0)
+The Current Count Number is:65
+enter the function if(observerResultPos != observer.result)
+
+11111111111111111111111111111111111111111111111111
+observer is:(2,1,0)
+The state of the environment is:  left:false  right:true
+the intendtedExperience  is:(2,1,0)
+the enactedExperiencePre is:(2,1,0)
+The Current Count Number is:66
+enter the same result function
+
+444444444444444444444444444444444444444444444444444444444444444444
+the intendedExperience  is:(4,1,0)
+the enactedExperienceSpo is :(4,0,0)
+The Current Count Number is:67
+
+555555555555555555555555555555555555555555555555555555555555555555555555
+the intendedExperience is:(2,1,0)
+the enactedExperiencePos is:(2,0,0)
+The Current Count Number is:68
+enter the function if(observerResultPos != observer.result)
+isChanged is:true
+
+This EnactedExperience is already Marked ! mark is: 2
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:2
+(0,1,0) Marked:0
+(2,0,0) Marked:2
+(2,1,0) Marked:2
+(2,2,0) Marked:0
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:0
+(1,1,0) Marked:0
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:(2,0,0)
+The updated mood is:0
+
+The currentBeliefState numberOfTriedMap
+(2,0,0) number:0
+(2,1,0) number:0
+(1,0,0) number:0
+(0,0,0) number:0
+(2,2,10) number:0
+(4,1,0) number:0
+(1,1,0) number:0
+(3,0,0) number:0
+(3,1,0) number:0
+(0,1,0) number:0
+(4,0,0) number:0
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+[(2,0,0), (4,1,0), (2,1,0)]
+[(2,1,0), (4,0,0), (2,0,0)]
+The state of the environment is:  left:false  right:false
+
+---------------------------------------------------------
+The Current Count Number is:69
+the BeliefState is:(2,0,0)
+the Mood  State is:0
+get the intendedexperience from function leasTriedExperience
+the IntendedExperience is:(2,0,0)
+the EnactedExperience  is:(2,0,0)
+The current score is:0
+updated the triedNumber Experience
+the  enacted Experience is already marked and the mark is:2
+the draw current belief state is:(2,0,0)
+the draw current mood   state is:0
+
+The sporadic experience List is:
+(4,1,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+(2,1,0)
+isChanged is:false
+
+This EnactedExperience is already Marked ! mark is: 2
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:2
+(0,1,0) Marked:0
+(2,0,0) Marked:2
+(2,1,0) Marked:2
+(2,2,0) Marked:0
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:0
+(1,1,0) Marked:0
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:(2,0,0)
+The updated mood is:0
+
+The currentBeliefState numberOfTriedMap
+(2,0,0) number:1
+(2,1,0) number:0
+(1,0,0) number:0
+(0,0,0) number:0
+(2,2,10) number:0
+(4,1,0) number:0
+(1,1,0) number:0
+(3,0,0) number:0
+(3,1,0) number:0
+(0,1,0) number:0
+(4,0,0) number:0
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+[(2,0,0), (4,1,0), (2,1,0)]
+[(2,1,0), (4,0,0), (2,0,0)]
+The state of the environment is:  left:false  right:false
+
+---------------------------------------------------------
+The Current Count Number is:70
+the BeliefState is:(2,0,0)
+the Mood  State is:0
+get the intendedexperience from function leasTriedExperience
+the IntendedExperience is:(2,1,0)
+the EnactedExperience  is:(2,0,0)
+The current score is:0
+updated the triedNumber Experience
+the  enacted Experience is already marked and the mark is:2
+the draw current belief state is:(2,0,0)
+the draw current mood   state is:0
+
+The sporadic experience List is:
+(4,1,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+(2,1,0)
+isChanged is:false
+
+This EnactedExperience is already Marked ! mark is: 2
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:2
+(0,1,0) Marked:0
+(2,0,0) Marked:2
+(2,1,0) Marked:2
+(2,2,0) Marked:0
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:0
+(1,1,0) Marked:0
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:(2,0,0)
+The updated mood is:0
+
+The currentBeliefState numberOfTriedMap
+(2,0,0) number:1
+(2,1,0) number:1
+(1,0,0) number:0
+(0,0,0) number:0
+(2,2,10) number:0
+(4,1,0) number:0
+(1,1,0) number:0
+(3,0,0) number:0
+(3,1,0) number:0
+(0,1,0) number:0
+(4,0,0) number:0
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+[(2,0,0), (4,1,0), (2,1,0)]
+[(2,1,0), (4,0,0), (2,0,0)]
+The state of the environment is:  left:false  right:false
+
+---------------------------------------------------------
+The Current Count Number is:71
+the BeliefState is:(2,0,0)
+the Mood  State is:0
+get the intendedexperience from function leasTriedExperience
+the IntendedExperience is:(1,0,0)
+the EnactedExperience  is:(1,1,0)
+The current score is:0
+updated the triedNumber Experience
+get the markedState from the map that shows this enactedExperience marked state is: 0
+the draw current belief state is:unknown
+the draw current mood   state is:2
+
+The sporadic experience List is:
+(4,1,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+(2,1,0)
+isChanged is:false
+
+This EnactedExperience Marked is: 0
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:2
+(0,1,0) Marked:0
+(2,0,0) Marked:2
+(2,1,0) Marked:2
+(2,2,0) Marked:0
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:0
+(1,1,0) Marked:0
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:unknown
+The updated mood is:2
+
+The currentBeliefState numberOfTriedMap
+(1,0,0) number:0
+(0,0,0) number:6
+(3,1,0) number:5
+(4,0,0) number:0
+(4,1,0) number:1
+(2,0,0) number:5
+(2,1,0) number:5
+(2,2,10) number:0
+(0,1,0) number:0
+(3,0,0) number:5
+(1,1,0) number:0
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+[(2,0,0), (4,1,0), (2,1,0)]
+[(2,1,0), (4,0,0), (2,0,0)]
+The state of the environment is:  left:true  right:false
+
+---------------------------------------------------------
+The Current Count Number is:72
+the BeliefState is:unknown
+the Mood  State is:2
+the IntendedExperience is:(1,1,0)
+the EnactedExperience  is:(1,0,0)
+The current score is:0
+updated the triedNumber Experience
+the intended experience is sporadic and update the experienceMarkedMap
+add the sporadicExperience into the sporadicExperienceList
+get the markedState from the map that shows this enactedExperience marked state is: 0
+the draw current belief state is:unknown
+the draw current mood   state is:2
+
+The sporadic experience List is:
+(4,1,0)
+(1,1,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+(2,1,0)
+
+Enter the connected procedure process
+sporadicAction is:4
+
+11111111111111111111111111111111111111111111111111
+observer is:(0,0,0)
+The state of the environment is:  left:false  right:false
+the intendtedExperience  is:(0,0,0)
+the enactedExperiencePre is:(0,0,0)
+The Current Count Number is:73
+enter the same result function
+
+444444444444444444444444444444444444444444444444444444444444444444
+the intendedExperience  is:(4,1,0)
+the enactedExperienceSpo is :(4,1,0)
+The Current Count Number is:74
+
+555555555555555555555555555555555555555555555555555555555555555555555555
+the intendedExperience is:(0,0,0)
+the enactedExperiencePos is:(0,0,0)
+The Current Count Number is:75
+
+11111111111111111111111111111111111111111111111111
+observer is:(3,0,0)
+The state of the environment is:  left:false  right:true
+the intendtedExperience  is:(3,0,0)
+the enactedExperiencePre is:(3,1,0)
+The Current Count Number is:76
+enter the function if(observerResultPre != observer.result)
+
+22222222222222222222222222222222222222222222222222222222
+the intendtedExperience  is:(4,1,0)
+the enactedExperienceSpo is :(4,0,0)
+The Current Count Number is:77
+
+33333333333333333333333333333333333333333333333333333333333333
+the intendedExperience is:(3,0,0)
+the enactedExperiencePos is :(3,0,0)
+The Current Count Number is:78
+
+11111111111111111111111111111111111111111111111111
+observer is:(3,1,0)
+The state of the environment is:  left:false  right:false
+the intendtedExperience  is:(3,1,0)
+the enactedExperiencePre is:(3,0,0)
+The Current Count Number is:79
+enter the function if(observerResultPre != observer.result)
+
+22222222222222222222222222222222222222222222222222222222
+the intendtedExperience  is:(4,1,0)
+the enactedExperienceSpo is :(4,1,0)
+The Current Count Number is:80
+
+33333333333333333333333333333333333333333333333333333333333333
+the intendedExperience is:(3,1,0)
+the enactedExperiencePos is :(3,1,0)
+The Current Count Number is:81
+
+11111111111111111111111111111111111111111111111111
+observer is:(2,0,0)
+The state of the environment is:  left:false  right:true
+the intendtedExperience  is:(2,0,0)
+the enactedExperiencePre is:(2,1,0)
+The Current Count Number is:82
+enter the function if(observerResultPre != observer.result)
+
+22222222222222222222222222222222222222222222222222222222
+the intendtedExperience  is:(4,1,0)
+the enactedExperienceSpo is :(4,0,0)
+The Current Count Number is:83
+
+33333333333333333333333333333333333333333333333333333333333333
+the intendedExperience is:(2,0,0)
+the enactedExperiencePos is :(2,0,0)
+The Current Count Number is:84
+
+11111111111111111111111111111111111111111111111111
+observer is:(2,1,0)
+The state of the environment is:  left:false  right:false
+the intendtedExperience  is:(2,1,0)
+the enactedExperiencePre is:(2,0,0)
+The Current Count Number is:85
+enter the function if(observerResultPre != observer.result)
+
+22222222222222222222222222222222222222222222222222222222
+the intendtedExperience  is:(4,1,0)
+the enactedExperienceSpo is :(4,1,0)
+The Current Count Number is:86
+
+33333333333333333333333333333333333333333333333333333333333333
+the intendedExperience is:(2,1,0)
+the enactedExperiencePos is :(2,1,0)
+The Current Count Number is:87
+sporadicAction is:1
+
+11111111111111111111111111111111111111111111111111
+observer is:(0,0,0)
+The state of the environment is:  left:false  right:true
+the intendtedExperience  is:(0,0,0)
+the enactedExperiencePre is:(0,0,0)
+The Current Count Number is:88
+enter the same result function
+
+444444444444444444444444444444444444444444444444444444444444444444
+the intendedExperience  is:(1,1,0)
+the enactedExperienceSpo is :(1,1,0)
+The Current Count Number is:89
+
+555555555555555555555555555555555555555555555555555555555555555555555555
+the intendedExperience is:(0,0,0)
+the enactedExperiencePos is:(0,1,0)
+The Current Count Number is:90
+enter the function if(observerResultPos != observer.result)
+persistentMark is 0, so the agent need to check the mark of this enactedExperience
+isChanged is:false
+
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:2
+(0,1,0) Marked:0
+(2,0,0) Marked:2
+(2,1,0) Marked:2
+(2,2,0) Marked:0
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:0
+(1,1,0) Marked:1
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:unknown
+The updated mood is:2
+
+The currentBeliefState numberOfTriedMap
+(1,0,0) number:0
+(0,0,0) number:6
+(3,1,0) number:5
+(4,0,0) number:0
+(4,1,0) number:1
+(2,0,0) number:5
+(2,1,0) number:5
+(2,2,10) number:0
+(0,1,0) number:0
+(3,0,0) number:5
+(1,1,0) number:1
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+[(2,0,0), (4,1,0), (2,1,0)]
+[(2,1,0), (4,0,0), (2,0,0)]
+The state of the environment is:  left:true  right:true
+
+---------------------------------------------------------
+The Current Count Number is:91
+the BeliefState is:unknown
+the Mood  State is:2
+the IntendedExperience is:(0,1,0)
+the EnactedExperience  is:(0,1,0)
+The current score is:0
+updated the triedNumber Experience
+get the markedState from the map that shows this enactedExperience marked state is: 0
+the draw current belief state is:unknown
+the draw current mood   state is:2
+
+The sporadic experience List is:
+(4,1,0)
+(1,1,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+(2,1,0)
+isChanged is:false
+
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:2
+(0,1,0) Marked:0
+(2,0,0) Marked:2
+(2,1,0) Marked:2
+(2,2,0) Marked:0
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:0
+(1,1,0) Marked:1
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:unknown
+The updated mood is:2
+
+The currentBeliefState numberOfTriedMap
+(1,0,0) number:0
+(0,0,0) number:6
+(3,1,0) number:5
+(4,0,0) number:0
+(4,1,0) number:1
+(2,0,0) number:5
+(2,1,0) number:5
+(2,2,10) number:0
+(0,1,0) number:1
+(3,0,0) number:5
+(1,1,0) number:1
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+[(2,0,0), (4,1,0), (2,1,0)]
+[(2,1,0), (4,0,0), (2,0,0)]
+The state of the environment is:  left:true  right:true
+
+---------------------------------------------------------
+The Current Count Number is:92
+the BeliefState is:unknown
+the Mood  State is:2
+the IntendedExperience is:(0,1,0)
+the EnactedExperience  is:(0,1,0)
+The current score is:0
+updated the triedNumber Experience
+get the markedState from the map that shows this enactedExperience marked state is: 0
+the draw current belief state is:unknown
+the draw current mood   state is:2
+
+The sporadic experience List is:
+(4,1,0)
+(1,1,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+(2,1,0)
+isChanged is:false
+
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:2
+(0,1,0) Marked:0
+(2,0,0) Marked:2
+(2,1,0) Marked:2
+(2,2,0) Marked:0
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:0
+(1,1,0) Marked:1
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:unknown
+The updated mood is:2
+
+The currentBeliefState numberOfTriedMap
+(1,0,0) number:0
+(0,0,0) number:6
+(3,1,0) number:5
+(4,0,0) number:0
+(4,1,0) number:1
+(2,0,0) number:5
+(2,1,0) number:5
+(2,2,10) number:0
+(0,1,0) number:2
+(3,0,0) number:5
+(1,1,0) number:1
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+[(2,0,0), (4,1,0), (2,1,0)]
+[(2,1,0), (4,0,0), (2,0,0)]
+The state of the environment is:  left:true  right:true
+
+---------------------------------------------------------
+The Current Count Number is:93
+the BeliefState is:unknown
+the Mood  State is:2
+the IntendedExperience is:(0,1,0)
+the EnactedExperience  is:(0,1,0)
+The current score is:0
+updated the triedNumber Experience
+get the markedState from the map that shows this enactedExperience marked state is: 0
+the draw current belief state is:unknown
+the draw current mood   state is:2
+
+The sporadic experience List is:
+(4,1,0)
+(1,1,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+(2,1,0)
+isChanged is:false
+
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:2
+(0,1,0) Marked:0
+(2,0,0) Marked:2
+(2,1,0) Marked:2
+(2,2,0) Marked:0
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:0
+(1,1,0) Marked:1
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:unknown
+The updated mood is:2
+
+The currentBeliefState numberOfTriedMap
+(1,0,0) number:0
+(0,0,0) number:6
+(3,1,0) number:5
+(4,0,0) number:0
+(4,1,0) number:1
+(2,0,0) number:5
+(2,1,0) number:5
+(2,2,10) number:0
+(0,1,0) number:3
+(3,0,0) number:5
+(1,1,0) number:1
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+[(2,0,0), (4,1,0), (2,1,0)]
+[(2,1,0), (4,0,0), (2,0,0)]
+The state of the environment is:  left:true  right:true
+
+---------------------------------------------------------
+The Current Count Number is:94
+the BeliefState is:unknown
+the Mood  State is:2
+the IntendedExperience is:(0,1,0)
+the EnactedExperience  is:(0,1,0)
+The current score is:0
+updated the triedNumber Experience
+get the markedState from the map that shows this enactedExperience marked state is: 0
+the draw current belief state is:unknown
+the draw current mood   state is:2
+
+The sporadic experience List is:
+(4,1,0)
+(1,1,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+(2,1,0)
+isChanged is:false
+
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:2
+(0,1,0) Marked:0
+(2,0,0) Marked:2
+(2,1,0) Marked:2
+(2,2,0) Marked:0
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:0
+(1,1,0) Marked:1
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:unknown
+The updated mood is:2
+
+The currentBeliefState numberOfTriedMap
+(1,0,0) number:0
+(0,0,0) number:6
+(3,1,0) number:5
+(4,0,0) number:0
+(4,1,0) number:1
+(2,0,0) number:5
+(2,1,0) number:5
+(2,2,10) number:0
+(0,1,0) number:4
+(3,0,0) number:5
+(1,1,0) number:1
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+[(2,0,0), (4,1,0), (2,1,0)]
+[(2,1,0), (4,0,0), (2,0,0)]
+The state of the environment is:  left:true  right:true
+
+---------------------------------------------------------
+The Current Count Number is:95
+the BeliefState is:unknown
+the Mood  State is:2
+the IntendedExperience is:(0,1,0)
+the EnactedExperience  is:(0,1,0)
+The current score is:0
+updated the triedNumber Experience
+the intended experience is persistent and update the experienceMarkedMap
+the  enacted Experience is already marked and the mark is:2
+the draw current belief state is:(0,1,0)
+the draw current mood   state is:0
+
+The sporadic experience List is:
+(4,1,0)
+(1,1,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+(2,1,0)
+(0,1,0)
+
+Enter the connected procedure process
+sporadicAction is:4
+
+11111111111111111111111111111111111111111111111111
+observer is:(0,0,0)
+The state of the environment is:  left:true  right:true
+the intendtedExperience  is:(0,0,0)
+the enactedExperiencePre is:(0,1,0)
+The Current Count Number is:96
+enter the function if(observerResultPre != observer.result)
+
+22222222222222222222222222222222222222222222222222222222
+the intendtedExperience  is:(4,1,0)
+the enactedExperienceSpo is :(4,0,0)
+The Current Count Number is:97
+
+33333333333333333333333333333333333333333333333333333333333333
+the intendedExperience is:(0,0,0)
+the enactedExperiencePos is :(0,1,0)
+The Current Count Number is:98
+
+11111111111111111111111111111111111111111111111111
+observer is:(3,0,0)
+The state of the environment is:  left:true  right:false
+the intendtedExperience  is:(3,0,0)
+the enactedExperiencePre is:(3,0,0)
+The Current Count Number is:99
+enter the same result function
+
+444444444444444444444444444444444444444444444444444444444444444444
+the intendedExperience  is:(4,1,0)
+the enactedExperienceSpo is :(4,1,0)
+The Current Count Number is:100
+
+555555555555555555555555555555555555555555555555555555555555555555555555
+the intendedExperience is:(3,0,0)
+the enactedExperiencePos is:(3,1,0)
+The Current Count Number is:101
+enter the function if(observerResultPos != observer.result)
+
+11111111111111111111111111111111111111111111111111
+observer is:(3,1,0)
+The state of the environment is:  left:true  right:true
+the intendtedExperience  is:(3,1,0)
+the enactedExperiencePre is:(3,1,0)
+The Current Count Number is:102
+enter the same result function
+
+444444444444444444444444444444444444444444444444444444444444444444
+the intendedExperience  is:(4,1,0)
+the enactedExperienceSpo is :(4,0,0)
+The Current Count Number is:103
+
+555555555555555555555555555555555555555555555555555555555555555555555555
+the intendedExperience is:(3,1,0)
+the enactedExperiencePos is:(3,0,0)
+The Current Count Number is:104
+enter the function if(observerResultPos != observer.result)
+
+11111111111111111111111111111111111111111111111111
+observer is:(2,0,0)
+The state of the environment is:  left:true  right:false
+the intendtedExperience  is:(2,0,0)
+the enactedExperiencePre is:(2,1,0)
+The Current Count Number is:105
+enter the function if(observerResultPre != observer.result)
+
+22222222222222222222222222222222222222222222222222222222
+the intendtedExperience  is:(4,1,0)
+the enactedExperienceSpo is :(4,1,0)
+The Current Count Number is:106
+
+33333333333333333333333333333333333333333333333333333333333333
+the intendedExperience is:(2,0,0)
+the enactedExperiencePos is :(2,2,0)
+The Current Count Number is:107
+
+11111111111111111111111111111111111111111111111111
+observer is:(2,1,0)
+The state of the environment is:  left:true  right:true
+the intendtedExperience  is:(2,1,0)
+the enactedExperiencePre is:(2,2,0)
+The Current Count Number is:108
+enter the function if(observerResultPre != observer.result)
+persistentMark is 0, so the agent need to check the mark of this enactedExperience
+isChanged is:false
+
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:2
+(0,1,0) Marked:2
+(2,0,0) Marked:2
+(2,1,0) Marked:2
+(2,2,0) Marked:0
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:0
+(1,1,0) Marked:1
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:unknown
+The updated mood is:2
+
+The currentBeliefState numberOfTriedMap
+(1,0,0) number:0
+(0,0,0) number:6
+(3,1,0) number:5
+(4,0,0) number:0
+(4,1,0) number:1
+(2,0,0) number:5
+(2,1,0) number:5
+(2,2,10) number:0
+(0,1,0) number:5
+(3,0,0) number:5
+(1,1,0) number:1
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+[(2,0,0), (4,1,0), (2,1,0)]
+[(2,1,0), (4,0,0), (2,0,0)]
+The state of the environment is:  left:true  right:true
+
+---------------------------------------------------------
+The Current Count Number is:109
+the BeliefState is:unknown
+the Mood  State is:2
+the IntendedExperience is:(2,2,0)
+the EnactedExperience  is:(2,2,0)
+The current score is:0
+updated the triedNumber Experience
+get the markedState from the map that shows this enactedExperience marked state is: 0
+the draw current belief state is:unknown
+the draw current mood   state is:2
+
+The sporadic experience List is:
+(4,1,0)
+(1,1,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+(2,1,0)
+(0,1,0)
+isChanged is:false
+
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:2
+(0,1,0) Marked:2
+(2,0,0) Marked:2
+(2,1,0) Marked:2
+(2,2,0) Marked:0
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:0
+(1,1,0) Marked:1
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:unknown
+The updated mood is:2
+
+The currentBeliefState numberOfTriedMap
+(1,0,0) number:0
+(0,0,0) number:6
+(3,1,0) number:5
+(4,0,0) number:0
+(4,1,0) number:1
+(2,0,0) number:5
+(2,1,0) number:5
+(2,2,10) number:1
+(0,1,0) number:5
+(3,0,0) number:5
+(1,1,0) number:1
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+[(2,0,0), (4,1,0), (2,1,0)]
+[(2,1,0), (4,0,0), (2,0,0)]
+The state of the environment is:  left:true  right:true
+
+---------------------------------------------------------
+The Current Count Number is:110
+the BeliefState is:unknown
+the Mood  State is:2
+the IntendedExperience is:(2,2,0)
+the EnactedExperience  is:(2,2,0)
+The current score is:0
+updated the triedNumber Experience
+get the markedState from the map that shows this enactedExperience marked state is: 0
+the draw current belief state is:unknown
+the draw current mood   state is:2
+
+The sporadic experience List is:
+(4,1,0)
+(1,1,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+(2,1,0)
+(0,1,0)
+isChanged is:false
+
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:2
+(0,1,0) Marked:2
+(2,0,0) Marked:2
+(2,1,0) Marked:2
+(2,2,0) Marked:0
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:0
+(1,1,0) Marked:1
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:unknown
+The updated mood is:2
+
+The currentBeliefState numberOfTriedMap
+(1,0,0) number:0
+(0,0,0) number:6
+(3,1,0) number:5
+(4,0,0) number:0
+(4,1,0) number:1
+(2,0,0) number:5
+(2,1,0) number:5
+(2,2,10) number:2
+(0,1,0) number:5
+(3,0,0) number:5
+(1,1,0) number:1
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+[(2,0,0), (4,1,0), (2,1,0)]
+[(2,1,0), (4,0,0), (2,0,0)]
+The state of the environment is:  left:true  right:true
+
+---------------------------------------------------------
+The Current Count Number is:111
+the BeliefState is:unknown
+the Mood  State is:2
+the IntendedExperience is:(2,2,0)
+the EnactedExperience  is:(2,2,0)
+The current score is:0
+updated the triedNumber Experience
+get the markedState from the map that shows this enactedExperience marked state is: 0
+the draw current belief state is:unknown
+the draw current mood   state is:2
+
+The sporadic experience List is:
+(4,1,0)
+(1,1,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+(2,1,0)
+(0,1,0)
+isChanged is:false
+
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:2
+(0,1,0) Marked:2
+(2,0,0) Marked:2
+(2,1,0) Marked:2
+(2,2,0) Marked:0
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:0
+(1,1,0) Marked:1
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:unknown
+The updated mood is:2
+
+The currentBeliefState numberOfTriedMap
+(1,0,0) number:0
+(0,0,0) number:6
+(3,1,0) number:5
+(4,0,0) number:0
+(4,1,0) number:1
+(2,0,0) number:5
+(2,1,0) number:5
+(2,2,10) number:3
+(0,1,0) number:5
+(3,0,0) number:5
+(1,1,0) number:1
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+[(2,0,0), (4,1,0), (2,1,0)]
+[(2,1,0), (4,0,0), (2,0,0)]
+The state of the environment is:  left:true  right:true
+
+---------------------------------------------------------
+The Current Count Number is:112
+the BeliefState is:unknown
+the Mood  State is:2
+the IntendedExperience is:(2,2,0)
+the EnactedExperience  is:(2,2,0)
+The current score is:0
+updated the triedNumber Experience
+get the markedState from the map that shows this enactedExperience marked state is: 0
+the draw current belief state is:unknown
+the draw current mood   state is:2
+
+The sporadic experience List is:
+(4,1,0)
+(1,1,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+(2,1,0)
+(0,1,0)
+isChanged is:false
+
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:2
+(0,1,0) Marked:2
+(2,0,0) Marked:2
+(2,1,0) Marked:2
+(2,2,0) Marked:0
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:0
+(1,1,0) Marked:1
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:unknown
+The updated mood is:2
+
+The currentBeliefState numberOfTriedMap
+(1,0,0) number:0
+(0,0,0) number:6
+(3,1,0) number:5
+(4,0,0) number:0
+(4,1,0) number:1
+(2,0,0) number:5
+(2,1,0) number:5
+(2,2,10) number:4
+(0,1,0) number:5
+(3,0,0) number:5
+(1,1,0) number:1
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+[(2,0,0), (4,1,0), (2,1,0)]
+[(2,1,0), (4,0,0), (2,0,0)]
+The state of the environment is:  left:true  right:true
+
+---------------------------------------------------------
+The Current Count Number is:113
+the BeliefState is:unknown
+the Mood  State is:2
+the IntendedExperience is:(2,2,0)
+the EnactedExperience  is:(2,2,0)
+The current score is:0
+updated the triedNumber Experience
+the intended experience is persistent and update the experienceMarkedMap
+the  enacted Experience is already marked and the mark is:2
+the draw current belief state is:(2,2,0)
+the draw current mood   state is:0
+
+The sporadic experience List is:
+(4,1,0)
+(1,1,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+(2,1,0)
+(0,1,0)
+(2,2,0)
+
+Enter the connected procedure process
+sporadicAction is:4
+
+11111111111111111111111111111111111111111111111111
+observer is:(0,0,0)
+The state of the environment is:  left:true  right:true
+the intendtedExperience  is:(0,0,0)
+the enactedExperiencePre is:(0,1,0)
+The Current Count Number is:114
+enter the function if(observerResultPre != observer.result)
+
+22222222222222222222222222222222222222222222222222222222
+the intendtedExperience  is:(4,1,0)
+the enactedExperienceSpo is :(4,0,0)
+The Current Count Number is:115
+
+33333333333333333333333333333333333333333333333333333333333333
+the intendedExperience is:(0,0,0)
+the enactedExperiencePos is :(0,1,0)
+The Current Count Number is:116
+
+11111111111111111111111111111111111111111111111111
+observer is:(3,0,0)
+The state of the environment is:  left:true  right:false
+the intendtedExperience  is:(3,0,0)
+the enactedExperiencePre is:(3,0,0)
+The Current Count Number is:117
+enter the same result function
+
+444444444444444444444444444444444444444444444444444444444444444444
+the intendedExperience  is:(4,1,0)
+the enactedExperienceSpo is :(4,1,0)
+The Current Count Number is:118
+
+555555555555555555555555555555555555555555555555555555555555555555555555
+the intendedExperience is:(3,0,0)
+the enactedExperiencePos is:(3,1,0)
+The Current Count Number is:119
+enter the function if(observerResultPos != observer.result)
+
+11111111111111111111111111111111111111111111111111
+observer is:(3,1,0)
+The state of the environment is:  left:true  right:true
+the intendtedExperience  is:(3,1,0)
+the enactedExperiencePre is:(3,1,0)
+The Current Count Number is:120
+enter the same result function
+
+444444444444444444444444444444444444444444444444444444444444444444
+the intendedExperience  is:(4,1,0)
+the enactedExperienceSpo is :(4,0,0)
+The Current Count Number is:121
+
+555555555555555555555555555555555555555555555555555555555555555555555555
+the intendedExperience is:(3,1,0)
+the enactedExperiencePos is:(3,0,0)
+The Current Count Number is:122
+enter the function if(observerResultPos != observer.result)
+
+11111111111111111111111111111111111111111111111111
+observer is:(2,0,0)
+The state of the environment is:  left:true  right:false
+the intendtedExperience  is:(2,0,0)
+the enactedExperiencePre is:(2,1,0)
+The Current Count Number is:123
+enter the function if(observerResultPre != observer.result)
+
+22222222222222222222222222222222222222222222222222222222
+the intendtedExperience  is:(4,1,0)
+the enactedExperienceSpo is :(4,1,0)
+The Current Count Number is:124
+
+33333333333333333333333333333333333333333333333333333333333333
+the intendedExperience is:(2,0,0)
+the enactedExperiencePos is :(2,2,0)
+The Current Count Number is:125
+
+11111111111111111111111111111111111111111111111111
+observer is:(2,1,0)
+The state of the environment is:  left:true  right:true
+the intendtedExperience  is:(2,1,0)
+the enactedExperiencePre is:(2,2,0)
+The Current Count Number is:126
+enter the function if(observerResultPre != observer.result)
+
+22222222222222222222222222222222222222222222222222222222
+the intendtedExperience  is:(4,1,0)
+the enactedExperienceSpo is :(4,0,0)
+The Current Count Number is:127
+
+33333333333333333333333333333333333333333333333333333333333333
+the intendedExperience is:(2,1,0)
+the enactedExperiencePos is :(2,1,0)
+The Current Count Number is:128
+
+11111111111111111111111111111111111111111111111111
+observer is:(0,1,0)
+The state of the environment is:  left:true  right:false
+the intendtedExperience  is:(0,1,0)
+the enactedExperiencePre is:(0,1,0)
+The Current Count Number is:129
+enter the same result function
+
+444444444444444444444444444444444444444444444444444444444444444444
+the intendedExperience  is:(4,1,0)
+the enactedExperienceSpo is :(4,1,0)
+The Current Count Number is:130
+
+555555555555555555555555555555555555555555555555555555555555555555555555
+the intendedExperience is:(0,1,0)
+the enactedExperiencePos is:(0,1,0)
+The Current Count Number is:131
+
+11111111111111111111111111111111111111111111111111
+observer is:(2,2,0)
+The state of the environment is:  left:true  right:true
+the intendtedExperience  is:(2,2,0)
+the enactedExperiencePre is:(2,2,0)
+The Current Count Number is:132
+enter the same result function
+
+444444444444444444444444444444444444444444444444444444444444444444
+the intendedExperience  is:(4,1,0)
+the enactedExperienceSpo is :(4,0,0)
+The Current Count Number is:133
+
+555555555555555555555555555555555555555555555555555555555555555555555555
+the intendedExperience is:(2,2,0)
+the enactedExperiencePos is:(2,1,0)
+The Current Count Number is:134
+enter the function if(observerResultPos != observer.result)
+sporadicAction is:1
+
+11111111111111111111111111111111111111111111111111
+observer is:(0,0,0)
+The state of the environment is:  left:true  right:false
+the intendtedExperience  is:(0,0,0)
+the enactedExperiencePre is:(0,1,0)
+The Current Count Number is:135
+enter the function if(observerResultPre != observer.result)
+
+22222222222222222222222222222222222222222222222222222222
+the intendtedExperience  is:(1,1,0)
+the enactedExperienceSpo is :(1,0,0)
+The Current Count Number is:136
+
+33333333333333333333333333333333333333333333333333333333333333
+the intendedExperience is:(0,0,0)
+the enactedExperiencePos is :(0,0,0)
+The Current Count Number is:137
+
+11111111111111111111111111111111111111111111111111
+observer is:(3,0,0)
+The state of the environment is:  left:false  right:false
+the intendtedExperience  is:(3,0,0)
+the enactedExperiencePre is:(3,0,0)
+The Current Count Number is:138
+enter the same result function
+
+444444444444444444444444444444444444444444444444444444444444444444
+the intendedExperience  is:(1,1,0)
+the enactedExperienceSpo is :(1,1,0)
+The Current Count Number is:139
+
+555555555555555555555555555555555555555555555555555555555555555555555555
+the intendedExperience is:(3,0,0)
+the enactedExperiencePos is:(3,0,0)
+The Current Count Number is:140
+
+11111111111111111111111111111111111111111111111111
+observer is:(3,1,0)
+The state of the environment is:  left:true  right:false
+the intendtedExperience  is:(3,1,0)
+the enactedExperiencePre is:(3,0,0)
+The Current Count Number is:141
+enter the function if(observerResultPre != observer.result)
+
+22222222222222222222222222222222222222222222222222222222
+the intendtedExperience  is:(1,1,0)
+the enactedExperienceSpo is :(1,0,0)
+The Current Count Number is:142
+
+33333333333333333333333333333333333333333333333333333333333333
+the intendedExperience is:(3,1,0)
+the enactedExperiencePos is :(3,0,0)
+The Current Count Number is:143
+
+11111111111111111111111111111111111111111111111111
+observer is:(2,0,0)
+The state of the environment is:  left:false  right:false
+the intendtedExperience  is:(2,0,0)
+the enactedExperiencePre is:(2,0,0)
+The Current Count Number is:144
+enter the same result function
+
+444444444444444444444444444444444444444444444444444444444444444444
+the intendedExperience  is:(1,1,0)
+the enactedExperienceSpo is :(1,1,0)
+The Current Count Number is:145
+
+555555555555555555555555555555555555555555555555555555555555555555555555
+the intendedExperience is:(2,0,0)
+the enactedExperiencePos is:(2,1,0)
+The Current Count Number is:146
+enter the function if(observerResultPos != observer.result)
+
+11111111111111111111111111111111111111111111111111
+observer is:(2,1,0)
+The state of the environment is:  left:true  right:false
+the intendtedExperience  is:(2,1,0)
+the enactedExperiencePre is:(2,1,0)
+The Current Count Number is:147
+enter the same result function
+
+444444444444444444444444444444444444444444444444444444444444444444
+the intendedExperience  is:(1,1,0)
+the enactedExperienceSpo is :(1,0,0)
+The Current Count Number is:148
+
+555555555555555555555555555555555555555555555555555555555555555555555555
+the intendedExperience is:(2,1,0)
+the enactedExperiencePos is:(2,0,0)
+The Current Count Number is:149
+enter the function if(observerResultPos != observer.result)
+
+11111111111111111111111111111111111111111111111111
+observer is:(0,1,0)
+The state of the environment is:  left:false  right:false
+the intendtedExperience  is:(0,1,0)
+the enactedExperiencePre is:(0,0,0)
+The Current Count Number is:150
+enter the function if(observerResultPre != observer.result)
+
+22222222222222222222222222222222222222222222222222222222
+the intendtedExperience  is:(1,1,0)
+the enactedExperienceSpo is :(1,1,0)
+The Current Count Number is:151
+
+33333333333333333333333333333333333333333333333333333333333333
+the intendedExperience is:(0,1,0)
+the enactedExperiencePos is :(0,1,0)
+The Current Count Number is:152
+
+11111111111111111111111111111111111111111111111111
+observer is:(2,2,0)
+The state of the environment is:  left:true  right:false
+the intendtedExperience  is:(2,2,0)
+the enactedExperiencePre is:(2,1,0)
+The Current Count Number is:153
+enter the function if(observerResultPre != observer.result)
+
+22222222222222222222222222222222222222222222222222222222
+the intendtedExperience  is:(1,1,0)
+the enactedExperienceSpo is :(1,0,0)
+The Current Count Number is:154
+
+33333333333333333333333333333333333333333333333333333333333333
+the intendedExperience is:(2,2,0)
+the enactedExperiencePos is :(2,0,0)
+The Current Count Number is:155
+isChanged is:true
+
+This EnactedExperience is already Marked ! mark is: 2
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:2
+(0,1,0) Marked:2
+(2,0,0) Marked:2
+(2,1,0) Marked:2
+(2,2,0) Marked:2
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:0
+(1,1,0) Marked:1
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:(2,0,0)
+The updated mood is:0
+
+The currentBeliefState numberOfTriedMap
+(2,0,0) number:1
+(2,1,0) number:1
+(1,0,0) number:1
+(0,0,0) number:0
+(2,2,10) number:0
+(4,1,0) number:0
+(1,1,0) number:0
+(3,0,0) number:0
+(3,1,0) number:0
+(0,1,0) number:0
+(4,0,0) number:0
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+[(2,0,0), (4,1,0), (2,1,0)]
+[(2,1,0), (4,0,0), (2,0,0)]
+[(2,2,0), (4,0,0), (2,1,0)]
+[(0,1,0), (1,0,0), (0,0,0)]
+[(2,0,0), (1,1,0), (2,1,0)]
+[(2,1,0), (1,0,0), (2,0,0)]
+[(0,0,0), (1,1,0), (0,1,0)]
+The state of the environment is:  left:false  right:false
+
+---------------------------------------------------------
+The Current Count Number is:156
+the BeliefState is:(2,0,0)
+the Mood  State is:0
+get the intendedexperience from function leasTriedExperience
+the IntendedExperience is:(0,0,0)
+the EnactedExperience  is:(0,0,0)
+The current score is:0
+updated the triedNumber Experience
+the  enacted Experience is already marked and the mark is:2
+the draw current belief state is:(0,0,0)
+the draw current mood   state is:0
+
+The sporadic experience List is:
+(4,1,0)
+(1,1,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+(2,1,0)
+(0,1,0)
+(2,2,0)
+isChanged is:false
+
+This EnactedExperience is already Marked ! mark is: 2
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:2
+(0,1,0) Marked:2
+(2,0,0) Marked:2
+(2,1,0) Marked:2
+(2,2,0) Marked:2
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:0
+(1,1,0) Marked:1
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:(0,0,0)
+The updated mood is:0
+
+The currentBeliefState numberOfTriedMap
+(3,1,0) number:1
+(2,0,0) number:0
+(3,0,0) number:0
+(4,0,0) number:0
+(4,1,0) number:0
+(2,2,10) number:0
+(1,1,0) number:0
+(0,0,0) number:0
+(1,0,0) number:0
+(0,1,0) number:0
+(2,1,0) number:0
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+[(2,0,0), (4,1,0), (2,1,0)]
+[(2,1,0), (4,0,0), (2,0,0)]
+[(2,2,0), (4,0,0), (2,1,0)]
+[(0,1,0), (1,0,0), (0,0,0)]
+[(2,0,0), (1,1,0), (2,1,0)]
+[(2,1,0), (1,0,0), (2,0,0)]
+[(0,0,0), (1,1,0), (0,1,0)]
+The state of the environment is:  left:false  right:false
+
+---------------------------------------------------------
+The Current Count Number is:157
+the BeliefState is:(0,0,0)
+the Mood  State is:0
+get the intendedexperience from function leasTriedExperience
+the IntendedExperience is:(2,0,0)
+the EnactedExperience  is:(2,0,0)
+The current score is:0
+updated the triedNumber Experience
+the  enacted Experience is already marked and the mark is:2
+the draw current belief state is:(2,0,0)
+the draw current mood   state is:0
+
+The sporadic experience List is:
+(4,1,0)
+(1,1,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+(2,1,0)
+(0,1,0)
+(2,2,0)
+isChanged is:false
+
+This EnactedExperience is already Marked ! mark is: 2
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:2
+(0,1,0) Marked:2
+(2,0,0) Marked:2
+(2,1,0) Marked:2
+(2,2,0) Marked:2
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:0
+(1,1,0) Marked:1
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:(2,0,0)
+The updated mood is:0
+
+The currentBeliefState numberOfTriedMap
+(2,0,0) number:1
+(2,1,0) number:1
+(1,0,0) number:1
+(0,0,0) number:1
+(2,2,10) number:0
+(4,1,0) number:0
+(1,1,0) number:0
+(3,0,0) number:0
+(3,1,0) number:0
+(0,1,0) number:0
+(4,0,0) number:0
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+[(2,0,0), (4,1,0), (2,1,0)]
+[(2,1,0), (4,0,0), (2,0,0)]
+[(2,2,0), (4,0,0), (2,1,0)]
+[(0,1,0), (1,0,0), (0,0,0)]
+[(2,0,0), (1,1,0), (2,1,0)]
+[(2,1,0), (1,0,0), (2,0,0)]
+[(0,0,0), (1,1,0), (0,1,0)]
+The state of the environment is:  left:false  right:false
+
+---------------------------------------------------------
+The Current Count Number is:158
+the BeliefState is:(2,0,0)
+the Mood  State is:0
+get the intendedexperience from function leasTriedExperience
+the IntendedExperience is:(2,2,10)
+the EnactedExperience  is:(2,0,0)
+The current score is:0
+updated the triedNumber Experience
+the  enacted Experience is already marked and the mark is:2
+the draw current belief state is:(2,0,0)
+the draw current mood   state is:0
+
+The sporadic experience List is:
+(4,1,0)
+(1,1,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+(2,1,0)
+(0,1,0)
+(2,2,0)
+isChanged is:false
+
+This EnactedExperience is already Marked ! mark is: 2
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:2
+(0,1,0) Marked:2
+(2,0,0) Marked:2
+(2,1,0) Marked:2
+(2,2,0) Marked:2
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:0
+(1,1,0) Marked:1
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:(2,0,0)
+The updated mood is:0
+
+The currentBeliefState numberOfTriedMap
+(2,0,0) number:1
+(2,1,0) number:1
+(1,0,0) number:1
+(0,0,0) number:1
+(2,2,10) number:1
+(4,1,0) number:0
+(1,1,0) number:0
+(3,0,0) number:0
+(3,1,0) number:0
+(0,1,0) number:0
+(4,0,0) number:0
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+[(2,0,0), (4,1,0), (2,1,0)]
+[(2,1,0), (4,0,0), (2,0,0)]
+[(2,2,0), (4,0,0), (2,1,0)]
+[(0,1,0), (1,0,0), (0,0,0)]
+[(2,0,0), (1,1,0), (2,1,0)]
+[(2,1,0), (1,0,0), (2,0,0)]
+[(0,0,0), (1,1,0), (0,1,0)]
+The state of the environment is:  left:false  right:false
+
+---------------------------------------------------------
+The Current Count Number is:159
+the BeliefState is:(2,0,0)
+the Mood  State is:0
+get the intendedexperience from function leasTriedExperience
+the IntendedExperience is:(4,1,0)
+the EnactedExperience  is:(4,1,0)
+The current score is:0
+updated the triedNumber Experience
+the  enacted Experience is already marked and the mark is:1
+the draw current belief state is:(2,0,0)
+the draw current mood   state is:0
+
+The sporadic experience List is:
+(4,1,0)
+(1,1,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+(2,1,0)
+(0,1,0)
+(2,2,0)
+isChanged is:false
+
+This EnactedExperience is already Marked ! mark is: 1
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:2
+(0,1,0) Marked:2
+(2,0,0) Marked:2
+(2,1,0) Marked:2
+(2,2,0) Marked:2
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:0
+(1,1,0) Marked:1
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:(2,0,0)
+The updated mood is:0
+
+The currentBeliefState numberOfTriedMap
+(2,0,0) number:1
+(2,1,0) number:1
+(1,0,0) number:1
+(0,0,0) number:1
+(2,2,10) number:1
+(4,1,0) number:1
+(1,1,0) number:0
+(3,0,0) number:0
+(3,1,0) number:0
+(0,1,0) number:0
+(4,0,0) number:0
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+[(2,0,0), (4,1,0), (2,1,0)]
+[(2,1,0), (4,0,0), (2,0,0)]
+[(2,2,0), (4,0,0), (2,1,0)]
+[(0,1,0), (1,0,0), (0,0,0)]
+[(2,0,0), (1,1,0), (2,1,0)]
+[(2,1,0), (1,0,0), (2,0,0)]
+[(0,0,0), (1,1,0), (0,1,0)]
+The state of the environment is:  left:false  right:true
+
+---------------------------------------------------------
+The Current Count Number is:160
+the BeliefState is:(2,0,0)
+the Mood  State is:0
+get the intendedexperience from function leasTriedExperience
+the IntendedExperience is:(1,1,0)
+the EnactedExperience  is:(1,1,0)
+The current score is:0
+updated the triedNumber Experience
+the  enacted Experience is already marked and the mark is:1
+the draw current belief state is:(2,0,0)
+the draw current mood   state is:0
+
+The sporadic experience List is:
+(4,1,0)
+(1,1,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+(2,1,0)
+(0,1,0)
+(2,2,0)
+isChanged is:false
+
+This EnactedExperience is already Marked ! mark is: 1
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:2
+(0,1,0) Marked:2
+(2,0,0) Marked:2
+(2,1,0) Marked:2
+(2,2,0) Marked:2
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:0
+(1,1,0) Marked:1
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:(2,0,0)
+The updated mood is:0
+
+The currentBeliefState numberOfTriedMap
+(2,0,0) number:1
+(2,1,0) number:1
+(1,0,0) number:1
+(0,0,0) number:1
+(2,2,10) number:1
+(4,1,0) number:1
+(1,1,0) number:1
+(3,0,0) number:0
+(3,1,0) number:0
+(0,1,0) number:0
+(4,0,0) number:0
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+[(2,0,0), (4,1,0), (2,1,0)]
+[(2,1,0), (4,0,0), (2,0,0)]
+[(2,2,0), (4,0,0), (2,1,0)]
+[(0,1,0), (1,0,0), (0,0,0)]
+[(2,0,0), (1,1,0), (2,1,0)]
+[(2,1,0), (1,0,0), (2,0,0)]
+[(0,0,0), (1,1,0), (0,1,0)]
+The state of the environment is:  left:true  right:true
+
+---------------------------------------------------------
+The Current Count Number is:161
+the BeliefState is:(2,0,0)
+the Mood  State is:0
+get the intendedexperience from function leasTriedExperience
+the IntendedExperience is:(3,0,0)
+the EnactedExperience  is:(3,1,0)
+The current score is:0
+updated the triedNumber Experience
+the  enacted Experience is already marked and the mark is:2
+the draw current belief state is:(3,1,0)
+the draw current mood   state is:0
+
+The sporadic experience List is:
+(4,1,0)
+(1,1,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+(2,1,0)
+(0,1,0)
+(2,2,0)
+isChanged is:false
+
+This EnactedExperience is already Marked ! mark is: 2
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:2
+(0,1,0) Marked:2
+(2,0,0) Marked:2
+(2,1,0) Marked:2
+(2,2,0) Marked:2
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:0
+(1,1,0) Marked:1
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:(3,1,0)
+The updated mood is:0
+
+The currentBeliefState numberOfTriedMap
+(3,1,0) number:0
+(0,0,0) number:0
+(4,1,0) number:0
+(2,2,10) number:0
+(0,1,0) number:0
+(3,0,0) number:0
+(4,0,0) number:0
+(1,1,0) number:0
+(2,0,0) number:0
+(1,0,0) number:0
+(2,1,0) number:0
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+[(2,0,0), (4,1,0), (2,1,0)]
+[(2,1,0), (4,0,0), (2,0,0)]
+[(2,2,0), (4,0,0), (2,1,0)]
+[(0,1,0), (1,0,0), (0,0,0)]
+[(2,0,0), (1,1,0), (2,1,0)]
+[(2,1,0), (1,0,0), (2,0,0)]
+[(0,0,0), (1,1,0), (0,1,0)]
+The state of the environment is:  left:true  right:true
+
+---------------------------------------------------------
+The Current Count Number is:162
+the BeliefState is:(3,1,0)
+the Mood  State is:0
+get the intendedexperience from function leasTriedExperience
+the IntendedExperience is:(3,1,0)
+the EnactedExperience  is:(3,1,0)
+The current score is:0
+updated the triedNumber Experience
+the  enacted Experience is already marked and the mark is:2
+the draw current belief state is:(3,1,0)
+the draw current mood   state is:0
+
+The sporadic experience List is:
+(4,1,0)
+(1,1,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+(2,1,0)
+(0,1,0)
+(2,2,0)
+isChanged is:false
+
+This EnactedExperience is already Marked ! mark is: 2
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:2
+(0,1,0) Marked:2
+(2,0,0) Marked:2
+(2,1,0) Marked:2
+(2,2,0) Marked:2
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:0
+(1,1,0) Marked:1
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:(3,1,0)
+The updated mood is:0
+
+The currentBeliefState numberOfTriedMap
+(3,1,0) number:1
+(0,0,0) number:0
+(4,1,0) number:0
+(2,2,10) number:0
+(0,1,0) number:0
+(3,0,0) number:0
+(4,0,0) number:0
+(1,1,0) number:0
+(2,0,0) number:0
+(1,0,0) number:0
+(2,1,0) number:0
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+[(2,0,0), (4,1,0), (2,1,0)]
+[(2,1,0), (4,0,0), (2,0,0)]
+[(2,2,0), (4,0,0), (2,1,0)]
+[(0,1,0), (1,0,0), (0,0,0)]
+[(2,0,0), (1,1,0), (2,1,0)]
+[(2,1,0), (1,0,0), (2,0,0)]
+[(0,0,0), (1,1,0), (0,1,0)]
+The state of the environment is:  left:true  right:true
+
+---------------------------------------------------------
+The Current Count Number is:163
+the BeliefState is:(3,1,0)
+the Mood  State is:0
+get the intendedexperience from function leasTriedExperience
+the IntendedExperience is:(0,0,0)
+the EnactedExperience  is:(0,1,0)
+The current score is:0
+updated the triedNumber Experience
+the  enacted Experience is already marked and the mark is:2
+the draw current belief state is:(0,1,0)
+the draw current mood   state is:0
+
+The sporadic experience List is:
+(4,1,0)
+(1,1,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+(2,1,0)
+(0,1,0)
+(2,2,0)
+isChanged is:false
+
+This EnactedExperience is already Marked ! mark is: 2
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:2
+(0,1,0) Marked:2
+(2,0,0) Marked:2
+(2,1,0) Marked:2
+(2,2,0) Marked:2
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:0
+(1,1,0) Marked:1
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:(0,1,0)
+The updated mood is:0
+
+The currentBeliefState numberOfTriedMap
+(1,1,0) number:0
+(2,2,10) number:0
+(4,0,0) number:0
+(3,1,0) number:0
+(0,0,0) number:0
+(1,0,0) number:0
+(3,0,0) number:0
+(0,1,0) number:0
+(2,1,0) number:0
+(4,1,0) number:0
+(2,0,0) number:0
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+[(2,0,0), (4,1,0), (2,1,0)]
+[(2,1,0), (4,0,0), (2,0,0)]
+[(2,2,0), (4,0,0), (2,1,0)]
+[(0,1,0), (1,0,0), (0,0,0)]
+[(2,0,0), (1,1,0), (2,1,0)]
+[(2,1,0), (1,0,0), (2,0,0)]
+[(0,0,0), (1,1,0), (0,1,0)]
+The state of the environment is:  left:true  right:true
+
+---------------------------------------------------------
+The Current Count Number is:164
+the BeliefState is:(0,1,0)
+the Mood  State is:0
+get the intendedexperience from function leasTriedExperience
+the IntendedExperience is:(1,1,0)
+the EnactedExperience  is:(1,0,0)
+The current score is:0
+updated the triedNumber Experience
+get the markedState from the map that shows this enactedExperience marked state is: 0
+the draw current belief state is:unknown
+the draw current mood   state is:2
+
+The sporadic experience List is:
+(4,1,0)
+(1,1,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+(2,1,0)
+(0,1,0)
+(2,2,0)
+isChanged is:false
+
+This EnactedExperience Marked is: 0
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:2
+(0,1,0) Marked:2
+(2,0,0) Marked:2
+(2,1,0) Marked:2
+(2,2,0) Marked:2
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:0
+(1,1,0) Marked:1
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:unknown
+The updated mood is:2
+
+The currentBeliefState numberOfTriedMap
+(1,0,0) number:0
+(0,0,0) number:6
+(3,1,0) number:5
+(4,0,0) number:0
+(4,1,0) number:1
+(2,0,0) number:5
+(2,1,0) number:5
+(2,2,10) number:5
+(0,1,0) number:5
+(3,0,0) number:5
+(1,1,0) number:1
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+[(2,0,0), (4,1,0), (2,1,0)]
+[(2,1,0), (4,0,0), (2,0,0)]
+[(2,2,0), (4,0,0), (2,1,0)]
+[(0,1,0), (1,0,0), (0,0,0)]
+[(2,0,0), (1,1,0), (2,1,0)]
+[(2,1,0), (1,0,0), (2,0,0)]
+[(0,0,0), (1,1,0), (0,1,0)]
+The state of the environment is:  left:false  right:true
+
+---------------------------------------------------------
+The Current Count Number is:165
+the BeliefState is:unknown
+the Mood  State is:2
+the IntendedExperience is:(1,0,0)
+the EnactedExperience  is:(1,1,0)
+The current score is:0
+updated the triedNumber Experience
+the intended experience is sporadic and update the experienceMarkedMap
+add the sporadicExperience into the sporadicExperienceList
+the  enacted Experience is already marked and the mark is:1
+the draw current belief state is:unknown
+the draw current mood   state is:0
+
+The sporadic experience List is:
+(4,1,0)
+(1,1,0)
+(1,0,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+(2,1,0)
+(0,1,0)
+(2,2,0)
+
+Enter the connected procedure process
+sporadicAction is:4
+
+11111111111111111111111111111111111111111111111111
+observer is:(0,0,0)
+The state of the environment is:  left:true  right:true
+the intendtedExperience  is:(0,0,0)
+the enactedExperiencePre is:(0,1,0)
+The Current Count Number is:166
+enter the function if(observerResultPre != observer.result)
+
+22222222222222222222222222222222222222222222222222222222
+the intendtedExperience  is:(4,1,0)
+the enactedExperienceSpo is :(4,0,0)
+The Current Count Number is:167
+
+33333333333333333333333333333333333333333333333333333333333333
+the intendedExperience is:(0,0,0)
+the enactedExperiencePos is :(0,1,0)
+The Current Count Number is:168
+
+11111111111111111111111111111111111111111111111111
+observer is:(3,0,0)
+The state of the environment is:  left:true  right:false
+the intendtedExperience  is:(3,0,0)
+the enactedExperiencePre is:(3,0,0)
+The Current Count Number is:169
+enter the same result function
+
+444444444444444444444444444444444444444444444444444444444444444444
+the intendedExperience  is:(4,1,0)
+the enactedExperienceSpo is :(4,1,0)
+The Current Count Number is:170
+
+555555555555555555555555555555555555555555555555555555555555555555555555
+the intendedExperience is:(3,0,0)
+the enactedExperiencePos is:(3,1,0)
+The Current Count Number is:171
+enter the function if(observerResultPos != observer.result)
+
+11111111111111111111111111111111111111111111111111
+observer is:(3,1,0)
+The state of the environment is:  left:true  right:true
+the intendtedExperience  is:(3,1,0)
+the enactedExperiencePre is:(3,1,0)
+The Current Count Number is:172
+enter the same result function
+
+444444444444444444444444444444444444444444444444444444444444444444
+the intendedExperience  is:(4,1,0)
+the enactedExperienceSpo is :(4,0,0)
+The Current Count Number is:173
+
+555555555555555555555555555555555555555555555555555555555555555555555555
+the intendedExperience is:(3,1,0)
+the enactedExperiencePos is:(3,0,0)
+The Current Count Number is:174
+enter the function if(observerResultPos != observer.result)
+
+11111111111111111111111111111111111111111111111111
+observer is:(2,0,0)
+The state of the environment is:  left:true  right:false
+the intendtedExperience  is:(2,0,0)
+the enactedExperiencePre is:(2,1,0)
+The Current Count Number is:175
+enter the function if(observerResultPre != observer.result)
+
+22222222222222222222222222222222222222222222222222222222
+the intendtedExperience  is:(4,1,0)
+the enactedExperienceSpo is :(4,1,0)
+The Current Count Number is:176
+
+33333333333333333333333333333333333333333333333333333333333333
+the intendedExperience is:(2,0,0)
+the enactedExperiencePos is :(2,2,0)
+The Current Count Number is:177
+
+11111111111111111111111111111111111111111111111111
+observer is:(2,1,0)
+The state of the environment is:  left:true  right:true
+the intendtedExperience  is:(2,1,0)
+the enactedExperiencePre is:(2,2,0)
+The Current Count Number is:178
+enter the function if(observerResultPre != observer.result)
+
+22222222222222222222222222222222222222222222222222222222
+the intendtedExperience  is:(4,1,0)
+the enactedExperienceSpo is :(4,0,0)
+The Current Count Number is:179
+
+33333333333333333333333333333333333333333333333333333333333333
+the intendedExperience is:(2,1,0)
+the enactedExperiencePos is :(2,1,0)
+The Current Count Number is:180
+
+11111111111111111111111111111111111111111111111111
+observer is:(0,1,0)
+The state of the environment is:  left:true  right:false
+the intendtedExperience  is:(0,1,0)
+the enactedExperiencePre is:(0,1,0)
+The Current Count Number is:181
+enter the same result function
+
+444444444444444444444444444444444444444444444444444444444444444444
+the intendedExperience  is:(4,1,0)
+the enactedExperienceSpo is :(4,1,0)
+The Current Count Number is:182
+
+555555555555555555555555555555555555555555555555555555555555555555555555
+the intendedExperience is:(0,1,0)
+the enactedExperiencePos is:(0,1,0)
+The Current Count Number is:183
+
+11111111111111111111111111111111111111111111111111
+observer is:(2,2,0)
+The state of the environment is:  left:true  right:true
+the intendtedExperience  is:(2,2,0)
+the enactedExperiencePre is:(2,2,0)
+The Current Count Number is:184
+enter the same result function
+
+444444444444444444444444444444444444444444444444444444444444444444
+the intendedExperience  is:(4,1,0)
+the enactedExperienceSpo is :(4,0,0)
+The Current Count Number is:185
+
+555555555555555555555555555555555555555555555555555555555555555555555555
+the intendedExperience is:(2,2,0)
+the enactedExperiencePos is:(2,1,0)
+The Current Count Number is:186
+enter the function if(observerResultPos != observer.result)
+sporadicAction is:1
+
+11111111111111111111111111111111111111111111111111
+observer is:(0,0,0)
+The state of the environment is:  left:true  right:false
+the intendtedExperience  is:(0,0,0)
+the enactedExperiencePre is:(0,1,0)
+The Current Count Number is:187
+enter the function if(observerResultPre != observer.result)
+
+22222222222222222222222222222222222222222222222222222222
+the intendtedExperience  is:(1,1,0)
+the enactedExperienceSpo is :(1,0,0)
+The Current Count Number is:188
+
+33333333333333333333333333333333333333333333333333333333333333
+the intendedExperience is:(0,0,0)
+the enactedExperiencePos is :(0,0,0)
+The Current Count Number is:189
+
+11111111111111111111111111111111111111111111111111
+observer is:(3,0,0)
+The state of the environment is:  left:false  right:false
+the intendtedExperience  is:(3,0,0)
+the enactedExperiencePre is:(3,0,0)
+The Current Count Number is:190
+enter the same result function
+
+444444444444444444444444444444444444444444444444444444444444444444
+the intendedExperience  is:(1,1,0)
+the enactedExperienceSpo is :(1,1,0)
+The Current Count Number is:191
+
+555555555555555555555555555555555555555555555555555555555555555555555555
+the intendedExperience is:(3,0,0)
+the enactedExperiencePos is:(3,0,0)
+The Current Count Number is:192
+
+11111111111111111111111111111111111111111111111111
+observer is:(3,1,0)
+The state of the environment is:  left:true  right:false
+the intendtedExperience  is:(3,1,0)
+the enactedExperiencePre is:(3,0,0)
+The Current Count Number is:193
+enter the function if(observerResultPre != observer.result)
+
+22222222222222222222222222222222222222222222222222222222
+the intendtedExperience  is:(1,1,0)
+the enactedExperienceSpo is :(1,0,0)
+The Current Count Number is:194
+
+33333333333333333333333333333333333333333333333333333333333333
+the intendedExperience is:(3,1,0)
+the enactedExperiencePos is :(3,0,0)
+The Current Count Number is:195
+
+11111111111111111111111111111111111111111111111111
+observer is:(2,0,0)
+The state of the environment is:  left:false  right:false
+the intendtedExperience  is:(2,0,0)
+the enactedExperiencePre is:(2,0,0)
+The Current Count Number is:196
+enter the same result function
+
+444444444444444444444444444444444444444444444444444444444444444444
+the intendedExperience  is:(1,1,0)
+the enactedExperienceSpo is :(1,1,0)
+The Current Count Number is:197
+
+555555555555555555555555555555555555555555555555555555555555555555555555
+the intendedExperience is:(2,0,0)
+the enactedExperiencePos is:(2,1,0)
+The Current Count Number is:198
+enter the function if(observerResultPos != observer.result)
+
+11111111111111111111111111111111111111111111111111
+observer is:(2,1,0)
+The state of the environment is:  left:true  right:false
+the intendtedExperience  is:(2,1,0)
+the enactedExperiencePre is:(2,1,0)
+The Current Count Number is:199
+enter the same result function
+
+444444444444444444444444444444444444444444444444444444444444444444
+the intendedExperience  is:(1,1,0)
+the enactedExperienceSpo is :(1,0,0)
+The Current Count Number is:200
+
+555555555555555555555555555555555555555555555555555555555555555555555555
+the intendedExperience is:(2,1,0)
+the enactedExperiencePos is:(2,0,0)
+The Current Count Number is:201
+enter the function if(observerResultPos != observer.result)
+
+11111111111111111111111111111111111111111111111111
+observer is:(0,1,0)
+The state of the environment is:  left:false  right:false
+the intendtedExperience  is:(0,1,0)
+the enactedExperiencePre is:(0,0,0)
+The Current Count Number is:202
+enter the function if(observerResultPre != observer.result)
+
+22222222222222222222222222222222222222222222222222222222
+the intendtedExperience  is:(1,1,0)
+the enactedExperienceSpo is :(1,1,0)
+The Current Count Number is:203
+
+33333333333333333333333333333333333333333333333333333333333333
+the intendedExperience is:(0,1,0)
+the enactedExperiencePos is :(0,1,0)
+The Current Count Number is:204
+
+11111111111111111111111111111111111111111111111111
+observer is:(2,2,0)
+The state of the environment is:  left:true  right:false
+the intendtedExperience  is:(2,2,0)
+the enactedExperiencePre is:(2,1,0)
+The Current Count Number is:205
+enter the function if(observerResultPre != observer.result)
+
+22222222222222222222222222222222222222222222222222222222
+the intendtedExperience  is:(1,1,0)
+the enactedExperienceSpo is :(1,0,0)
+The Current Count Number is:206
+
+33333333333333333333333333333333333333333333333333333333333333
+the intendedExperience is:(2,2,0)
+the enactedExperiencePos is :(2,0,0)
+The Current Count Number is:207
+sporadicAction is:1
+
+11111111111111111111111111111111111111111111111111
+observer is:(0,0,0)
+The state of the environment is:  left:false  right:false
+the intendtedExperience  is:(0,0,0)
+the enactedExperiencePre is:(0,0,0)
+The Current Count Number is:208
+enter the same result function
+
+444444444444444444444444444444444444444444444444444444444444444444
+the intendedExperience  is:(1,0,0)
+the enactedExperienceSpo is :(1,1,0)
+The Current Count Number is:209
+
+555555555555555555555555555555555555555555555555555555555555555555555555
+the intendedExperience is:(0,0,0)
+the enactedExperiencePos is:(0,1,0)
+The Current Count Number is:210
+enter the function if(observerResultPos != observer.result)
+
+11111111111111111111111111111111111111111111111111
+observer is:(3,0,0)
+The state of the environment is:  left:true  right:false
+the intendtedExperience  is:(3,0,0)
+the enactedExperiencePre is:(3,0,0)
+The Current Count Number is:211
+enter the same result function
+
+444444444444444444444444444444444444444444444444444444444444444444
+the intendedExperience  is:(1,0,0)
+the enactedExperienceSpo is :(1,0,0)
+The Current Count Number is:212
+
+555555555555555555555555555555555555555555555555555555555555555555555555
+the intendedExperience is:(3,0,0)
+the enactedExperiencePos is:(3,0,0)
+The Current Count Number is:213
+
+11111111111111111111111111111111111111111111111111
+observer is:(3,1,0)
+The state of the environment is:  left:false  right:false
+the intendtedExperience  is:(3,1,0)
+the enactedExperiencePre is:(3,0,0)
+The Current Count Number is:214
+enter the function if(observerResultPre != observer.result)
+
+22222222222222222222222222222222222222222222222222222222
+the intendtedExperience  is:(1,0,0)
+the enactedExperienceSpo is :(1,1,0)
+The Current Count Number is:215
+
+33333333333333333333333333333333333333333333333333333333333333
+the intendedExperience is:(3,1,0)
+the enactedExperiencePos is :(3,0,0)
+The Current Count Number is:216
+
+11111111111111111111111111111111111111111111111111
+observer is:(2,0,0)
+The state of the environment is:  left:true  right:false
+the intendtedExperience  is:(2,0,0)
+the enactedExperiencePre is:(2,1,0)
+The Current Count Number is:217
+enter the function if(observerResultPre != observer.result)
+
+22222222222222222222222222222222222222222222222222222222
+the intendtedExperience  is:(1,0,0)
+the enactedExperienceSpo is :(1,0,0)
+The Current Count Number is:218
+
+33333333333333333333333333333333333333333333333333333333333333
+the intendedExperience is:(2,0,0)
+the enactedExperiencePos is :(2,0,0)
+The Current Count Number is:219
+
+11111111111111111111111111111111111111111111111111
+observer is:(2,1,0)
+The state of the environment is:  left:false  right:false
+the intendtedExperience  is:(2,1,0)
+the enactedExperiencePre is:(2,0,0)
+The Current Count Number is:220
+enter the function if(observerResultPre != observer.result)
+
+22222222222222222222222222222222222222222222222222222222
+the intendtedExperience  is:(1,0,0)
+the enactedExperienceSpo is :(1,1,0)
+The Current Count Number is:221
+
+33333333333333333333333333333333333333333333333333333333333333
+the intendedExperience is:(2,1,0)
+the enactedExperiencePos is :(2,1,0)
+The Current Count Number is:222
+
+11111111111111111111111111111111111111111111111111
+observer is:(0,1,0)
+The state of the environment is:  left:true  right:false
+the intendtedExperience  is:(0,1,0)
+the enactedExperiencePre is:(0,1,0)
+The Current Count Number is:223
+enter the same result function
+
+444444444444444444444444444444444444444444444444444444444444444444
+the intendedExperience  is:(1,0,0)
+the enactedExperienceSpo is :(1,0,0)
+The Current Count Number is:224
+
+555555555555555555555555555555555555555555555555555555555555555555555555
+the intendedExperience is:(0,1,0)
+the enactedExperiencePos is:(0,0,0)
+The Current Count Number is:225
+enter the function if(observerResultPos != observer.result)
+
+11111111111111111111111111111111111111111111111111
+observer is:(2,2,0)
+The state of the environment is:  left:false  right:false
+the intendtedExperience  is:(2,2,0)
+the enactedExperiencePre is:(2,0,0)
+The Current Count Number is:226
+enter the function if(observerResultPre != observer.result)
+
+22222222222222222222222222222222222222222222222222222222
+the intendtedExperience  is:(1,0,0)
+the enactedExperienceSpo is :(1,1,0)
+The Current Count Number is:227
+
+33333333333333333333333333333333333333333333333333333333333333
+the intendedExperience is:(2,2,0)
+the enactedExperiencePos is :(2,1,0)
+The Current Count Number is:228
+isChanged is:false
+
+This EnactedExperience is already Marked ! mark is: 1
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:2
+(0,1,0) Marked:2
+(2,0,0) Marked:2
+(2,1,0) Marked:2
+(2,2,0) Marked:2
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:1
+(1,1,0) Marked:1
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:(2,1,0)
+The updated mood is:0
+
+The currentBeliefState numberOfTriedMap
+(4,1,0) number:0
+(1,0,0) number:0
+(2,2,10) number:0
+(4,0,0) number:0
+(2,1,0) number:0
+(1,1,0) number:0
+(3,1,0) number:0
+(0,0,0) number:0
+(0,1,0) number:0
+(2,0,0) number:0
+(3,0,0) number:0
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+[(2,0,0), (4,1,0), (2,1,0)]
+[(2,1,0), (4,0,0), (2,0,0)]
+[(2,2,0), (4,0,0), (2,1,0)]
+[(0,1,0), (1,0,0), (0,0,0)]
+[(2,0,0), (1,1,0), (2,1,0)]
+[(2,1,0), (1,0,0), (2,0,0)]
+[(0,0,0), (1,1,0), (0,1,0)]
+The state of the environment is:  left:true  right:false
+
+---------------------------------------------------------
+The Current Count Number is:229
+the BeliefState is:(2,1,0)
+the Mood  State is:0
+get the intendedexperience from function leasTriedExperience
+the IntendedExperience is:(4,1,0)
+the EnactedExperience  is:(4,1,0)
+The current score is:0
+updated the triedNumber Experience
+the  enacted Experience is already marked and the mark is:1
+the draw current belief state is:(2,1,0)
+the draw current mood   state is:0
+
+The sporadic experience List is:
+(4,1,0)
+(1,1,0)
+(1,0,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+(2,1,0)
+(0,1,0)
+(2,2,0)
+isChanged is:false
+
+This EnactedExperience is already Marked ! mark is: 1
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:2
+(0,1,0) Marked:2
+(2,0,0) Marked:2
+(2,1,0) Marked:2
+(2,2,0) Marked:2
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:1
+(1,1,0) Marked:1
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:(2,1,0)
+The updated mood is:0
+
+The currentBeliefState numberOfTriedMap
+(4,1,0) number:1
+(1,0,0) number:0
+(2,2,10) number:0
+(4,0,0) number:0
+(2,1,0) number:0
+(1,1,0) number:0
+(3,1,0) number:0
+(0,0,0) number:0
+(0,1,0) number:0
+(2,0,0) number:0
+(3,0,0) number:0
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+[(2,0,0), (4,1,0), (2,1,0)]
+[(2,1,0), (4,0,0), (2,0,0)]
+[(2,2,0), (4,0,0), (2,1,0)]
+[(0,1,0), (1,0,0), (0,0,0)]
+[(2,0,0), (1,1,0), (2,1,0)]
+[(2,1,0), (1,0,0), (2,0,0)]
+[(0,0,0), (1,1,0), (0,1,0)]
+The state of the environment is:  left:true  right:true
+
+---------------------------------------------------------
+The Current Count Number is:230
+the BeliefState is:(2,1,0)
+the Mood  State is:0
+get the intendedexperience from function leasTriedExperience
+the IntendedExperience is:(1,0,0)
+the EnactedExperience  is:(1,0,0)
+The current score is:0
+updated the triedNumber Experience
+the  enacted Experience is already marked and the mark is:1
+the draw current belief state is:(2,1,0)
+the draw current mood   state is:0
+
+The sporadic experience List is:
+(4,1,0)
+(1,1,0)
+(1,0,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+(2,1,0)
+(0,1,0)
+(2,2,0)
+isChanged is:false
+
+This EnactedExperience is already Marked ! mark is: 1
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:2
+(0,1,0) Marked:2
+(2,0,0) Marked:2
+(2,1,0) Marked:2
+(2,2,0) Marked:2
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:1
+(1,1,0) Marked:1
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:(2,1,0)
+The updated mood is:0
+
+The currentBeliefState numberOfTriedMap
+(4,1,0) number:1
+(1,0,0) number:1
+(2,2,10) number:0
+(4,0,0) number:0
+(2,1,0) number:0
+(1,1,0) number:0
+(3,1,0) number:0
+(0,0,0) number:0
+(0,1,0) number:0
+(2,0,0) number:0
+(3,0,0) number:0
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+[(2,0,0), (4,1,0), (2,1,0)]
+[(2,1,0), (4,0,0), (2,0,0)]
+[(2,2,0), (4,0,0), (2,1,0)]
+[(0,1,0), (1,0,0), (0,0,0)]
+[(2,0,0), (1,1,0), (2,1,0)]
+[(2,1,0), (1,0,0), (2,0,0)]
+[(0,0,0), (1,1,0), (0,1,0)]
+The state of the environment is:  left:false  right:true
+
+---------------------------------------------------------
+The Current Count Number is:231
+the BeliefState is:(2,1,0)
+the Mood  State is:0
+get the intendedexperience from function leasTriedExperience
+the IntendedExperience is:(2,2,10)
+the EnactedExperience  is:(2,1,0)
+The current score is:0
+updated the triedNumber Experience
+the  enacted Experience is already marked and the mark is:2
+the draw current belief state is:(2,1,0)
+the draw current mood   state is:0
+
+The sporadic experience List is:
+(4,1,0)
+(1,1,0)
+(1,0,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+(2,1,0)
+(0,1,0)
+(2,2,0)
+isChanged is:false
+
+This EnactedExperience is already Marked ! mark is: 2
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:2
+(0,1,0) Marked:2
+(2,0,0) Marked:2
+(2,1,0) Marked:2
+(2,2,0) Marked:2
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:1
+(1,1,0) Marked:1
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:(2,1,0)
+The updated mood is:0
+
+The currentBeliefState numberOfTriedMap
+(4,1,0) number:1
+(1,0,0) number:1
+(2,2,10) number:1
+(4,0,0) number:0
+(2,1,0) number:0
+(1,1,0) number:0
+(3,1,0) number:0
+(0,0,0) number:0
+(0,1,0) number:0
+(2,0,0) number:0
+(3,0,0) number:0
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+[(2,0,0), (4,1,0), (2,1,0)]
+[(2,1,0), (4,0,0), (2,0,0)]
+[(2,2,0), (4,0,0), (2,1,0)]
+[(0,1,0), (1,0,0), (0,0,0)]
+[(2,0,0), (1,1,0), (2,1,0)]
+[(2,1,0), (1,0,0), (2,0,0)]
+[(0,0,0), (1,1,0), (0,1,0)]
+The state of the environment is:  left:false  right:true
+
+---------------------------------------------------------
+The Current Count Number is:232
+the BeliefState is:(2,1,0)
+the Mood  State is:0
+get the intendedexperience from function leasTriedExperience
+the IntendedExperience is:(4,0,0)
+the EnactedExperience  is:(4,0,0)
+The current score is:0
+updated the triedNumber Experience
+get the markedState from the map that shows this enactedExperience marked state is: 0
+the draw current belief state is:unknown
+the draw current mood   state is:2
+
+The sporadic experience List is:
+(4,1,0)
+(1,1,0)
+(1,0,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+(2,1,0)
+(0,1,0)
+(2,2,0)
+isChanged is:false
+
+This EnactedExperience Marked is: 0
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:0
+(0,0,0) Marked:2
+(0,1,0) Marked:2
+(2,0,0) Marked:2
+(2,1,0) Marked:2
+(2,2,0) Marked:2
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:1
+(1,1,0) Marked:1
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:unknown
+The updated mood is:2
+
+The currentBeliefState numberOfTriedMap
+(1,0,0) number:1
+(0,0,0) number:6
+(3,1,0) number:5
+(4,0,0) number:0
+(4,1,0) number:1
+(2,0,0) number:5
+(2,1,0) number:5
+(2,2,10) number:5
+(0,1,0) number:5
+(3,0,0) number:5
+(1,1,0) number:1
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+[(2,0,0), (4,1,0), (2,1,0)]
+[(2,1,0), (4,0,0), (2,0,0)]
+[(2,2,0), (4,0,0), (2,1,0)]
+[(0,1,0), (1,0,0), (0,0,0)]
+[(2,0,0), (1,1,0), (2,1,0)]
+[(2,1,0), (1,0,0), (2,0,0)]
+[(0,0,0), (1,1,0), (0,1,0)]
+The state of the environment is:  left:false  right:false
+
+---------------------------------------------------------
+The Current Count Number is:233
+the BeliefState is:unknown
+the Mood  State is:2
+the IntendedExperience is:(4,0,0)
+the EnactedExperience  is:(4,1,0)
+The current score is:0
+updated the triedNumber Experience
+the intended experience is sporadic and update the experienceMarkedMap
+add the sporadicExperience into the sporadicExperienceList
+the  enacted Experience is already marked and the mark is:1
+the draw current belief state is:unknown
+the draw current mood   state is:0
+
+The sporadic experience List is:
+(4,1,0)
+(1,1,0)
+(1,0,0)
+(4,0,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+(2,1,0)
+(0,1,0)
+(2,2,0)
+
+Enter the connected procedure process
+sporadicAction is:4
+
+11111111111111111111111111111111111111111111111111
+observer is:(0,0,0)
+The state of the environment is:  left:false  right:true
+the intendtedExperience  is:(0,0,0)
+the enactedExperiencePre is:(0,0,0)
+The Current Count Number is:234
+enter the same result function
+
+444444444444444444444444444444444444444444444444444444444444444444
+the intendedExperience  is:(4,1,0)
+the enactedExperienceSpo is :(4,0,0)
+The Current Count Number is:235
+
+555555555555555555555555555555555555555555555555555555555555555555555555
+the intendedExperience is:(0,0,0)
+the enactedExperiencePos is:(0,0,0)
+The Current Count Number is:236
+
+11111111111111111111111111111111111111111111111111
+observer is:(3,0,0)
+The state of the environment is:  left:false  right:false
+the intendtedExperience  is:(3,0,0)
+the enactedExperiencePre is:(3,0,0)
+The Current Count Number is:237
+enter the same result function
+
+444444444444444444444444444444444444444444444444444444444444444444
+the intendedExperience  is:(4,1,0)
+the enactedExperienceSpo is :(4,1,0)
+The Current Count Number is:238
+
+555555555555555555555555555555555555555555555555555555555555555555555555
+the intendedExperience is:(3,0,0)
+the enactedExperiencePos is:(3,1,0)
+The Current Count Number is:239
+enter the function if(observerResultPos != observer.result)
+
+11111111111111111111111111111111111111111111111111
+observer is:(3,1,0)
+The state of the environment is:  left:false  right:true
+the intendtedExperience  is:(3,1,0)
+the enactedExperiencePre is:(3,1,0)
+The Current Count Number is:240
+enter the same result function
+
+444444444444444444444444444444444444444444444444444444444444444444
+the intendedExperience  is:(4,1,0)
+the enactedExperienceSpo is :(4,0,0)
+The Current Count Number is:241
+
+555555555555555555555555555555555555555555555555555555555555555555555555
+the intendedExperience is:(3,1,0)
+the enactedExperiencePos is:(3,0,0)
+The Current Count Number is:242
+enter the function if(observerResultPos != observer.result)
+
+11111111111111111111111111111111111111111111111111
+observer is:(2,0,0)
+The state of the environment is:  left:false  right:false
+the intendtedExperience  is:(2,0,0)
+the enactedExperiencePre is:(2,0,0)
+The Current Count Number is:243
+enter the same result function
+
+444444444444444444444444444444444444444444444444444444444444444444
+the intendedExperience  is:(4,1,0)
+the enactedExperienceSpo is :(4,1,0)
+The Current Count Number is:244
+
+555555555555555555555555555555555555555555555555555555555555555555555555
+the intendedExperience is:(2,0,0)
+the enactedExperiencePos is:(2,1,0)
+The Current Count Number is:245
+enter the function if(observerResultPos != observer.result)
+
+11111111111111111111111111111111111111111111111111
+observer is:(2,1,0)
+The state of the environment is:  left:false  right:true
+the intendtedExperience  is:(2,1,0)
+the enactedExperiencePre is:(2,1,0)
+The Current Count Number is:246
+enter the same result function
+
+444444444444444444444444444444444444444444444444444444444444444444
+the intendedExperience  is:(4,1,0)
+the enactedExperienceSpo is :(4,0,0)
+The Current Count Number is:247
+
+555555555555555555555555555555555555555555555555555555555555555555555555
+the intendedExperience is:(2,1,0)
+the enactedExperiencePos is:(2,0,0)
+The Current Count Number is:248
+enter the function if(observerResultPos != observer.result)
+
+11111111111111111111111111111111111111111111111111
+observer is:(0,1,0)
+The state of the environment is:  left:false  right:false
+the intendtedExperience  is:(0,1,0)
+the enactedExperiencePre is:(0,0,0)
+The Current Count Number is:249
+enter the function if(observerResultPre != observer.result)
+
+22222222222222222222222222222222222222222222222222222222
+the intendtedExperience  is:(4,1,0)
+the enactedExperienceSpo is :(4,1,0)
+The Current Count Number is:250
+
+33333333333333333333333333333333333333333333333333333333333333
+the intendedExperience is:(0,1,0)
+the enactedExperiencePos is :(0,0,0)
+The Current Count Number is:251
+
+11111111111111111111111111111111111111111111111111
+observer is:(2,2,0)
+The state of the environment is:  left:false  right:true
+the intendtedExperience  is:(2,2,0)
+the enactedExperiencePre is:(2,1,0)
+The Current Count Number is:252
+enter the function if(observerResultPre != observer.result)
+
+22222222222222222222222222222222222222222222222222222222
+the intendtedExperience  is:(4,1,0)
+the enactedExperienceSpo is :(4,0,0)
+The Current Count Number is:253
+
+33333333333333333333333333333333333333333333333333333333333333
+the intendedExperience is:(2,2,0)
+the enactedExperiencePos is :(2,0,0)
+The Current Count Number is:254
+sporadicAction is:1
+
+11111111111111111111111111111111111111111111111111
+observer is:(0,0,0)
+The state of the environment is:  left:false  right:false
+the intendtedExperience  is:(0,0,0)
+the enactedExperiencePre is:(0,0,0)
+The Current Count Number is:255
+enter the same result function
+
+444444444444444444444444444444444444444444444444444444444444444444
+the intendedExperience  is:(1,1,0)
+the enactedExperienceSpo is :(1,1,0)
+The Current Count Number is:256
+
+555555555555555555555555555555555555555555555555555555555555555555555555
+the intendedExperience is:(0,0,0)
+the enactedExperiencePos is:(0,1,0)
+The Current Count Number is:257
+enter the function if(observerResultPos != observer.result)
+
+11111111111111111111111111111111111111111111111111
+observer is:(3,0,0)
+The state of the environment is:  left:true  right:false
+the intendtedExperience  is:(3,0,0)
+the enactedExperiencePre is:(3,0,0)
+The Current Count Number is:258
+enter the same result function
+
+444444444444444444444444444444444444444444444444444444444444444444
+the intendedExperience  is:(1,1,0)
+the enactedExperienceSpo is :(1,0,0)
+The Current Count Number is:259
+
+555555555555555555555555555555555555555555555555555555555555555555555555
+the intendedExperience is:(3,0,0)
+the enactedExperiencePos is:(3,0,0)
+The Current Count Number is:260
+
+11111111111111111111111111111111111111111111111111
+observer is:(3,1,0)
+The state of the environment is:  left:false  right:false
+the intendtedExperience  is:(3,1,0)
+the enactedExperiencePre is:(3,0,0)
+The Current Count Number is:261
+enter the function if(observerResultPre != observer.result)
+
+22222222222222222222222222222222222222222222222222222222
+the intendtedExperience  is:(1,1,0)
+the enactedExperienceSpo is :(1,1,0)
+The Current Count Number is:262
+
+33333333333333333333333333333333333333333333333333333333333333
+the intendedExperience is:(3,1,0)
+the enactedExperiencePos is :(3,0,0)
+The Current Count Number is:263
+
+11111111111111111111111111111111111111111111111111
+observer is:(2,0,0)
+The state of the environment is:  left:true  right:false
+the intendtedExperience  is:(2,0,0)
+the enactedExperiencePre is:(2,1,0)
+The Current Count Number is:264
+enter the function if(observerResultPre != observer.result)
+
+22222222222222222222222222222222222222222222222222222222
+the intendtedExperience  is:(1,1,0)
+the enactedExperienceSpo is :(1,0,0)
+The Current Count Number is:265
+
+33333333333333333333333333333333333333333333333333333333333333
+the intendedExperience is:(2,0,0)
+the enactedExperiencePos is :(2,0,0)
+The Current Count Number is:266
+
+11111111111111111111111111111111111111111111111111
+observer is:(2,1,0)
+The state of the environment is:  left:false  right:false
+the intendtedExperience  is:(2,1,0)
+the enactedExperiencePre is:(2,0,0)
+The Current Count Number is:267
+enter the function if(observerResultPre != observer.result)
+
+22222222222222222222222222222222222222222222222222222222
+the intendtedExperience  is:(1,1,0)
+the enactedExperienceSpo is :(1,1,0)
+The Current Count Number is:268
+
+33333333333333333333333333333333333333333333333333333333333333
+the intendedExperience is:(2,1,0)
+the enactedExperiencePos is :(2,1,0)
+The Current Count Number is:269
+
+11111111111111111111111111111111111111111111111111
+observer is:(0,1,0)
+The state of the environment is:  left:true  right:false
+the intendtedExperience  is:(0,1,0)
+the enactedExperiencePre is:(0,1,0)
+The Current Count Number is:270
+enter the same result function
+
+444444444444444444444444444444444444444444444444444444444444444444
+the intendedExperience  is:(1,1,0)
+the enactedExperienceSpo is :(1,0,0)
+The Current Count Number is:271
+
+555555555555555555555555555555555555555555555555555555555555555555555555
+the intendedExperience is:(0,1,0)
+the enactedExperiencePos is:(0,0,0)
+The Current Count Number is:272
+enter the function if(observerResultPos != observer.result)
+
+11111111111111111111111111111111111111111111111111
+observer is:(2,2,0)
+The state of the environment is:  left:false  right:false
+the intendtedExperience  is:(2,2,0)
+the enactedExperiencePre is:(2,0,0)
+The Current Count Number is:273
+enter the function if(observerResultPre != observer.result)
+
+22222222222222222222222222222222222222222222222222222222
+the intendtedExperience  is:(1,1,0)
+the enactedExperienceSpo is :(1,1,0)
+The Current Count Number is:274
+
+33333333333333333333333333333333333333333333333333333333333333
+the intendedExperience is:(2,2,0)
+the enactedExperiencePos is :(2,1,0)
+The Current Count Number is:275
+sporadicAction is:1
+
+11111111111111111111111111111111111111111111111111
+observer is:(0,0,0)
+The state of the environment is:  left:true  right:false
+the intendtedExperience  is:(0,0,0)
+the enactedExperiencePre is:(0,1,0)
+The Current Count Number is:276
+enter the function if(observerResultPre != observer.result)
+
+22222222222222222222222222222222222222222222222222222222
+the intendtedExperience  is:(1,0,0)
+the enactedExperienceSpo is :(1,0,0)
+The Current Count Number is:277
+
+33333333333333333333333333333333333333333333333333333333333333
+the intendedExperience is:(0,0,0)
+the enactedExperiencePos is :(0,0,0)
+The Current Count Number is:278
+
+11111111111111111111111111111111111111111111111111
+observer is:(3,0,0)
+The state of the environment is:  left:false  right:false
+the intendtedExperience  is:(3,0,0)
+the enactedExperiencePre is:(3,0,0)
+The Current Count Number is:279
+enter the same result function
+
+444444444444444444444444444444444444444444444444444444444444444444
+the intendedExperience  is:(1,0,0)
+the enactedExperienceSpo is :(1,1,0)
+The Current Count Number is:280
+
+555555555555555555555555555555555555555555555555555555555555555555555555
+the intendedExperience is:(3,0,0)
+the enactedExperiencePos is:(3,0,0)
+The Current Count Number is:281
+
+11111111111111111111111111111111111111111111111111
+observer is:(3,1,0)
+The state of the environment is:  left:true  right:false
+the intendtedExperience  is:(3,1,0)
+the enactedExperiencePre is:(3,0,0)
+The Current Count Number is:282
+enter the function if(observerResultPre != observer.result)
+
+22222222222222222222222222222222222222222222222222222222
+the intendtedExperience  is:(1,0,0)
+the enactedExperienceSpo is :(1,0,0)
+The Current Count Number is:283
+
+33333333333333333333333333333333333333333333333333333333333333
+the intendedExperience is:(3,1,0)
+the enactedExperiencePos is :(3,0,0)
+The Current Count Number is:284
+
+11111111111111111111111111111111111111111111111111
+observer is:(2,0,0)
+The state of the environment is:  left:false  right:false
+the intendtedExperience  is:(2,0,0)
+the enactedExperiencePre is:(2,0,0)
+The Current Count Number is:285
+enter the same result function
+
+444444444444444444444444444444444444444444444444444444444444444444
+the intendedExperience  is:(1,0,0)
+the enactedExperienceSpo is :(1,1,0)
+The Current Count Number is:286
+
+555555555555555555555555555555555555555555555555555555555555555555555555
+the intendedExperience is:(2,0,0)
+the enactedExperiencePos is:(2,1,0)
+The Current Count Number is:287
+enter the function if(observerResultPos != observer.result)
+
+11111111111111111111111111111111111111111111111111
+observer is:(2,1,0)
+The state of the environment is:  left:true  right:false
+the intendtedExperience  is:(2,1,0)
+the enactedExperiencePre is:(2,1,0)
+The Current Count Number is:288
+enter the same result function
+
+444444444444444444444444444444444444444444444444444444444444444444
+the intendedExperience  is:(1,0,0)
+the enactedExperienceSpo is :(1,0,0)
+The Current Count Number is:289
+
+555555555555555555555555555555555555555555555555555555555555555555555555
+the intendedExperience is:(2,1,0)
+the enactedExperiencePos is:(2,0,0)
+The Current Count Number is:290
+enter the function if(observerResultPos != observer.result)
+
+11111111111111111111111111111111111111111111111111
+observer is:(0,1,0)
+The state of the environment is:  left:false  right:false
+the intendtedExperience  is:(0,1,0)
+the enactedExperiencePre is:(0,0,0)
+The Current Count Number is:291
+enter the function if(observerResultPre != observer.result)
+
+22222222222222222222222222222222222222222222222222222222
+the intendtedExperience  is:(1,0,0)
+the enactedExperienceSpo is :(1,1,0)
+The Current Count Number is:292
+
+33333333333333333333333333333333333333333333333333333333333333
+the intendedExperience is:(0,1,0)
+the enactedExperiencePos is :(0,1,0)
+The Current Count Number is:293
+
+11111111111111111111111111111111111111111111111111
+observer is:(2,2,0)
+The state of the environment is:  left:true  right:false
+the intendtedExperience  is:(2,2,0)
+the enactedExperiencePre is:(2,1,0)
+The Current Count Number is:294
+enter the function if(observerResultPre != observer.result)
+
+22222222222222222222222222222222222222222222222222222222
+the intendtedExperience  is:(1,0,0)
+the enactedExperienceSpo is :(1,0,0)
+The Current Count Number is:295
+
+33333333333333333333333333333333333333333333333333333333333333
+the intendedExperience is:(2,2,0)
+the enactedExperiencePos is :(2,0,0)
+The Current Count Number is:296
+sporadicAction is:4
+
+11111111111111111111111111111111111111111111111111
+observer is:(0,0,0)
+The state of the environment is:  left:false  right:false
+the intendtedExperience  is:(0,0,0)
+the enactedExperiencePre is:(0,0,0)
+The Current Count Number is:297
+enter the same result function
+
+444444444444444444444444444444444444444444444444444444444444444444
+the intendedExperience  is:(4,0,0)
+the enactedExperienceSpo is :(4,1,0)
+The Current Count Number is:298
+
+555555555555555555555555555555555555555555555555555555555555555555555555
+the intendedExperience is:(0,0,0)
+the enactedExperiencePos is:(0,0,0)
+The Current Count Number is:299
+
+11111111111111111111111111111111111111111111111111
+observer is:(3,0,0)
+The state of the environment is:  left:false  right:true
+the intendtedExperience  is:(3,0,0)
+the enactedExperiencePre is:(3,1,0)
+The Current Count Number is:300
+enter the function if(observerResultPre != observer.result)
+
+22222222222222222222222222222222222222222222222222222222
+the intendtedExperience  is:(4,0,0)
+the enactedExperienceSpo is :(4,0,0)
+The Current Count Number is:301
+
+33333333333333333333333333333333333333333333333333333333333333
+the intendedExperience is:(3,0,0)
+the enactedExperiencePos is :(3,0,0)
+The Current Count Number is:302
+
+11111111111111111111111111111111111111111111111111
+observer is:(3,1,0)
+The state of the environment is:  left:false  right:false
+the intendtedExperience  is:(3,1,0)
+the enactedExperiencePre is:(3,0,0)
+The Current Count Number is:303
+enter the function if(observerResultPre != observer.result)
+
+22222222222222222222222222222222222222222222222222222222
+the intendtedExperience  is:(4,0,0)
+the enactedExperienceSpo is :(4,1,0)
+The Current Count Number is:304
+
+33333333333333333333333333333333333333333333333333333333333333
+the intendedExperience is:(3,1,0)
+the enactedExperiencePos is :(3,1,0)
+The Current Count Number is:305
+
+11111111111111111111111111111111111111111111111111
+observer is:(2,0,0)
+The state of the environment is:  left:false  right:true
+the intendtedExperience  is:(2,0,0)
+the enactedExperiencePre is:(2,1,0)
+The Current Count Number is:306
+enter the function if(observerResultPre != observer.result)
+
+22222222222222222222222222222222222222222222222222222222
+the intendtedExperience  is:(4,0,0)
+the enactedExperienceSpo is :(4,0,0)
+The Current Count Number is:307
+
+33333333333333333333333333333333333333333333333333333333333333
+the intendedExperience is:(2,0,0)
+the enactedExperiencePos is :(2,0,0)
+The Current Count Number is:308
+
+11111111111111111111111111111111111111111111111111
+observer is:(2,1,0)
+The state of the environment is:  left:false  right:false
+the intendtedExperience  is:(2,1,0)
+the enactedExperiencePre is:(2,0,0)
+The Current Count Number is:309
+enter the function if(observerResultPre != observer.result)
+
+22222222222222222222222222222222222222222222222222222222
+the intendtedExperience  is:(4,0,0)
+the enactedExperienceSpo is :(4,1,0)
+The Current Count Number is:310
+
+33333333333333333333333333333333333333333333333333333333333333
+the intendedExperience is:(2,1,0)
+the enactedExperiencePos is :(2,1,0)
+The Current Count Number is:311
+
+11111111111111111111111111111111111111111111111111
+observer is:(0,1,0)
+The state of the environment is:  left:false  right:true
+the intendtedExperience  is:(0,1,0)
+the enactedExperiencePre is:(0,0,0)
+The Current Count Number is:312
+enter the function if(observerResultPre != observer.result)
+
+22222222222222222222222222222222222222222222222222222222
+the intendtedExperience  is:(4,0,0)
+the enactedExperienceSpo is :(4,0,0)
+The Current Count Number is:313
+
+33333333333333333333333333333333333333333333333333333333333333
+the intendedExperience is:(0,1,0)
+the enactedExperiencePos is :(0,0,0)
+The Current Count Number is:314
+
+11111111111111111111111111111111111111111111111111
+observer is:(2,2,0)
+The state of the environment is:  left:false  right:false
+the intendtedExperience  is:(2,2,0)
+the enactedExperiencePre is:(2,0,0)
+The Current Count Number is:315
+enter the function if(observerResultPre != observer.result)
+
+22222222222222222222222222222222222222222222222222222222
+the intendtedExperience  is:(4,0,0)
+the enactedExperienceSpo is :(4,1,0)
+The Current Count Number is:316
+
+33333333333333333333333333333333333333333333333333333333333333
+the intendedExperience is:(2,2,0)
+the enactedExperiencePos is :(2,1,0)
+The Current Count Number is:317
+isChanged is:false
+
+This EnactedExperience is already Marked ! mark is: 1
+The experiences are isAllMarked!
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:1
+(0,0,0) Marked:2
+(0,1,0) Marked:2
+(2,0,0) Marked:2
+(2,1,0) Marked:2
+(2,2,0) Marked:2
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:1
+(1,1,0) Marked:1
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:(2,1,0)
+The updated mood is:0
+
+The currentBeliefState numberOfTriedMap
+(4,1,0) number:1
+(1,0,0) number:1
+(2,2,10) number:1
+(4,0,0) number:1
+(2,1,0) number:0
+(1,1,0) number:0
+(3,1,0) number:0
+(0,0,0) number:0
+(0,1,0) number:0
+(2,0,0) number:0
+(3,0,0) number:0
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+[(2,0,0), (4,1,0), (2,1,0)]
+[(2,1,0), (4,0,0), (2,0,0)]
+[(2,2,0), (4,0,0), (2,1,0)]
+[(0,1,0), (1,0,0), (0,0,0)]
+[(2,0,0), (1,1,0), (2,1,0)]
+[(2,1,0), (1,0,0), (2,0,0)]
+[(0,0,0), (1,1,0), (0,1,0)]
+The state of the environment is:  left:false  right:true
+
+---------------------------------------------------------
+The Current Count Number is:318
+the BeliefState is:(2,1,0)
+the Mood  State is:0
+get the intendedexperience from function leasTriedExperience
+the IntendedExperience is:(2,1,0)
+the EnactedExperience  is:(2,1,0)
+The current score is:0
+updated the triedNumber Experience
+the  enacted Experience is already marked and the mark is:2
+the draw current belief state is:(2,1,0)
+the draw current mood   state is:0
+
+The sporadic experience List is:
+(4,1,0)
+(1,1,0)
+(1,0,0)
+(4,0,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+(2,1,0)
+(0,1,0)
+(2,2,0)
+isChanged is:false
+
+This EnactedExperience is already Marked ! mark is: 2
+The experiences are isAllMarked!
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:1
+(0,0,0) Marked:2
+(0,1,0) Marked:2
+(2,0,0) Marked:2
+(2,1,0) Marked:2
+(2,2,0) Marked:2
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:1
+(1,1,0) Marked:1
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:(2,1,0)
+The updated mood is:0
+
+The currentBeliefState numberOfTriedMap
+(4,1,0) number:1
+(1,0,0) number:1
+(2,2,10) number:1
+(4,0,0) number:1
+(2,1,0) number:1
+(1,1,0) number:0
+(3,1,0) number:0
+(0,0,0) number:0
+(0,1,0) number:0
+(2,0,0) number:0
+(3,0,0) number:0
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+[(2,0,0), (4,1,0), (2,1,0)]
+[(2,1,0), (4,0,0), (2,0,0)]
+[(2,2,0), (4,0,0), (2,1,0)]
+[(0,1,0), (1,0,0), (0,0,0)]
+[(2,0,0), (1,1,0), (2,1,0)]
+[(2,1,0), (1,0,0), (2,0,0)]
+[(0,0,0), (1,1,0), (0,1,0)]
+The state of the environment is:  left:false  right:true
+
+---------------------------------------------------------
+The Current Count Number is:319
+the BeliefState is:(2,1,0)
+the Mood  State is:0
+get the intendedexperience from function leasTriedExperience
+the IntendedExperience is:(1,1,0)
+the EnactedExperience  is:(1,1,0)
+The current score is:0
+updated the triedNumber Experience
+the  enacted Experience is already marked and the mark is:1
+the draw current belief state is:(2,1,0)
+the draw current mood   state is:0
+
+The sporadic experience List is:
+(4,1,0)
+(1,1,0)
+(1,0,0)
+(4,0,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+(2,1,0)
+(0,1,0)
+(2,2,0)
+isChanged is:false
+
+This EnactedExperience is already Marked ! mark is: 1
+The experiences are isAllMarked!
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:1
+(0,0,0) Marked:2
+(0,1,0) Marked:2
+(2,0,0) Marked:2
+(2,1,0) Marked:2
+(2,2,0) Marked:2
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:1
+(1,1,0) Marked:1
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:(2,1,0)
+The updated mood is:0
+
+The currentBeliefState numberOfTriedMap
+(4,1,0) number:1
+(1,0,0) number:1
+(2,2,10) number:1
+(4,0,0) number:1
+(2,1,0) number:1
+(1,1,0) number:1
+(3,1,0) number:0
+(0,0,0) number:0
+(0,1,0) number:0
+(2,0,0) number:0
+(3,0,0) number:0
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+[(2,0,0), (4,1,0), (2,1,0)]
+[(2,1,0), (4,0,0), (2,0,0)]
+[(2,2,0), (4,0,0), (2,1,0)]
+[(0,1,0), (1,0,0), (0,0,0)]
+[(2,0,0), (1,1,0), (2,1,0)]
+[(2,1,0), (1,0,0), (2,0,0)]
+[(0,0,0), (1,1,0), (0,1,0)]
+The state of the environment is:  left:true  right:true
+
+---------------------------------------------------------
+The Current Count Number is:320
+the BeliefState is:(2,1,0)
+the Mood  State is:0
+get the intendedexperience from function leasTriedExperience
+the IntendedExperience is:(3,1,0)
+the EnactedExperience  is:(3,1,0)
+The current score is:0
+updated the triedNumber Experience
+the  enacted Experience is already marked and the mark is:2
+the draw current belief state is:(3,1,0)
+the draw current mood   state is:0
+
+The sporadic experience List is:
+(4,1,0)
+(1,1,0)
+(1,0,0)
+(4,0,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+(2,1,0)
+(0,1,0)
+(2,2,0)
+isChanged is:false
+
+This EnactedExperience is already Marked ! mark is: 2
+The experiences are isAllMarked!
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:1
+(0,0,0) Marked:2
+(0,1,0) Marked:2
+(2,0,0) Marked:2
+(2,1,0) Marked:2
+(2,2,0) Marked:2
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:1
+(1,1,0) Marked:1
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:(3,1,0)
+The updated mood is:0
+
+The currentBeliefState numberOfTriedMap
+(3,1,0) number:1
+(0,0,0) number:1
+(4,1,0) number:0
+(2,2,10) number:0
+(0,1,0) number:0
+(3,0,0) number:0
+(4,0,0) number:0
+(1,1,0) number:0
+(2,0,0) number:0
+(1,0,0) number:0
+(2,1,0) number:0
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+[(2,0,0), (4,1,0), (2,1,0)]
+[(2,1,0), (4,0,0), (2,0,0)]
+[(2,2,0), (4,0,0), (2,1,0)]
+[(0,1,0), (1,0,0), (0,0,0)]
+[(2,0,0), (1,1,0), (2,1,0)]
+[(2,1,0), (1,0,0), (2,0,0)]
+[(0,0,0), (1,1,0), (0,1,0)]
+The state of the environment is:  left:true  right:true
+
+---------------------------------------------------------
+The Current Count Number is:321
+the BeliefState is:(3,1,0)
+the Mood  State is:0
+get the intendedexperience from function leasTriedExperience
+the IntendedExperience is:(4,1,0)
+the EnactedExperience  is:(4,0,0)
+The current score is:0
+updated the triedNumber Experience
+the  enacted Experience is already marked and the mark is:1
+the draw current belief state is:(3,1,0)
+the draw current mood   state is:0
+
+The sporadic experience List is:
+(4,1,0)
+(1,1,0)
+(1,0,0)
+(4,0,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+(2,1,0)
+(0,1,0)
+(2,2,0)
+isChanged is:false
+
+This EnactedExperience is already Marked ! mark is: 1
+The experiences are isAllMarked!
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:1
+(0,0,0) Marked:2
+(0,1,0) Marked:2
+(2,0,0) Marked:2
+(2,1,0) Marked:2
+(2,2,0) Marked:2
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:1
+(1,1,0) Marked:1
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:(3,1,0)
+The updated mood is:0
+
+The currentBeliefState numberOfTriedMap
+(3,1,0) number:1
+(0,0,0) number:1
+(4,1,0) number:1
+(2,2,10) number:0
+(0,1,0) number:0
+(3,0,0) number:0
+(4,0,0) number:0
+(1,1,0) number:0
+(2,0,0) number:0
+(1,0,0) number:0
+(2,1,0) number:0
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+[(2,0,0), (4,1,0), (2,1,0)]
+[(2,1,0), (4,0,0), (2,0,0)]
+[(2,2,0), (4,0,0), (2,1,0)]
+[(0,1,0), (1,0,0), (0,0,0)]
+[(2,0,0), (1,1,0), (2,1,0)]
+[(2,1,0), (1,0,0), (2,0,0)]
+[(0,0,0), (1,1,0), (0,1,0)]
+The state of the environment is:  left:true  right:false
+
+---------------------------------------------------------
+The Current Count Number is:322
+the BeliefState is:(3,1,0)
+the Mood  State is:0
+get the intendedexperience from function leasTriedExperience
+the IntendedExperience is:(2,2,10)
+the EnactedExperience  is:(2,1,0)
+The current score is:0
+updated the triedNumber Experience
+the  enacted Experience is already marked and the mark is:2
+the draw current belief state is:(2,1,0)
+the draw current mood   state is:0
+
+The sporadic experience List is:
+(4,1,0)
+(1,1,0)
+(1,0,0)
+(4,0,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+(2,1,0)
+(0,1,0)
+(2,2,0)
+isChanged is:false
+
+This EnactedExperience is already Marked ! mark is: 2
+The experiences are isAllMarked!
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:1
+(0,0,0) Marked:2
+(0,1,0) Marked:2
+(2,0,0) Marked:2
+(2,1,0) Marked:2
+(2,2,0) Marked:2
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:1
+(1,1,0) Marked:1
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:(2,1,0)
+The updated mood is:0
+
+The currentBeliefState numberOfTriedMap
+(4,1,0) number:1
+(1,0,0) number:1
+(2,2,10) number:1
+(4,0,0) number:1
+(2,1,0) number:1
+(1,1,0) number:1
+(3,1,0) number:1
+(0,0,0) number:0
+(0,1,0) number:0
+(2,0,0) number:0
+(3,0,0) number:0
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+[(2,0,0), (4,1,0), (2,1,0)]
+[(2,1,0), (4,0,0), (2,0,0)]
+[(2,2,0), (4,0,0), (2,1,0)]
+[(0,1,0), (1,0,0), (0,0,0)]
+[(2,0,0), (1,1,0), (2,1,0)]
+[(2,1,0), (1,0,0), (2,0,0)]
+[(0,0,0), (1,1,0), (0,1,0)]
+The state of the environment is:  left:true  right:false
+
+---------------------------------------------------------
+The Current Count Number is:323
+the BeliefState is:(2,1,0)
+the Mood  State is:0
+get the intendedexperience from function leasTriedExperience
+the IntendedExperience is:(0,0,0)
+the EnactedExperience  is:(0,1,0)
+The current score is:0
+updated the triedNumber Experience
+the  enacted Experience is already marked and the mark is:2
+the draw current belief state is:(0,1,0)
+the draw current mood   state is:0
+
+The sporadic experience List is:
+(4,1,0)
+(1,1,0)
+(1,0,0)
+(4,0,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+(2,1,0)
+(0,1,0)
+(2,2,0)
+isChanged is:false
+
+This EnactedExperience is already Marked ! mark is: 2
+The experiences are isAllMarked!
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:1
+(0,0,0) Marked:2
+(0,1,0) Marked:2
+(2,0,0) Marked:2
+(2,1,0) Marked:2
+(2,2,0) Marked:2
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:1
+(1,1,0) Marked:1
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:(0,1,0)
+The updated mood is:0
+
+The currentBeliefState numberOfTriedMap
+(1,1,0) number:1
+(2,2,10) number:0
+(4,0,0) number:0
+(3,1,0) number:0
+(0,0,0) number:0
+(1,0,0) number:0
+(3,0,0) number:0
+(0,1,0) number:0
+(2,1,0) number:0
+(4,1,0) number:0
+(2,0,0) number:0
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+[(2,0,0), (4,1,0), (2,1,0)]
+[(2,1,0), (4,0,0), (2,0,0)]
+[(2,2,0), (4,0,0), (2,1,0)]
+[(0,1,0), (1,0,0), (0,0,0)]
+[(2,0,0), (1,1,0), (2,1,0)]
+[(2,1,0), (1,0,0), (2,0,0)]
+[(0,0,0), (1,1,0), (0,1,0)]
+The state of the environment is:  left:true  right:false
+
+---------------------------------------------------------
+The Current Count Number is:324
+the BeliefState is:(0,1,0)
+the Mood  State is:0
+get the intendedexperience from function leasTriedExperience
+the IntendedExperience is:(2,2,10)
+the EnactedExperience  is:(2,1,0)
+The current score is:0
+updated the triedNumber Experience
+the  enacted Experience is already marked and the mark is:2
+the draw current belief state is:(2,1,0)
+the draw current mood   state is:0
+
+The sporadic experience List is:
+(4,1,0)
+(1,1,0)
+(1,0,0)
+(4,0,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+(2,1,0)
+(0,1,0)
+(2,2,0)
+isChanged is:false
+
+This EnactedExperience is already Marked ! mark is: 2
+The experiences are isAllMarked!
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:1
+(0,0,0) Marked:2
+(0,1,0) Marked:2
+(2,0,0) Marked:2
+(2,1,0) Marked:2
+(2,2,0) Marked:2
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:1
+(1,1,0) Marked:1
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:(2,1,0)
+The updated mood is:0
+
+The currentBeliefState numberOfTriedMap
+(4,1,0) number:1
+(1,0,0) number:1
+(2,2,10) number:1
+(4,0,0) number:1
+(2,1,0) number:1
+(1,1,0) number:1
+(3,1,0) number:1
+(0,0,0) number:1
+(0,1,0) number:0
+(2,0,0) number:0
+(3,0,0) number:0
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+[(2,0,0), (4,1,0), (2,1,0)]
+[(2,1,0), (4,0,0), (2,0,0)]
+[(2,2,0), (4,0,0), (2,1,0)]
+[(0,1,0), (1,0,0), (0,0,0)]
+[(2,0,0), (1,1,0), (2,1,0)]
+[(2,1,0), (1,0,0), (2,0,0)]
+[(0,0,0), (1,1,0), (0,1,0)]
+The state of the environment is:  left:true  right:false
+
+---------------------------------------------------------
+The Current Count Number is:325
+the BeliefState is:(2,1,0)
+the Mood  State is:0
+get the intendedexperience from function leasTriedExperience
+the IntendedExperience is:(0,1,0)
+the EnactedExperience  is:(0,1,0)
+The current score is:0
+updated the triedNumber Experience
+the  enacted Experience is already marked and the mark is:2
+the draw current belief state is:(0,1,0)
+the draw current mood   state is:0
+
+The sporadic experience List is:
+(4,1,0)
+(1,1,0)
+(1,0,0)
+(4,0,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+(2,1,0)
+(0,1,0)
+(2,2,0)
+isChanged is:false
+
+This EnactedExperience is already Marked ! mark is: 2
+The experiences are isAllMarked!
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:1
+(0,0,0) Marked:2
+(0,1,0) Marked:2
+(2,0,0) Marked:2
+(2,1,0) Marked:2
+(2,2,0) Marked:2
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:1
+(1,1,0) Marked:1
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:(0,1,0)
+The updated mood is:0
+
+The currentBeliefState numberOfTriedMap
+(1,1,0) number:1
+(2,2,10) number:1
+(4,0,0) number:0
+(3,1,0) number:0
+(0,0,0) number:0
+(1,0,0) number:0
+(3,0,0) number:0
+(0,1,0) number:0
+(2,1,0) number:0
+(4,1,0) number:0
+(2,0,0) number:0
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+[(2,0,0), (4,1,0), (2,1,0)]
+[(2,1,0), (4,0,0), (2,0,0)]
+[(2,2,0), (4,0,0), (2,1,0)]
+[(0,1,0), (1,0,0), (0,0,0)]
+[(2,0,0), (1,1,0), (2,1,0)]
+[(2,1,0), (1,0,0), (2,0,0)]
+[(0,0,0), (1,1,0), (0,1,0)]
+The state of the environment is:  left:true  right:false
+
+---------------------------------------------------------
+The Current Count Number is:326
+the BeliefState is:(0,1,0)
+the Mood  State is:0
+get the intendedexperience from function leasTriedExperience
+the IntendedExperience is:(4,0,0)
+the EnactedExperience  is:(4,1,0)
+The current score is:0
+updated the triedNumber Experience
+the  enacted Experience is already marked and the mark is:1
+the draw current belief state is:(0,1,0)
+the draw current mood   state is:0
+
+The sporadic experience List is:
+(4,1,0)
+(1,1,0)
+(1,0,0)
+(4,0,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+(2,1,0)
+(0,1,0)
+(2,2,0)
+isChanged is:false
+
+This EnactedExperience is already Marked ! mark is: 1
+The experiences are isAllMarked!
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:1
+(0,0,0) Marked:2
+(0,1,0) Marked:2
+(2,0,0) Marked:2
+(2,1,0) Marked:2
+(2,2,0) Marked:2
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:1
+(1,1,0) Marked:1
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:(0,1,0)
+The updated mood is:0
+
+The currentBeliefState numberOfTriedMap
+(1,1,0) number:1
+(2,2,10) number:1
+(4,0,0) number:1
+(3,1,0) number:0
+(0,0,0) number:0
+(1,0,0) number:0
+(3,0,0) number:0
+(0,1,0) number:0
+(2,1,0) number:0
+(4,1,0) number:0
+(2,0,0) number:0
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+[(2,0,0), (4,1,0), (2,1,0)]
+[(2,1,0), (4,0,0), (2,0,0)]
+[(2,2,0), (4,0,0), (2,1,0)]
+[(0,1,0), (1,0,0), (0,0,0)]
+[(2,0,0), (1,1,0), (2,1,0)]
+[(2,1,0), (1,0,0), (2,0,0)]
+[(0,0,0), (1,1,0), (0,1,0)]
+The state of the environment is:  left:true  right:true
+
+---------------------------------------------------------
+The Current Count Number is:327
+the BeliefState is:(0,1,0)
+the Mood  State is:0
+get the intendedexperience from function leasTriedExperience
+the IntendedExperience is:(3,1,0)
+the EnactedExperience  is:(3,1,0)
+The current score is:0
+updated the triedNumber Experience
+the  enacted Experience is already marked and the mark is:2
+the draw current belief state is:(3,1,0)
+the draw current mood   state is:0
+
+The sporadic experience List is:
+(4,1,0)
+(1,1,0)
+(1,0,0)
+(4,0,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+(2,1,0)
+(0,1,0)
+(2,2,0)
+isChanged is:false
+
+This EnactedExperience is already Marked ! mark is: 2
+The experiences are isAllMarked!
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:1
+(0,0,0) Marked:2
+(0,1,0) Marked:2
+(2,0,0) Marked:2
+(2,1,0) Marked:2
+(2,2,0) Marked:2
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:1
+(1,1,0) Marked:1
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:(3,1,0)
+The updated mood is:0
+
+The currentBeliefState numberOfTriedMap
+(3,1,0) number:1
+(0,0,0) number:1
+(4,1,0) number:1
+(2,2,10) number:1
+(0,1,0) number:0
+(3,0,0) number:0
+(4,0,0) number:0
+(1,1,0) number:0
+(2,0,0) number:0
+(1,0,0) number:0
+(2,1,0) number:0
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+[(2,0,0), (4,1,0), (2,1,0)]
+[(2,1,0), (4,0,0), (2,0,0)]
+[(2,2,0), (4,0,0), (2,1,0)]
+[(0,1,0), (1,0,0), (0,0,0)]
+[(2,0,0), (1,1,0), (2,1,0)]
+[(2,1,0), (1,0,0), (2,0,0)]
+[(0,0,0), (1,1,0), (0,1,0)]
+The state of the environment is:  left:true  right:true
+
+---------------------------------------------------------
+The Current Count Number is:328
+the BeliefState is:(3,1,0)
+the Mood  State is:0
+get the intendedexperience from function leasTriedExperience
+the IntendedExperience is:(0,1,0)
+the EnactedExperience  is:(0,1,0)
+The current score is:0
+updated the triedNumber Experience
+the  enacted Experience is already marked and the mark is:2
+the draw current belief state is:(0,1,0)
+the draw current mood   state is:0
+
+The sporadic experience List is:
+(4,1,0)
+(1,1,0)
+(1,0,0)
+(4,0,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+(2,1,0)
+(0,1,0)
+(2,2,0)
+isChanged is:false
+
+This EnactedExperience is already Marked ! mark is: 2
+The experiences are isAllMarked!
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:1
+(0,0,0) Marked:2
+(0,1,0) Marked:2
+(2,0,0) Marked:2
+(2,1,0) Marked:2
+(2,2,0) Marked:2
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:1
+(1,1,0) Marked:1
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:(0,1,0)
+The updated mood is:0
+
+The currentBeliefState numberOfTriedMap
+(1,1,0) number:1
+(2,2,10) number:1
+(4,0,0) number:1
+(3,1,0) number:1
+(0,0,0) number:0
+(1,0,0) number:0
+(3,0,0) number:0
+(0,1,0) number:0
+(2,1,0) number:0
+(4,1,0) number:0
+(2,0,0) number:0
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+[(2,0,0), (4,1,0), (2,1,0)]
+[(2,1,0), (4,0,0), (2,0,0)]
+[(2,2,0), (4,0,0), (2,1,0)]
+[(0,1,0), (1,0,0), (0,0,0)]
+[(2,0,0), (1,1,0), (2,1,0)]
+[(2,1,0), (1,0,0), (2,0,0)]
+[(0,0,0), (1,1,0), (0,1,0)]
+The state of the environment is:  left:true  right:true
+
+---------------------------------------------------------
+The Current Count Number is:329
+the BeliefState is:(0,1,0)
+the Mood  State is:0
+get the intendedexperience from function leasTriedExperience
+the IntendedExperience is:(0,0,0)
+the EnactedExperience  is:(0,1,0)
+The current score is:0
+updated the triedNumber Experience
+the  enacted Experience is already marked and the mark is:2
+the draw current belief state is:(0,1,0)
+the draw current mood   state is:0
+
+The sporadic experience List is:
+(4,1,0)
+(1,1,0)
+(1,0,0)
+(4,0,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+(2,1,0)
+(0,1,0)
+(2,2,0)
+isChanged is:false
+
+This EnactedExperience is already Marked ! mark is: 2
+The experiences are isAllMarked!
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:1
+(0,0,0) Marked:2
+(0,1,0) Marked:2
+(2,0,0) Marked:2
+(2,1,0) Marked:2
+(2,2,0) Marked:2
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:1
+(1,1,0) Marked:1
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:(0,1,0)
+The updated mood is:0
+
+The currentBeliefState numberOfTriedMap
+(1,1,0) number:1
+(2,2,10) number:1
+(4,0,0) number:1
+(3,1,0) number:1
+(0,0,0) number:1
+(1,0,0) number:0
+(3,0,0) number:0
+(0,1,0) number:0
+(2,1,0) number:0
+(4,1,0) number:0
+(2,0,0) number:0
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+[(2,0,0), (4,1,0), (2,1,0)]
+[(2,1,0), (4,0,0), (2,0,0)]
+[(2,2,0), (4,0,0), (2,1,0)]
+[(0,1,0), (1,0,0), (0,0,0)]
+[(2,0,0), (1,1,0), (2,1,0)]
+[(2,1,0), (1,0,0), (2,0,0)]
+[(0,0,0), (1,1,0), (0,1,0)]
+The state of the environment is:  left:true  right:true
+
+---------------------------------------------------------
+The Current Count Number is:330
+the BeliefState is:(0,1,0)
+the Mood  State is:0
+get the intendedexperience from function leasTriedExperience
+the IntendedExperience is:(1,0,0)
+the EnactedExperience  is:(1,0,0)
+The current score is:0
+updated the triedNumber Experience
+the  enacted Experience is already marked and the mark is:1
+the draw current belief state is:(0,1,0)
+the draw current mood   state is:0
+
+The sporadic experience List is:
+(4,1,0)
+(1,1,0)
+(1,0,0)
+(4,0,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+(2,1,0)
+(0,1,0)
+(2,2,0)
+isChanged is:false
+
+This EnactedExperience is already Marked ! mark is: 1
+The experiences are isAllMarked!
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:1
+(0,0,0) Marked:2
+(0,1,0) Marked:2
+(2,0,0) Marked:2
+(2,1,0) Marked:2
+(2,2,0) Marked:2
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:1
+(1,1,0) Marked:1
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:(0,1,0)
+The updated mood is:0
+
+The currentBeliefState numberOfTriedMap
+(1,1,0) number:1
+(2,2,10) number:1
+(4,0,0) number:1
+(3,1,0) number:1
+(0,0,0) number:1
+(1,0,0) number:1
+(3,0,0) number:0
+(0,1,0) number:0
+(2,1,0) number:0
+(4,1,0) number:0
+(2,0,0) number:0
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+[(2,0,0), (4,1,0), (2,1,0)]
+[(2,1,0), (4,0,0), (2,0,0)]
+[(2,2,0), (4,0,0), (2,1,0)]
+[(0,1,0), (1,0,0), (0,0,0)]
+[(2,0,0), (1,1,0), (2,1,0)]
+[(2,1,0), (1,0,0), (2,0,0)]
+[(0,0,0), (1,1,0), (0,1,0)]
+The state of the environment is:  left:false  right:true
+
+---------------------------------------------------------
+The Current Count Number is:331
+the BeliefState is:(0,1,0)
+the Mood  State is:0
+get the intendedexperience from function leasTriedExperience
+the IntendedExperience is:(3,0,0)
+the EnactedExperience  is:(3,1,0)
+The current score is:0
+updated the triedNumber Experience
+the  enacted Experience is already marked and the mark is:2
+the draw current belief state is:(3,1,0)
+the draw current mood   state is:0
+
+The sporadic experience List is:
+(4,1,0)
+(1,1,0)
+(1,0,0)
+(4,0,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+(2,1,0)
+(0,1,0)
+(2,2,0)
+isChanged is:false
+
+This EnactedExperience is already Marked ! mark is: 2
+The experiences are isAllMarked!
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:1
+(0,0,0) Marked:2
+(0,1,0) Marked:2
+(2,0,0) Marked:2
+(2,1,0) Marked:2
+(2,2,0) Marked:2
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:1
+(1,1,0) Marked:1
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:(3,1,0)
+The updated mood is:0
+
+The currentBeliefState numberOfTriedMap
+(3,1,0) number:1
+(0,0,0) number:1
+(4,1,0) number:1
+(2,2,10) number:1
+(0,1,0) number:1
+(3,0,0) number:0
+(4,0,0) number:0
+(1,1,0) number:0
+(2,0,0) number:0
+(1,0,0) number:0
+(2,1,0) number:0
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+[(2,0,0), (4,1,0), (2,1,0)]
+[(2,1,0), (4,0,0), (2,0,0)]
+[(2,2,0), (4,0,0), (2,1,0)]
+[(0,1,0), (1,0,0), (0,0,0)]
+[(2,0,0), (1,1,0), (2,1,0)]
+[(2,1,0), (1,0,0), (2,0,0)]
+[(0,0,0), (1,1,0), (0,1,0)]
+The state of the environment is:  left:false  right:true
+
+---------------------------------------------------------
+The Current Count Number is:332
+the BeliefState is:(3,1,0)
+the Mood  State is:0
+get the intendedexperience from function leasTriedExperience
+the IntendedExperience is:(3,0,0)
+the EnactedExperience  is:(3,1,0)
+The current score is:0
+updated the triedNumber Experience
+the  enacted Experience is already marked and the mark is:2
+the draw current belief state is:(3,1,0)
+the draw current mood   state is:0
+
+The sporadic experience List is:
+(4,1,0)
+(1,1,0)
+(1,0,0)
+(4,0,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+(2,1,0)
+(0,1,0)
+(2,2,0)
+isChanged is:false
+
+This EnactedExperience is already Marked ! mark is: 2
+The experiences are isAllMarked!
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:1
+(0,0,0) Marked:2
+(0,1,0) Marked:2
+(2,0,0) Marked:2
+(2,1,0) Marked:2
+(2,2,0) Marked:2
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:1
+(1,1,0) Marked:1
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:(3,1,0)
+The updated mood is:0
+
+The currentBeliefState numberOfTriedMap
+(3,1,0) number:1
+(0,0,0) number:1
+(4,1,0) number:1
+(2,2,10) number:1
+(0,1,0) number:1
+(3,0,0) number:1
+(4,0,0) number:0
+(1,1,0) number:0
+(2,0,0) number:0
+(1,0,0) number:0
+(2,1,0) number:0
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+[(2,0,0), (4,1,0), (2,1,0)]
+[(2,1,0), (4,0,0), (2,0,0)]
+[(2,2,0), (4,0,0), (2,1,0)]
+[(0,1,0), (1,0,0), (0,0,0)]
+[(2,0,0), (1,1,0), (2,1,0)]
+[(2,1,0), (1,0,0), (2,0,0)]
+[(0,0,0), (1,1,0), (0,1,0)]
+The state of the environment is:  left:false  right:true
+
+---------------------------------------------------------
+The Current Count Number is:333
+the BeliefState is:(3,1,0)
+the Mood  State is:0
+get the intendedexperience from function leasTriedExperience
+the IntendedExperience is:(4,0,0)
+the EnactedExperience  is:(4,0,0)
+The current score is:0
+updated the triedNumber Experience
+the  enacted Experience is already marked and the mark is:1
+the draw current belief state is:(3,1,0)
+the draw current mood   state is:0
+
+The sporadic experience List is:
+(4,1,0)
+(1,1,0)
+(1,0,0)
+(4,0,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+(2,1,0)
+(0,1,0)
+(2,2,0)
+isChanged is:false
+
+This EnactedExperience is already Marked ! mark is: 1
+The experiences are isAllMarked!
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:1
+(0,0,0) Marked:2
+(0,1,0) Marked:2
+(2,0,0) Marked:2
+(2,1,0) Marked:2
+(2,2,0) Marked:2
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:1
+(1,1,0) Marked:1
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:(3,1,0)
+The updated mood is:0
+
+The currentBeliefState numberOfTriedMap
+(3,1,0) number:1
+(0,0,0) number:1
+(4,1,0) number:1
+(2,2,10) number:1
+(0,1,0) number:1
+(3,0,0) number:1
+(4,0,0) number:1
+(1,1,0) number:0
+(2,0,0) number:0
+(1,0,0) number:0
+(2,1,0) number:0
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+[(2,0,0), (4,1,0), (2,1,0)]
+[(2,1,0), (4,0,0), (2,0,0)]
+[(2,2,0), (4,0,0), (2,1,0)]
+[(0,1,0), (1,0,0), (0,0,0)]
+[(2,0,0), (1,1,0), (2,1,0)]
+[(2,1,0), (1,0,0), (2,0,0)]
+[(0,0,0), (1,1,0), (0,1,0)]
+The state of the environment is:  left:false  right:false
+
+---------------------------------------------------------
+The Current Count Number is:334
+the BeliefState is:(3,1,0)
+the Mood  State is:0
+get the intendedexperience from function leasTriedExperience
+the IntendedExperience is:(1,1,0)
+the EnactedExperience  is:(1,1,0)
+The current score is:0
+updated the triedNumber Experience
+the  enacted Experience is already marked and the mark is:1
+the draw current belief state is:(3,1,0)
+the draw current mood   state is:0
+
+The sporadic experience List is:
+(4,1,0)
+(1,1,0)
+(1,0,0)
+(4,0,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+(2,1,0)
+(0,1,0)
+(2,2,0)
+isChanged is:false
+
+This EnactedExperience is already Marked ! mark is: 1
+The experiences are isAllMarked!
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:1
+(0,0,0) Marked:2
+(0,1,0) Marked:2
+(2,0,0) Marked:2
+(2,1,0) Marked:2
+(2,2,0) Marked:2
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:1
+(1,1,0) Marked:1
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:(3,1,0)
+The updated mood is:0
+
+The currentBeliefState numberOfTriedMap
+(3,1,0) number:1
+(0,0,0) number:1
+(4,1,0) number:1
+(2,2,10) number:1
+(0,1,0) number:1
+(3,0,0) number:1
+(4,0,0) number:1
+(1,1,0) number:1
+(2,0,0) number:0
+(1,0,0) number:0
+(2,1,0) number:0
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+[(2,0,0), (4,1,0), (2,1,0)]
+[(2,1,0), (4,0,0), (2,0,0)]
+[(2,2,0), (4,0,0), (2,1,0)]
+[(0,1,0), (1,0,0), (0,0,0)]
+[(2,0,0), (1,1,0), (2,1,0)]
+[(2,1,0), (1,0,0), (2,0,0)]
+[(0,0,0), (1,1,0), (0,1,0)]
+The state of the environment is:  left:true  right:false
+
+---------------------------------------------------------
+The Current Count Number is:335
+the BeliefState is:(3,1,0)
+the Mood  State is:0
+get the intendedexperience from function leasTriedExperience
+the IntendedExperience is:(2,0,0)
+the EnactedExperience  is:(2,1,0)
+The current score is:0
+updated the triedNumber Experience
+the  enacted Experience is already marked and the mark is:2
+the draw current belief state is:(2,1,0)
+the draw current mood   state is:0
+
+The sporadic experience List is:
+(4,1,0)
+(1,1,0)
+(1,0,0)
+(4,0,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+(2,1,0)
+(0,1,0)
+(2,2,0)
+isChanged is:false
+
+This EnactedExperience is already Marked ! mark is: 2
+The experiences are isAllMarked!
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:1
+(0,0,0) Marked:2
+(0,1,0) Marked:2
+(2,0,0) Marked:2
+(2,1,0) Marked:2
+(2,2,0) Marked:2
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:1
+(1,1,0) Marked:1
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:(2,1,0)
+The updated mood is:0
+
+The currentBeliefState numberOfTriedMap
+(4,1,0) number:1
+(1,0,0) number:1
+(2,2,10) number:1
+(4,0,0) number:1
+(2,1,0) number:1
+(1,1,0) number:1
+(3,1,0) number:1
+(0,0,0) number:1
+(0,1,0) number:1
+(2,0,0) number:0
+(3,0,0) number:0
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+[(2,0,0), (4,1,0), (2,1,0)]
+[(2,1,0), (4,0,0), (2,0,0)]
+[(2,2,0), (4,0,0), (2,1,0)]
+[(0,1,0), (1,0,0), (0,0,0)]
+[(2,0,0), (1,1,0), (2,1,0)]
+[(2,1,0), (1,0,0), (2,0,0)]
+[(0,0,0), (1,1,0), (0,1,0)]
+The state of the environment is:  left:true  right:false
+
+---------------------------------------------------------
+The Current Count Number is:336
+the BeliefState is:(2,1,0)
+the Mood  State is:0
+get the intendedexperience from function leasTriedExperience
+the IntendedExperience is:(2,0,0)
+the EnactedExperience  is:(2,1,0)
+The current score is:0
+updated the triedNumber Experience
+the  enacted Experience is already marked and the mark is:2
+the draw current belief state is:(2,1,0)
+the draw current mood   state is:0
+
+The sporadic experience List is:
+(4,1,0)
+(1,1,0)
+(1,0,0)
+(4,0,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+(2,1,0)
+(0,1,0)
+(2,2,0)
+isChanged is:false
+
+This EnactedExperience is already Marked ! mark is: 2
+The experiences are isAllMarked!
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:1
+(0,0,0) Marked:2
+(0,1,0) Marked:2
+(2,0,0) Marked:2
+(2,1,0) Marked:2
+(2,2,0) Marked:2
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:1
+(1,1,0) Marked:1
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:(2,1,0)
+The updated mood is:0
+
+The currentBeliefState numberOfTriedMap
+(4,1,0) number:1
+(1,0,0) number:1
+(2,2,10) number:1
+(4,0,0) number:1
+(2,1,0) number:1
+(1,1,0) number:1
+(3,1,0) number:1
+(0,0,0) number:1
+(0,1,0) number:1
+(2,0,0) number:1
+(3,0,0) number:0
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+[(2,0,0), (4,1,0), (2,1,0)]
+[(2,1,0), (4,0,0), (2,0,0)]
+[(2,2,0), (4,0,0), (2,1,0)]
+[(0,1,0), (1,0,0), (0,0,0)]
+[(2,0,0), (1,1,0), (2,1,0)]
+[(2,1,0), (1,0,0), (2,0,0)]
+[(0,0,0), (1,1,0), (0,1,0)]
+The state of the environment is:  left:true  right:false
+
+---------------------------------------------------------
+The Current Count Number is:337
+the BeliefState is:(2,1,0)
+the Mood  State is:0
+get the intendedexperience from function leasTriedExperience
+the IntendedExperience is:(3,0,0)
+the EnactedExperience  is:(3,0,0)
+The current score is:0
+updated the triedNumber Experience
+the  enacted Experience is already marked and the mark is:2
+the draw current belief state is:(3,0,0)
+the draw current mood   state is:0
+
+The sporadic experience List is:
+(4,1,0)
+(1,1,0)
+(1,0,0)
+(4,0,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+(2,1,0)
+(0,1,0)
+(2,2,0)
+isChanged is:false
+
+This EnactedExperience is already Marked ! mark is: 2
+The experiences are isAllMarked!
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:1
+(0,0,0) Marked:2
+(0,1,0) Marked:2
+(2,0,0) Marked:2
+(2,1,0) Marked:2
+(2,2,0) Marked:2
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:1
+(1,1,0) Marked:1
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:(3,0,0)
+The updated mood is:0
+
+The currentBeliefState numberOfTriedMap
+(4,1,0) number:1
+(2,2,10) number:1
+(3,0,0) number:0
+(0,0,0) number:0
+(3,1,0) number:0
+(1,1,0) number:0
+(2,1,0) number:0
+(1,0,0) number:0
+(4,0,0) number:0
+(0,1,0) number:0
+(2,0,0) number:0
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+[(2,0,0), (4,1,0), (2,1,0)]
+[(2,1,0), (4,0,0), (2,0,0)]
+[(2,2,0), (4,0,0), (2,1,0)]
+[(0,1,0), (1,0,0), (0,0,0)]
+[(2,0,0), (1,1,0), (2,1,0)]
+[(2,1,0), (1,0,0), (2,0,0)]
+[(0,0,0), (1,1,0), (0,1,0)]
+The state of the environment is:  left:true  right:false
+
+---------------------------------------------------------
+The Current Count Number is:338
+the BeliefState is:(3,0,0)
+the Mood  State is:0
+get the intendedexperience from function leasTriedExperience
+the IntendedExperience is:(3,0,0)
+the EnactedExperience  is:(3,0,0)
+The current score is:0
+updated the triedNumber Experience
+the  enacted Experience is already marked and the mark is:2
+the draw current belief state is:(3,0,0)
+the draw current mood   state is:0
+
+The sporadic experience List is:
+(4,1,0)
+(1,1,0)
+(1,0,0)
+(4,0,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+(2,1,0)
+(0,1,0)
+(2,2,0)
+isChanged is:false
+
+This EnactedExperience is already Marked ! mark is: 2
+The experiences are isAllMarked!
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:1
+(0,0,0) Marked:2
+(0,1,0) Marked:2
+(2,0,0) Marked:2
+(2,1,0) Marked:2
+(2,2,0) Marked:2
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:1
+(1,1,0) Marked:1
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:(3,0,0)
+The updated mood is:0
+
+The currentBeliefState numberOfTriedMap
+(4,1,0) number:1
+(2,2,10) number:1
+(3,0,0) number:1
+(0,0,0) number:0
+(3,1,0) number:0
+(1,1,0) number:0
+(2,1,0) number:0
+(1,0,0) number:0
+(4,0,0) number:0
+(0,1,0) number:0
+(2,0,0) number:0
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+[(2,0,0), (4,1,0), (2,1,0)]
+[(2,1,0), (4,0,0), (2,0,0)]
+[(2,2,0), (4,0,0), (2,1,0)]
+[(0,1,0), (1,0,0), (0,0,0)]
+[(2,0,0), (1,1,0), (2,1,0)]
+[(2,1,0), (1,0,0), (2,0,0)]
+[(0,0,0), (1,1,0), (0,1,0)]
+The state of the environment is:  left:true  right:false
+
+---------------------------------------------------------
+The Current Count Number is:339
+the BeliefState is:(3,0,0)
+the Mood  State is:0
+get the intendedexperience from function leasTriedExperience
+the IntendedExperience is:(0,0,0)
+the EnactedExperience  is:(0,1,0)
+The current score is:0
+updated the triedNumber Experience
+the  enacted Experience is already marked and the mark is:2
+the draw current belief state is:(0,1,0)
+the draw current mood   state is:0
+
+The sporadic experience List is:
+(4,1,0)
+(1,1,0)
+(1,0,0)
+(4,0,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+(2,1,0)
+(0,1,0)
+(2,2,0)
+isChanged is:false
+
+This EnactedExperience is already Marked ! mark is: 2
+The experiences are isAllMarked!
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:1
+(0,0,0) Marked:2
+(0,1,0) Marked:2
+(2,0,0) Marked:2
+(2,1,0) Marked:2
+(2,2,0) Marked:2
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:1
+(1,1,0) Marked:1
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:(0,1,0)
+The updated mood is:0
+
+The currentBeliefState numberOfTriedMap
+(1,1,0) number:1
+(2,2,10) number:1
+(4,0,0) number:1
+(3,1,0) number:1
+(0,0,0) number:1
+(1,0,0) number:1
+(3,0,0) number:1
+(0,1,0) number:0
+(2,1,0) number:0
+(4,1,0) number:0
+(2,0,0) number:0
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+[(2,0,0), (4,1,0), (2,1,0)]
+[(2,1,0), (4,0,0), (2,0,0)]
+[(2,2,0), (4,0,0), (2,1,0)]
+[(0,1,0), (1,0,0), (0,0,0)]
+[(2,0,0), (1,1,0), (2,1,0)]
+[(2,1,0), (1,0,0), (2,0,0)]
+[(0,0,0), (1,1,0), (0,1,0)]
+The state of the environment is:  left:true  right:false
+
+---------------------------------------------------------
+The Current Count Number is:340
+the BeliefState is:(0,1,0)
+the Mood  State is:0
+get the intendedexperience from function leasTriedExperience
+the IntendedExperience is:(0,1,0)
+the EnactedExperience  is:(0,1,0)
+The current score is:0
+updated the triedNumber Experience
+the  enacted Experience is already marked and the mark is:2
+the draw current belief state is:(0,1,0)
+the draw current mood   state is:0
+
+The sporadic experience List is:
+(4,1,0)
+(1,1,0)
+(1,0,0)
+(4,0,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+(2,1,0)
+(0,1,0)
+(2,2,0)
+isChanged is:false
+
+This EnactedExperience is already Marked ! mark is: 2
+The experiences are isAllMarked!
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:1
+(0,0,0) Marked:2
+(0,1,0) Marked:2
+(2,0,0) Marked:2
+(2,1,0) Marked:2
+(2,2,0) Marked:2
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:1
+(1,1,0) Marked:1
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:(0,1,0)
+The updated mood is:0
+
+The currentBeliefState numberOfTriedMap
+(1,1,0) number:1
+(2,2,10) number:1
+(4,0,0) number:1
+(3,1,0) number:1
+(0,0,0) number:1
+(1,0,0) number:1
+(3,0,0) number:1
+(0,1,0) number:1
+(2,1,0) number:0
+(4,1,0) number:0
+(2,0,0) number:0
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+[(2,0,0), (4,1,0), (2,1,0)]
+[(2,1,0), (4,0,0), (2,0,0)]
+[(2,2,0), (4,0,0), (2,1,0)]
+[(0,1,0), (1,0,0), (0,0,0)]
+[(2,0,0), (1,1,0), (2,1,0)]
+[(2,1,0), (1,0,0), (2,0,0)]
+[(0,0,0), (1,1,0), (0,1,0)]
+The state of the environment is:  left:true  right:false
+
+---------------------------------------------------------
+The Current Count Number is:341
+the BeliefState is:(0,1,0)
+the Mood  State is:0
+get the intendedexperience from function leasTriedExperience
+the IntendedExperience is:(2,1,0)
+the EnactedExperience  is:(2,1,0)
+The current score is:0
+updated the triedNumber Experience
+the  enacted Experience is already marked and the mark is:2
+the draw current belief state is:(2,1,0)
+the draw current mood   state is:0
+
+The sporadic experience List is:
+(4,1,0)
+(1,1,0)
+(1,0,0)
+(4,0,0)
+The createNewBeliefStateList is:
+(0,0,0)
+(3,0,0)
+(3,1,0)
+(2,0,0)
+(2,1,0)
+(0,1,0)
+(2,2,0)
+isChanged is:false
+
+This EnactedExperience is already Marked ! mark is: 2
+The experiences are AllTried in this belief!
+The experiences are isAllMarked!
+ischange is:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+the experience marked map is as follows:
+(4,0,0) Marked:1
+(0,0,0) Marked:2
+(0,1,0) Marked:2
+(2,0,0) Marked:2
+(2,1,0) Marked:2
+(2,2,0) Marked:2
+(3,1,0) Marked:2
+(4,1,0) Marked:1
+(1,0,0) Marked:1
+(1,1,0) Marked:1
+(3,0,0) Marked:2
+
+The updated currentBeliefState is:unknown
+The updated mood is:1
+
+The currentBeliefState numberOfTriedMap
+The persistent sporadic persistent list is:
+[(3,0,0), (4,1,0), (3,1,0)]
+[(3,1,0), (4,0,0), (3,0,0)]
+[(2,0,0), (4,1,0), (2,1,0)]
+[(2,1,0), (4,0,0), (2,0,0)]
+[(2,2,0), (4,0,0), (2,1,0)]
+[(0,1,0), (1,0,0), (0,0,0)]
+[(2,0,0), (1,1,0), (2,1,0)]
+[(2,1,0), (1,0,0), (2,0,0)]
+[(0,0,0), (1,1,0), (0,1,0)]
+The state of the environment is:  left:true  right:false
+
+---------------------------------------------------------
+The Current Count Number is:342
+the BeliefState is:unknown
+the Mood  State is:1
+=====================================================
+the hedonist experience is(0,1,0)
+the IntendedExperience is:(0,1,0)
+the EnactedExperience  is:(0,1,0)
+The current score is:0
+updated the triedNumber Experience
+the  enacted Experience is already marked and the mark is:2
+the draw current belief state is:unknown
+the draw current mood   state is:1

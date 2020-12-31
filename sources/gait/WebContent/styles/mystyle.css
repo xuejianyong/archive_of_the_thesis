@@ -1,0 +1,243 @@
+div.outdivclass{
+    background-color: #fff;
+    width: 1300px;
+    height: 1030px;
+    border: 0px solid rgb(241, 22, 230);
+    overflow: auto;
+}
+
+div.leftdiv{
+    background-color: #fff;
+    width: 160px;
+    height: 1020px;
+    float: left;
+    border: 0px solid blue;
+    padding: 0px;
+
+    font-size: 10px;
+    font-weight: bold;
+    padding-left: 25px;
+    line-height: 12px;
+    position: relative;
+}
+
+div.textComposite{
+    border: 0px solid black;
+    height: 30px;
+    width: 150px;
+    position: absolute;
+    top: 770px;
+}
+
+div.intendedEnacted{
+    border: 0px solid black;
+    height: 50px;
+    width: 150px;
+    position: absolute;
+    top: 850px;
+}
+
+div.stepValence{
+    border: 0px solid black;
+    height: 50px;
+    width: 160px;
+    position: absolute;
+    top: 930px;
+}
+
+
+div.scrolldivclass{
+    background-color: #fff;
+    padding: 0px;
+    width: 1100px;
+    height: 1020px;
+    float: left;
+    border: 0px solid rgb(22, 241, 106);
+    overflow: auto;
+    position: relative;
+}
+
+div.anticipationDivclass{
+    position: absolute;
+    display: none;
+    left: 0px;
+    top: 0px;
+}
+
+
+div.intendedEnactedCompositeInteraction{
+    position: absolute;
+    display: none;
+    left: 0px;
+    top: 0px;
+}
+
+div.compositeInteractionSvgDivClass{
+    position: absolute;
+    display: none;
+    left: 0px;
+    top: 0px;
+    border: 0px solid rgb(12, 12, 12);
+}
+
+div.temporaryDivClass{
+    position: absolute;
+    display: none;
+    left: 0px;
+    top: 0px;
+}
+
+div.first{
+    margin-top: 790px;
+    height: 65px;
+    text-align:left;
+    vertical-align: middle;
+}
+
+div.second{
+}
+
+
+div.bigExportResult{
+    width: 1290px;
+    height: 500px;
+    overflow: auto;
+    border: 0px solid rgb(22, 241, 106);
+}
+
+div.exportResult{
+    background-color: bisque;
+    width: 1000px;
+    height: 450px;
+    overflow: auto;
+    border: 1px solid rgb(22, 241, 106);
+    position: relative;
+    float: left;
+}
+
+div.exportCompositeResult{
+    background-color: bisque;
+    width: 265px;
+    height: 450px;
+    overflow: auto;
+    border: 1px solid rgb(22, 241, 106);
+    position: relative;
+    left: 20px;
+}
+
+div.resultExportButton{
+    border: px solid rgb(83, 83, 5);
+    width: 1250px;
+    height: 30px;
+    position: absolute;
+    bottom: 0px;
+    padding: 5px;
+    align-content: center;
+}
+
+
+
+.buttonClassStart{
+    background-color: rgb(179, 243, 142);
+    width: 120px;
+    height: 30px;
+    margin: 10px;
+    font-size: 16px;
+    border: 1px solid black;
+}
+
+.buttonClassStop{
+    background-color: rgb(236, 60, 60);
+    border: 1px solid black;
+    width: 120px;
+    height: 30px;
+    margin: 10px;
+    font-size: 16px;
+}
+
+.buttonClassReset{
+    background-color: rgb(203, 206, 201);
+    width: 120px;
+    height: 30px;
+    margin: 10px;
+    font-size: 16px;
+    border: 1px solid black;
+}
+
+.light_content{
+    position: absolute;
+    display: block;
+    z-index: 1;
+}
+
+.multi_layer{
+    position: absolute;
+    top: 30px; 
+    left: 30px; 
+    width: 1270px; 
+    height: 550px; 
+    padding: 5px; 
+    border: 2px solid orange; 
+    background-color: white; 
+    z-index: 3;
+    display: none;
+    overflow: auto; 
+}
+
+.multi_back_layer{ 
+    display: none; 
+    position: absolute; 
+    top: 0%; 
+    left: 0%; 
+    width: 100%; 
+    height: 100%; 
+    background-color: black; 
+    z-index:2; 
+    -moz-opacity: 0.8; 
+    opacity:.80; 
+    filter: alpha(opacity=88); 
+} 
+
+.canvas_back_class{
+    border: 0px solid rgb(27, 27, 25);
+    width: 1000px;
+    height: 500px;
+    position: relative;
+    float: left;
+    
+}
+
+.agent_back_class{
+    border: 2px solid rgb(231, 231, 40);
+    width: 250px;
+    height: 500px;
+    position: absolute;
+    left: 1015px;
+    overflow: auto;
+}
+
+.button_back_class{
+    border: px solid rgb(83, 83, 5);
+    width: 1250px;
+    height: 30px;
+    position: absolute;
+    bottom: 0px;
+    padding: 5px;
+    
+    align-content: center;
+   
+    
+}
+
+.textclasscomposite{
+	vertical-align: middle;
+}
+.textclassintended{
+	
+}
+.textclassenacted{
+}
+.textclassstep{
+}
+.textclassvalence{
+}

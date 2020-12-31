@@ -1,0 +1,1176 @@
+parameters are{v_moveSucess:5 v_moveFailture:-10 v_turn:-3 v_feelEmpty:-1 v_feelWall:-2
+The first interaction...
+
+loop number is:1
+intendedInteraction is: e50_-2_0_0
+enactedInteraction is: e50_-2_0_0
+learnCompositeInteraction()
+The intended interaction is: e50_-2_0_0
+The enacted  interaction is: e50_-2_0_0
+--------------------------------------------------------------------------------------------------------
+loop number is:2
+The primitive intendedInteraction is: e50_-2_0_0
+The primitive enactedInteraction  is: e50_-2_0_0
+learnCompositeInteraction()
+LEARN:<e50e50>_-4_1_1
+--------------------------------------------------------------------------------------------------------
+loop number is:3
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e00_-10_0_0
+learnCompositeInteraction()
+LEARN:<e50e00>_-12_1_1
+LEARN:<e50<e50e00>>_-14_1_2
+LEARN:<<e50e50>e00>_-14_1_2
+
+
+
+
+--------------------------------------------------------------------------------------------------------
+loop number is:8
+The best choice of the anticipation interaction is Primitive
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+learnCompositeInteraction()
+REINFORCE:<e01e01>_10_2_1
+LEARN:<e01<e01e01>>_15_1_2
+LEARN:<<e01e01>e01>_15_1_2
+--------------------------------------------------------------------------------------------------------
+loop number is:9
+The best choice of the anticipation interaction is Primitive
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e00_-10_0_0
+learnCompositeInteraction()
+LEARN:<e01e00>_-5_1_1
+LEARN:<e01<e01e00>>_0_1_2
+LEARN:<<e01e01>e00>_0_1_2
+--------------------------------------------------------------------------------------------------------
+loop number is:10
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e00_-10_0_0
+learnCompositeInteraction()
+LEARN:<e00e00>_-20_1_1
+LEARN:<e01<e00e00>>_-15_1_2
+LEARN:<<e01e00>e00>_-15_1_2
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------
+loop number is:23
+The best choice of the anticipation interaction is composite and its weight is:1
+The best choice of the anticipation interaction's weight less or equal than threshold and proclivity is positive
+The primitive intendedInteraction is: e11_-3_0_0
+The primitive enactedInteraction  is: e11_-3_0_0
+learnCompositeInteraction()
+REINFORCE:<e00e11>_-13_2_1
+LEARN:<e41<e00e11>>_-14_1_2
+LEARN:<<e41e00>e11>_-14_1_2
+--------------------------------------------------------------------------------------------------------
+loop number is:24
+The best choice of the anticipation interaction is Primitive
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+learnCompositeInteraction()
+REINFORCE:<e11e01>_2_3_1
+REINFORCE:<e00<e11e01>>_-8_2_2
+REINFORCE:<<e00e11>e01>_-8_2_2
+--------------------------------------------------------------------------------------------------------
+loop number is:25
+The primitive intendedInteraction is: e30_-2_0_0
+The primitive enactedInteraction  is: e30_-2_0_0
+learnCompositeInteraction()
+LEARN:<e01e30>_3_1_1
+LEARN:<e11<e01e30>>_0_1_2
+LEARN:<<e11e01>e30>_0_1_2
+
+
+
+--------------------------------------------------------------------------------------------------------
+loop number is:38
+The best choice of the anticipation interaction is composite and its weight is:2
+The best choice of the anticipation interaction's weight plus than threshold and proclivity is positive
+The primitive intendedInteraction is: e11_-3_0_0
+The primitive enactedInteraction  is: e11_-3_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e00_-10_0_0
+REINFORCE:<e11e00>_-13_3_1
+The intended composite interaction is: <e11e01>_2_5_1
+The enacted  composite interaction is: <e11e00>_-13_3_1
+learnCompositeInteraction()
+LEARN:<e00<e11e00>>_-23_1_2
+LEARN:<e11<e00<e11e00>>>_-26_1_3
+LEARN:<<e11e00><e11e00>>_-26_1_2
+--------------------------------------------------------------------------------------------------------
+loop number is:39
+The best choice of the anticipation interaction is Primitive
+The primitive intendedInteraction is: e50_-2_0_0
+The primitive enactedInteraction  is: e50_-2_0_0
+learnCompositeInteraction()
+LEARN:<<e11e00>e50>_-15_1_2
+LEARN:<e00<<e11e00>e50>>_-25_1_3
+LEARN:<<e00<e11e00>>e50>_-25_1_3
+--------------------------------------------------------------------------------------------------------
+loop number is:40
+The primitive intendedInteraction is: e21_-3_0_0
+The primitive enactedInteraction  is: e21_-3_0_0
+learnCompositeInteraction()
+LEARN:<e50e21>_-5_1_1
+LEARN:<<e11e00><e50e21>>_-18_1_2
+LEARN:<<<e11e00>e50>e21>_-18_1_3
+
+
+
+
+--------------------------------------------------------------------------------------------------------
+loop number is:78
+The best choice of the anticipation interaction is composite and its weight is:1
+The best choice of the anticipation interaction's weight less or equal than threshold and proclivity is positive
+The primitive intendedInteraction is: e40_-2_0_0
+The primitive enactedInteraction  is: e41_-1_0_0
+learnCompositeInteraction()
+REINFORCE:<e01e41>_4_4_1
+REINFORCE:<e40<e01e41>>_2_2_2
+REINFORCE:<<e40e01>e41>_2_2_2
+--------------------------------------------------------------------------------------------------------
+loop number is:79
+The best choice of the anticipation interaction is composite and its weight is:1
+The best choice of the anticipation interaction's weight less or equal than threshold and proclivity is positive
+The primitive intendedInteraction is: e11_-3_0_0
+The primitive enactedInteraction  is: e11_-3_0_0
+learnCompositeInteraction()
+REINFORCE:<e41e11>_-4_3_1
+REINFORCE:<e01<e41e11>>_1_2_2
+REINFORCE:<<e01e41>e11>_1_2_2
+--------------------------------------------------------------------------------------------------------
+loop number is:80
+The best choice of the anticipation interaction is composite and its weight is:2
+The best choice of the anticipation interaction's weight plus than threshold and proclivity is positive
+The primitive intendedInteraction is: e31_-1_0_0
+The primitive enactedInteraction  is: e31_-1_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The intended composite interaction is: <e31e01>_4_3_1
+The enacted  composite interaction is: <e31e01>_4_3_1
+learnCompositeInteraction()
+REINFORCE:<e11<e31e01>>_1_3_2
+LEARN:<e41<e11<e31e01>>>_0_1_3
+LEARN:<<e41e11><e31e01>>_0_1_2
+--------------------------------------------------------------------------------------------------------
+loop number is:81
+The best choice of the anticipation interaction is composite and its weight is:1
+The best choice of the anticipation interaction's weight less than threshold or proclivity is negative
+The primitive intendedInteraction is: e30_-2_0_0
+The primitive enactedInteraction  is: e31_-1_0_0
+learnCompositeInteraction()
+LEARN:<<e31e01>e31>_3_1_2
+LEARN:<e11<<e31e01>e31>>_0_1_3
+LEARN:<<e11<e31e01>>e31>_0_1_3
+
+
+
+
+--------------------------------------------------------------------------------------------------------
+loop number is:85
+The best choice of the anticipation interaction is composite and its weight is:2
+The best choice of the anticipation interaction's weight plus than threshold and proclivity is positive
+The primitive intendedInteraction is: e31_-1_0_0
+The primitive enactedInteraction  is: e30_-2_0_0
+The intended composite interaction is: <e31e01>_4_5_1
+The enacted  composite interaction is: e30_-2_0_0
+learnCompositeInteraction()
+REINFORCE:<e01e30>_3_3_1
+LEARN:<e31<e01e30>>_2_1_2
+LEARN:<<e31e01>e30>_2_1_2
+--------------------------------------------------------------------------------------------------------
+loop number is:86
+The best choice of the anticipation interaction is Primitive
+The primitive intendedInteraction is: e50_-2_0_0
+The primitive enactedInteraction  is: e50_-2_0_0
+learnCompositeInteraction()
+REINFORCE:<e30e50>_-4_2_1
+LEARN:<e01<e30e50>>_1_1_2
+LEARN:<<e01e30>e50>_1_1_2
+
+
+
+--------------------------------------------------------------------------------------------------------
+loop number is:105
+The best choice of the anticipation interaction is composite and its weight is:1
+The best choice of the anticipation interaction's weight less or equal than threshold and proclivity is positive
+The primitive intendedInteraction is: e21_-3_0_0
+The primitive enactedInteraction  is: e21_-3_0_0
+learnCompositeInteraction()
+REINFORCE:<e00e21>_-13_3_1
+LEARN:<e01<e00e21>>_-8_1_2
+LEARN:<<e01e00>e21>_-8_1_2
+--------------------------------------------------------------------------------------------------------
+loop number is:106
+The best choice of the anticipation interaction is composite and its weight is:2
+The best choice of the anticipation interaction's weight plus than threshold and proclivity is positive
+The primitive intendedInteraction is: e40_-2_0_0
+The primitive enactedInteraction  is: e40_-2_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The intended composite interaction is: <e40e01>_3_4_1
+The enacted  composite interaction is: <e40e01>_3_4_1
+learnCompositeInteraction()
+REINFORCE:<e21<e40e01>>_0_3_2
+LEARN:<e00<e21<e40e01>>>_-10_1_3
+LEARN:<<e00e21><e40e01>>_-10_1_2
+
+
+
+
+--------------------------------------------------------------------------------------------------------
+loop number is:110
+The best choice of the anticipation interaction is composite and its weight is:3
+The best choice of the anticipation interaction's weight plus than threshold and proclivity is positive
+The primitive intendedInteraction is: e31_-1_0_0
+The primitive enactedInteraction  is: e31_-1_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The intended composite interaction is: <e31e01>_4_5_1
+The enacted  composite interaction is: <e31e01>_4_5_1
+learnCompositeInteraction()
+REINFORCE:<e11<e31e01>>_1_4_2
+LEARN:<e30<e11<e31e01>>>_-1_1_3
+LEARN:<<e30e11><e31e01>>_-1_1_2
+--------------------------------------------------------------------------------------------------------
+loop number is:111
+The best choice of the anticipation interaction is Primitive
+The primitive intendedInteraction is: e11_-3_0_0
+The primitive enactedInteraction  is: e11_-3_0_0
+learnCompositeInteraction()
+LEARN:<<e31e01>e11>_1_1_2
+LEARN:<e11<<e31e01>e11>>_-2_1_3
+LEARN:<<e11<e31e01>>e11>_-2_1_3
+--------------------------------------------------------------------------------------------------------
+loop number is:112
+The best choice of the anticipation interaction is composite and its weight is:4
+The best choice of the anticipation interaction's weight plus than threshold and proclivity is positive
+The primitive intendedInteraction is: e31_-1_0_0
+The primitive enactedInteraction  is: e31_-1_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The intended composite interaction is: <e31e01>_4_5_1
+The enacted  composite interaction is: <e31e01>_4_5_1
+learnCompositeInteraction()
+REINFORCE:<e11<e31e01>>_1_5_2
+LEARN:<<e31e01><e11<e31e01>>>_5_1_3
+LEARN:<<<e31e01>e11><e31e01>>_5_1_3
+--------------------------------------------------------------------------------------------------------
+loop number is:113
+The best choice of the anticipation interaction is Primitive
+The primitive intendedInteraction is: e21_-3_0_0
+The primitive enactedInteraction  is: e21_-3_0_0
+learnCompositeInteraction()
+LEARN:<<e31e01>e21>_1_1_2
+LEARN:<e11<<e31e01>e21>>_-2_1_3
+LEARN:<<e11<e31e01>>e21>_-2_1_3
+
+
+
+--------------------------------------------------------------------------------------------------------
+loop number is:151
+The best choice of the anticipation interaction is Primitive
+The primitive intendedInteraction is: e41_-1_0_0
+The primitive enactedInteraction  is: e41_-1_0_0
+learnCompositeInteraction()
+REINFORCE:<e30e41>_-3_3_1
+LEARN:<e11<e30e41>>_-6_1_2
+LEARN:<<e11e30>e41>_-6_1_2
+--------------------------------------------------------------------------------------------------------
+loop number is:152
+The best choice of the anticipation interaction is composite and its weight is:1
+The best choice of the anticipation interaction's weight less than threshold or proclivity is negative
+The primitive intendedInteraction is: e41_-1_0_0
+The primitive enactedInteraction  is: e41_-1_0_0
+learnCompositeInteraction()
+REINFORCE:<e41e41>_-2_4_1
+LEARN:<e30<e41e41>>_-4_1_2
+LEARN:<<e30e41>e41>_-4_1_2
+--------------------------------------------------------------------------------------------------------
+loop number is:153
+The best choice of the anticipation interaction is composite and its weight is:2
+The best choice of the anticipation interaction's weight plus than threshold and proclivity is positive
+The primitive intendedInteraction is: e11_-3_0_0
+The primitive enactedInteraction  is: e11_-3_0_0
+The primitive intendedInteraction is: e31_-1_0_0
+The primitive enactedInteraction  is: e31_-1_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The intended composite interaction is: <e11<e31e01>>_1_8_2
+The enacted  composite interaction is: <e11<e31e01>>_1_8_2
+learnCompositeInteraction()
+REINFORCE:<e41<e11<e31e01>>>_0_3_3
+LEARN:<e41<e41<e11<e31e01>>>>_-1_1_4
+LEARN:<<e41e41><e11<e31e01>>>_-1_1_3
+--------------------------------------------------------------------------------------------------------
+loop number is:154
+The best choice of the anticipation interaction is composite and its weight is:9
+The best choice of the anticipation interaction's weight plus than threshold and proclivity is positive
+The primitive intendedInteraction is: e31_-1_0_0
+The primitive enactedInteraction  is: e31_-1_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The intended composite interaction is: <e31e01>_4_6_1
+The enacted  composite interaction is: <e31e01>_4_6_1
+learnCompositeInteraction()
+REINFORCE:<<e11<e31e01>><e31e01>>_5_4_3
+LEARN:<e41<<e11<e31e01>><e31e01>>>_4_1_4
+LEARN:<<e41<e11<e31e01>>><e31e01>>_4_1_4
+--------------------------------------------------------------------------------------------------------
+loop number is:155
+The best choice of the anticipation interaction is composite and its weight is:8
+The best choice of the anticipation interaction's weight plus than threshold and proclivity is positive
+The primitive intendedInteraction is: e31_-1_0_0
+The primitive enactedInteraction  is: e30_-2_0_0
+The intended composite interaction is: <e31e01>_4_6_1
+The enacted  composite interaction is: e30_-2_0_0
+learnCompositeInteraction()
+REINFORCE:<<e31e01>e30>_2_6_2
+LEARN:<<e11<e31e01>><<e31e01>e30>>_3_1_3
+LEARN:<<<e11<e31e01>><e31e01>>e30>_3_1_4
+--------------------------------------------------------------------------------------------------------
+loop number is:156
+The best choice of the anticipation interaction is composite and its weight is:1
+The best choice of the anticipation interaction's weight less than threshold or proclivity is negative
+The primitive intendedInteraction is: e41_-1_0_0
+The primitive enactedInteraction  is: e41_-1_0_0
+learnCompositeInteraction()
+REINFORCE:<e30e41>_-3_4_1
+LEARN:<<e31e01><e30e41>>_1_1_2
+LEARN:<<<e31e01>e30>e41>_1_1_3
+--------------------------------------------------------------------------------------------------------
+loop number is:157
+The best choice of the anticipation interaction is composite and its weight is:1
+The best choice of the anticipation interaction's weight less or equal than threshold and proclivity is positive
+The primitive intendedInteraction is: e11_-3_0_0
+The primitive enactedInteraction  is: e11_-3_0_0
+The primitive intendedInteraction is: e31_-1_0_0
+The primitive enactedInteraction  is: e31_-1_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The intended composite interaction is: <e11<e31e01>>_1_8_2
+The enacted  composite interaction is: <e11<e31e01>>_1_8_2
+learnCompositeInteraction()
+REINFORCE:<e41<e11<e31e01>>>_0_4_3
+LEARN:<e30<e41<e11<e31e01>>>>_-2_1_4
+LEARN:<<e30e41><e11<e31e01>>>_-2_1_3
+
+
+
+--------------------------------------------------------------------------------------------------------
+loop number is:300
+The best choice of the anticipation interaction is composite and its weight is:1
+The best choice of the anticipation interaction's weight less or equal than threshold and proclivity is positive
+The primitive intendedInteraction is: e51_-1_0_0
+The primitive enactedInteraction  is: e51_-1_0_0
+learnCompositeInteraction()
+REINFORCE:<e30e51>_-3_6_1
+LEARN:<e30<e30e51>>_-5_1_2
+LEARN:<<e30e30>e51>_-5_1_2
+--------------------------------------------------------------------------------------------------------
+loop number is:301
+The best choice of the anticipation interaction is composite and its weight is:4
+The best choice of the anticipation interaction's weight plus than threshold and proclivity is positive
+The primitive intendedInteraction is: e21_-3_0_0
+The primitive enactedInteraction  is: e21_-3_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The primitive intendedInteraction is: e31_-1_0_0
+The primitive enactedInteraction  is: e31_-1_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The intended composite interaction is: <e21<e01<e31e01>>>_6_7_3
+The enacted  composite interaction is: <e21<e01<e31e01>>>_6_7_3
+learnCompositeInteraction()
+REINFORCE:<e51<e21<e01<e31e01>>>>_5_4_4
+REINFORCE:<e30<e51<e21<e01<e31e01>>>>>_3_2_5
+REINFORCE:<<e30e51><e21<e01<e31e01>>>>_3_2_4
+--------------------------------------------------------------------------------------------------------
+loop number is:302
+The primitive intendedInteraction is: e21_-3_0_0
+The primitive enactedInteraction  is: e21_-3_0_0
+learnCompositeInteraction()
+LEARN:<<e21<e01<e31e01>>>e21>_3_1_4
+LEARN:<e51<<e21<e01<e31e01>>>e21>>_2_1_5
+LEARN:<<e51<e21<e01<e31e01>>>>e21>_2_1_5
+--------------------------------------------------------------------------------------------------------
+
+loop number is:313
+The best choice of the anticipation interaction is composite and its weight is:2
+The best choice of the anticipation interaction's weight plus than threshold and proclivity is positive
+The primitive intendedInteraction is: e51_-1_0_0
+The primitive enactedInteraction  is: e51_-1_0_0
+The primitive intendedInteraction is: e21_-3_0_0
+The primitive enactedInteraction  is: e21_-3_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The primitive intendedInteraction is: e31_-1_0_0
+The primitive enactedInteraction  is: e31_-1_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The intended composite interaction is: <e51<e21<e01<e31e01>>>>_5_5_4
+The enacted  composite interaction is: <e51<e21<e01<e31e01>>>>_5_5_4
+learnCompositeInteraction()
+REINFORCE:<e30<e51<e21<e01<e31e01>>>>>_3_3_5
+LEARN:<<e31e01><e30<e51<e21<e01<e31e01>>>>>>_7_1_6
+LEARN:<<<e31e01>e30><e51<e21<e01<e31e01>>>>>_7_1_5
+--------------------------------------------------------------------------------------------------------
+loop number is:314
+The best choice of the anticipation interaction is composite and its weight is:2
+The best choice of the anticipation interaction's weight plus than threshold and proclivity is positive
+The primitive intendedInteraction is: e31_-1_0_0
+The primitive enactedInteraction  is: e30_-2_0_0
+The intended composite interaction is: <e31e01>_4_6_1
+The enacted  composite interaction is: e30_-2_0_0
+learnCompositeInteraction()
+REINFORCE:<<e51<e21<e01<e31e01>>>>e30>_3_2_5
+LEARN:<e30<<e51<e21<e01<e31e01>>>>e30>>_1_1_6
+LEARN:<<e30<e51<e21<e01<e31e01>>>>>e30>_1_1_6
+--------------------------------------------------------------------------------------------------------
+loop number is:315
+The best choice of the anticipation interaction is composite and its weight is:3
+The best choice of the anticipation interaction's weight plus than threshold and proclivity is positive
+The primitive intendedInteraction is: e51_-1_0_0
+The primitive enactedInteraction  is: e51_-1_0_0
+The primitive intendedInteraction is: e21_-3_0_0
+The primitive enactedInteraction  is: e21_-3_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The primitive intendedInteraction is: e31_-1_0_0
+The primitive enactedInteraction  is: e30_-2_0_0
+REINFORCE:<e01e30>_3_9_1
+REINFORCE:<e21<e01e30>>_0_5_2
+REINFORCE:<e51<e21<e01e30>>>_-1_4_3
+The intended composite interaction is: <e51<e21<e01<e31e01>>>>_5_5_4
+The enacted  composite interaction is: <e51<e21<e01e30>>>_-1_4_3
+learnCompositeInteraction()
+REINFORCE:<e30<e51<e21<e01e30>>>>_-3_2_4
+LEARN:<<e51<e21<e01<e31e01>>>><e30<e51<e21<e01e30>>>>>_2_1_5
+LEARN:<<<e51<e21<e01<e31e01>>>>e30><e51<e21<e01e30>>>>_2_1_6
+--------------------------------------------------------------------------------------------------------
+loop number is:316
+The primitive intendedInteraction is: e11_-3_0_0
+The primitive enactedInteraction  is: e11_-3_0_0
+learnCompositeInteraction()
+LEARN:<<e51<e21<e01e30>>>e11>_-4_1_4
+LEARN:<e30<<e51<e21<e01e30>>>e11>>_-6_1_5
+LEARN:<<e30<e51<e21<e01e30>>>>e11>_-6_1_5
+--------------------------------------------------------------------------------------------------------
+loop number is:317
+The best choice of the anticipation interaction is composite and its weight is:10
+The best choice of the anticipation interaction's weight plus than threshold and proclivity is positive
+The primitive intendedInteraction is: e31_-1_0_0
+The primitive enactedInteraction  is: e31_-1_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The intended composite interaction is: <e31e01>_4_6_1
+The enacted  composite interaction is: <e31e01>_4_6_1
+learnCompositeInteraction()
+REINFORCE:<e11<e31e01>>_1_11_2
+LEARN:<<e51<e21<e01e30>>><e11<e31e01>>>_0_1_4
+LEARN:<<<e51<e21<e01e30>>>e11><e31e01>>_0_1_5
+--------------------------------------------------------------------------------------------------------
+loop number is:318
+The best choice of the anticipation interaction is composite and its weight is:17
+The best choice of the anticipation interaction's weight plus than threshold and proclivity is positive
+The primitive intendedInteraction is: e31_-1_0_0
+The primitive enactedInteraction  is: e30_-2_0_0
+The intended composite interaction is: <e31e01>_4_6_1
+The enacted  composite interaction is: e30_-2_0_0
+learnCompositeInteraction()
+REINFORCE:<<e31e01>e30>_2_13_2
+REINFORCE:<e11<<e31e01>e30>>_-1_3_3
+REINFORCE:<<e11<e31e01>>e30>_-1_5_3
+--------------------------------------------------------------------------------------------------------
+loop number is:319
+The best choice of the anticipation interaction is composite and its weight is:4
+The best choice of the anticipation interaction's weight plus than threshold and proclivity is positive
+The primitive intendedInteraction is: e51_-1_0_0
+The primitive enactedInteraction  is: e51_-1_0_0
+The primitive intendedInteraction is: e21_-3_0_0
+The primitive enactedInteraction  is: e21_-3_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The primitive intendedInteraction is: e31_-1_0_0
+The primitive enactedInteraction  is: e31_-1_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The intended composite interaction is: <e51<e21<e01<e31e01>>>>_5_5_4
+The enacted  composite interaction is: <e51<e21<e01<e31e01>>>>_5_5_4
+learnCompositeInteraction()
+REINFORCE:<e30<e51<e21<e01<e31e01>>>>>_3_4_5
+REINFORCE:<<e31e01><e30<e51<e21<e01<e31e01>>>>>>_7_2_6
+REINFORCE:<<<e31e01>e30><e51<e21<e01<e31e01>>>>>_7_2_5
+--------------------------------------------------------------------------------------------------------
+loop number is:320
+The best choice of the anticipation interaction is Primitive
+The primitive intendedInteraction is: e40_-2_0_0
+The primitive enactedInteraction  is: e40_-2_0_0
+learnCompositeInteraction()
+LEARN:<<e51<e21<e01<e31e01>>>>e40>_3_1_5
+LEARN:<e30<<e51<e21<e01<e31e01>>>>e40>>_1_1_6
+LEARN:<<e30<e51<e21<e01<e31e01>>>>>e40>_1_1_6
+--------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------------------------------
+loop number is:400
+The best choice of the anticipation interaction is composite and its weight is:18
+The best choice of the anticipation interaction's weight plus than threshold and proclivity is positive
+The primitive intendedInteraction is: e31_-1_0_0
+The primitive enactedInteraction  is: e30_-2_0_0
+The intended composite interaction is: <e31e01>_4_6_1
+The enacted  composite interaction is: e30_-2_0_0
+learnCompositeInteraction()
+REINFORCE:<<e11<e31e01>>e30>_-1_8_3
+REINFORCE:<e41<<e11<e31e01>>e30>>_-2_5_4
+REINFORCE:<<e41<e11<e31e01>>>e30>_-2_5_4
+--------------------------------------------------------------------------------------------------------
+loop number is:401
+The best choice of the anticipation interaction is composite and its weight is:16
+The best choice of the anticipation interaction's weight plus than threshold and proclivity is positive
+The primitive intendedInteraction is: e51_-1_0_0
+The primitive enactedInteraction  is: e51_-1_0_0
+The primitive intendedInteraction is: e21_-3_0_0
+The primitive enactedInteraction  is: e21_-3_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The primitive intendedInteraction is: e31_-1_0_0
+The primitive enactedInteraction  is: e31_-1_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The intended composite interaction is: <e51<e21<e01<e31e01>>>>_5_7_4
+The enacted  composite interaction is: <e51<e21<e01<e31e01>>>>_5_7_4
+learnCompositeInteraction()
+REINFORCE:<e30<e51<e21<e01<e31e01>>>>>_3_15_5
+REINFORCE:<<e11<e31e01>><e30<e51<e21<e01<e31e01>>>>>>_4_3_6
+REINFORCE:<<<e11<e31e01>>e30><e51<e21<e01<e31e01>>>>>_4_3_5
+--------------------------------------------------------------------------------------------------------
+loop number is:402
+The best choice of the anticipation interaction is composite and its weight is:17
+The best choice of the anticipation interaction's weight plus than threshold and proclivity is positive
+The primitive intendedInteraction is: e31_-1_0_0
+The primitive enactedInteraction  is: e30_-2_0_0
+The intended composite interaction is: <e31e01>_4_6_1
+The enacted  composite interaction is: e30_-2_0_0
+learnCompositeInteraction()
+REINFORCE:<<e51<e21<e01<e31e01>>>>e30>_3_9_5
+REINFORCE:<e30<<e51<e21<e01<e31e01>>>>e30>>_1_7_6
+REINFORCE:<<e30<e51<e21<e01<e31e01>>>>>e30>_1_7_6
+--------------------------------------------------------------------------------------------------------
+loop number is:403
+The best choice of the anticipation interaction is composite and its weight is:17
+The best choice of the anticipation interaction's weight plus than threshold and proclivity is positive
+The primitive intendedInteraction is: e51_-1_0_0
+The primitive enactedInteraction  is: e51_-1_0_0
+The primitive intendedInteraction is: e21_-3_0_0
+The primitive enactedInteraction  is: e21_-3_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The primitive intendedInteraction is: e31_-1_0_0
+The primitive enactedInteraction  is: e31_-1_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The intended composite interaction is: <e51<e21<e01<e31e01>>>>_5_7_4
+The enacted  composite interaction is: <e51<e21<e01<e31e01>>>>_5_7_4
+learnCompositeInteraction()
+REINFORCE:<e30<e51<e21<e01<e31e01>>>>>_3_16_5
+REINFORCE:<<e51<e21<e01<e31e01>>>><e30<e51<e21<e01<e31e01>>>>>>_8_3_6
+REINFORCE:<<<e51<e21<e01<e31e01>>>>e30><e51<e21<e01<e31e01>>>>>_8_3_6
+--------------------------------------------------------------------------------------------------------
+loop number is:404
+The best choice of the anticipation interaction is composite and its weight is:17
+The best choice of the anticipation interaction's weight plus than threshold and proclivity is positive
+The primitive intendedInteraction is: e31_-1_0_0
+The primitive enactedInteraction  is: e31_-1_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The intended composite interaction is: <e31e01>_4_6_1
+The enacted  composite interaction is: <e31e01>_4_6_1
+learnCompositeInteraction()
+REINFORCE:<<e51<e21<e01<e31e01>>>><e31e01>>_9_10_5
+REINFORCE:<e30<<e51<e21<e01<e31e01>>>><e31e01>>>_7_6_6
+REINFORCE:<<e30<e51<e21<e01<e31e01>>>>><e31e01>>_7_6_6
+--------------------------------------------------------------------------------------------------------
+loop number is:405
+The best choice of the anticipation interaction is Primitive
+The primitive intendedInteraction is: e51_-1_0_0
+The primitive enactedInteraction  is: e51_-1_0_0
+learnCompositeInteraction()
+LEARN:<<e31e01>e51>_3_1_2
+LEARN:<<e51<e21<e01<e31e01>>>><<e31e01>e51>>_8_1_5
+LEARN:<<<e51<e21<e01<e31e01>>>><e31e01>>e51>_8_1_6
+--------------------------------------------------------------------------------------------------------
+loop number is:406
+The best choice of the anticipation interaction is composite and its weight is:7
+The best choice of the anticipation interaction's weight plus than threshold and proclivity is positive
+The primitive intendedInteraction is: e21_-3_0_0
+The primitive enactedInteraction  is: e21_-3_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The primitive intendedInteraction is: e31_-1_0_0
+The primitive enactedInteraction  is: e31_-1_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The intended composite interaction is: <e21<e01<e31e01>>>_6_8_3
+The enacted  composite interaction is: <e21<e01<e31e01>>>_6_8_3
+learnCompositeInteraction()
+REINFORCE:<e51<e21<e01<e31e01>>>>_5_8_4
+LEARN:<<e31e01><e51<e21<e01<e31e01>>>>>_9_1_5
+LEARN:<<<e31e01>e51><e21<e01<e31e01>>>>_9_1_4
+--------------------------------------------------------------------------------------------------------
+loop number is:407
+The best choice of the anticipation interaction is composite and its weight is:15
+The best choice of the anticipation interaction's weight plus than threshold and proclivity is positive
+The primitive intendedInteraction is: e31_-1_0_0
+The primitive enactedInteraction  is: e31_-1_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The intended composite interaction is: <e31e01>_4_6_1
+The enacted  composite interaction is: <e31e01>_4_6_1
+learnCompositeInteraction()
+REINFORCE:<<e21<e01<e31e01>>><e31e01>>_10_4_4
+REINFORCE:<e51<<e21<e01<e31e01>>><e31e01>>>_9_4_5
+REINFORCE:<<e51<e21<e01<e31e01>>>><e31e01>>_9_11_5
+--------------------------------------------------------------------------------------------------------
+loop number is:408
+The best choice of the anticipation interaction is composite and its weight is:1
+The best choice of the anticipation interaction's weight less or equal than threshold and proclivity is positive
+The primitive intendedInteraction is: e51_-1_0_0
+The primitive enactedInteraction  is: e51_-1_0_0
+learnCompositeInteraction()
+REINFORCE:<<e31e01>e51>_3_2_2
+LEARN:<<e21<e01<e31e01>>><<e31e01>e51>>_9_1_4
+LEARN:<<<e21<e01<e31e01>>><e31e01>>e51>_9_1_5
+--------------------------------------------------------------------------------------------------------
+loop number is:409
+The best choice of the anticipation interaction is composite and its weight is:9
+The best choice of the anticipation interaction's weight plus than threshold and proclivity is positive
+The primitive intendedInteraction is: e21_-3_0_0
+The primitive enactedInteraction  is: e21_-3_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The primitive intendedInteraction is: e31_-1_0_0
+The primitive enactedInteraction  is: e31_-1_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The intended composite interaction is: <e21<e01<e31e01>>>_6_8_3
+The enacted  composite interaction is: <e21<e01<e31e01>>>_6_8_3
+learnCompositeInteraction()
+REINFORCE:<e51<e21<e01<e31e01>>>>_5_9_4
+REINFORCE:<<e31e01><e51<e21<e01<e31e01>>>>>_9_2_5
+REINFORCE:<<<e31e01>e51><e21<e01<e31e01>>>>_9_2_4
+--------------------------------------------------------------------------------------------------------
+loop number is:410
+The best choice of the anticipation interaction is composite and its weight is:17
+The best choice of the anticipation interaction's weight plus than threshold and proclivity is positive
+The primitive intendedInteraction is: e31_-1_0_0
+The primitive enactedInteraction  is: e30_-2_0_0
+The intended composite interaction is: <e31e01>_4_6_1
+The enacted  composite interaction is: e30_-2_0_0
+learnCompositeInteraction()
+REINFORCE:<<e21<e01<e31e01>>>e30>_4_2_4
+REINFORCE:<e51<<e21<e01<e31e01>>>e30>>_3_2_5
+REINFORCE:<<e51<e21<e01<e31e01>>>>e30>_3_10_5
+--------------------------------------------------------------------------------------------------------
+loop number is:411
+The best choice of the anticipation interaction is composite and its weight is:16
+The best choice of the anticipation interaction's weight plus than threshold and proclivity is positive
+The primitive intendedInteraction is: e51_-1_0_0
+The primitive enactedInteraction  is: e51_-1_0_0
+The primitive intendedInteraction is: e21_-3_0_0
+The primitive enactedInteraction  is: e21_-3_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The primitive intendedInteraction is: e31_-1_0_0
+The primitive enactedInteraction  is: e30_-2_0_0
+REINFORCE:<e01e30>_3_17_1
+REINFORCE:<e21<e01e30>>_0_13_2
+REINFORCE:<e51<e21<e01e30>>>_-1_12_3
+The intended composite interaction is: <e51<e21<e01<e31e01>>>>_5_9_4
+The enacted  composite interaction is: <e51<e21<e01e30>>>_-1_12_3
+learnCompositeInteraction()
+REINFORCE:<e30<e51<e21<e01e30>>>>_-3_8_4
+LEARN:<<e21<e01<e31e01>>><e30<e51<e21<e01e30>>>>>_3_1_5
+LEARN:<<<e21<e01<e31e01>>>e30><e51<e21<e01e30>>>>_3_1_5
+
+
+--------------------------------------------------------------------------------------------------------
+loop number is:416
+The best choice of the anticipation interaction is composite and its weight is:20
+The best choice of the anticipation interaction's weight plus than threshold and proclivity is positive
+The primitive intendedInteraction is: e51_-1_0_0
+The primitive enactedInteraction  is: e51_-1_0_0
+The primitive intendedInteraction is: e21_-3_0_0
+The primitive enactedInteraction  is: e21_-3_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The primitive intendedInteraction is: e31_-1_0_0
+The primitive enactedInteraction  is: e31_-1_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The intended composite interaction is: <e51<e21<e01<e31e01>>>>_5_9_4
+The enacted  composite interaction is: <e51<e21<e01<e31e01>>>>_5_9_4
+learnCompositeInteraction()
+REINFORCE:<e30<e51<e21<e01<e31e01>>>>>_3_18_5
+REINFORCE:<<e51<e21<e01<e31e01>>>><e30<e51<e21<e01<e31e01>>>>>>_8_4_6
+REINFORCE:<<<e51<e21<e01<e31e01>>>>e30><e51<e21<e01<e31e01>>>>>_8_4_6
+--------------------------------------------------------------------------------------------------------
+loop number is:417
+The best choice of the anticipation interaction is composite and its weight is:21
+The best choice of the anticipation interaction's weight plus than threshold and proclivity is positive
+The primitive intendedInteraction is: e31_-1_0_0
+The primitive enactedInteraction  is: e31_-1_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The intended composite interaction is: <e31e01>_4_6_1
+The enacted  composite interaction is: <e31e01>_4_6_1
+learnCompositeInteraction()
+REINFORCE:<<e51<e21<e01<e31e01>>>><e31e01>>_9_12_5
+REINFORCE:<e30<<e51<e21<e01<e31e01>>>><e31e01>>>_7_7_6
+REINFORCE:<<e30<e51<e21<e01<e31e01>>>>><e31e01>>_7_7_6
+--------------------------------------------------------------------------------------------------------
+
+
+
+--------------------------------------------------------------------------------------------------------
+loop number is:442
+The best choice of the anticipation interaction is composite and its weight is:26
+The best choice of the anticipation interaction's weight plus than threshold and proclivity is positive
+The primitive intendedInteraction is: e51_-1_0_0
+The primitive enactedInteraction  is: e51_-1_0_0
+The primitive intendedInteraction is: e21_-3_0_0
+The primitive enactedInteraction  is: e21_-3_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The primitive intendedInteraction is: e31_-1_0_0
+The primitive enactedInteraction  is: e30_-2_0_0
+REINFORCE:<e01e30>_3_20_1
+REINFORCE:<e21<e01e30>>_0_16_2
+REINFORCE:<e51<e21<e01e30>>>_-1_15_3
+The intended composite interaction is: <e51<e21<e01<e31e01>>>>_5_9_4
+The enacted  composite interaction is: <e51<e21<e01e30>>>_-1_15_3
+learnCompositeInteraction()
+REINFORCE:<e30<e51<e21<e01e30>>>>_-3_11_4
+REINFORCE:<<e51<e21<e01<e31e01>>>><e30<e51<e21<e01e30>>>>>_2_8_5
+REINFORCE:<<<e51<e21<e01<e31e01>>>>e30><e51<e21<e01e30>>>>_2_8_6
+--------------------------------------------------------------------------------------------------------
+loop number is:443
+The best choice of the anticipation interaction is composite and its weight is:2
+The best choice of the anticipation interaction's weight plus than threshold and proclivity is positive
+The primitive intendedInteraction is: e11_-3_0_0
+The primitive enactedInteraction  is: e11_-3_0_0
+The primitive intendedInteraction is: e31_-1_0_0
+The primitive enactedInteraction  is: e31_-1_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The primitive intendedInteraction is: e51_-1_0_0
+The primitive enactedInteraction  is: e51_-1_0_0
+The primitive intendedInteraction is: e21_-3_0_0
+The primitive enactedInteraction  is: e21_-3_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The primitive intendedInteraction is: e31_-1_0_0
+The primitive enactedInteraction  is: e31_-1_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The intended composite interaction is: <<e11<e31e01>><e51<e21<e01<e31e01>>>>>_6_3_5
+The enacted  composite interaction is: <<e11<e31e01>><e51<e21<e01<e31e01>>>>>_6_3_5
+learnCompositeInteraction()
+REINFORCE:<<e51<e21<e01e30>>><<e11<e31e01>><e51<e21<e01<e31e01>>>>>>_5_3_6
+LEARN:<e30<<e51<e21<e01e30>>><<e11<e31e01>><e51<e21<e01<e31e01>>>>>>>_3_1_7
+LEARN:<<e30<e51<e21<e01e30>>>><<e11<e31e01>><e51<e21<e01<e31e01>>>>>>_3_1_6
+--------------------------------------------------------------------------------------------------------
+loop number is:444
+The best choice of the anticipation interaction is composite and its weight is:17
+The best choice of the anticipation interaction's weight plus than threshold and proclivity is positive
+The primitive intendedInteraction is: e31_-1_0_0
+The primitive enactedInteraction  is: e30_-2_0_0
+The intended composite interaction is: <e31e01>_4_6_1
+The enacted  composite interaction is: e30_-2_0_0
+learnCompositeInteraction()
+REINFORCE:<<<e11<e31e01>><e51<e21<e01<e31e01>>>>>e30>_4_3_6
+LEARN:<<e51<e21<e01e30>>><<<e11<e31e01>><e51<e21<e01<e31e01>>>>>e30>>_3_1_7
+LEARN:<<<e51<e21<e01e30>>><<e11<e31e01>><e51<e21<e01<e31e01>>>>>>e30>_3_1_7
+--------------------------------------------------------------------------------------------------------
+loop number is:445
+The best choice of the anticipation interaction is composite and its weight is:20
+The best choice of the anticipation interaction's weight plus than threshold and proclivity is positive
+The primitive intendedInteraction is: e51_-1_0_0
+The primitive enactedInteraction  is: e51_-1_0_0
+The primitive intendedInteraction is: e21_-3_0_0
+The primitive enactedInteraction  is: e21_-3_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The primitive intendedInteraction is: e31_-1_0_0
+The primitive enactedInteraction  is: e31_-1_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The intended composite interaction is: <e51<e21<e01<e31e01>>>>_5_9_4
+The enacted  composite interaction is: <e51<e21<e01<e31e01>>>>_5_9_4
+learnCompositeInteraction()
+REINFORCE:<e30<e51<e21<e01<e31e01>>>>>_3_21_5
+LEARN:<<<e11<e31e01>><e51<e21<e01<e31e01>>>>><e30<e51<e21<e01<e31e01>>>>>>_9_1_6
+LEARN:<<<<e11<e31e01>><e51<e21<e01<e31e01>>>>>e30><e51<e21<e01<e31e01>>>>>_9_1_7
+--------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------------------------------
+loop number is:514
+The best choice of the anticipation interaction is composite and its weight is:18
+The best choice of the anticipation interaction's weight plus than threshold and proclivity is positive
+The primitive intendedInteraction is: e11_-3_0_0
+The primitive enactedInteraction  is: e11_-3_0_0
+The primitive intendedInteraction is: e31_-1_0_0
+The primitive enactedInteraction  is: e31_-1_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The primitive intendedInteraction is: e51_-1_0_0
+The primitive enactedInteraction  is: e51_-1_0_0
+The primitive intendedInteraction is: e21_-3_0_0
+The primitive enactedInteraction  is: e21_-3_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The primitive intendedInteraction is: e31_-1_0_0
+The primitive enactedInteraction  is: e31_-1_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The intended composite interaction is: <<e11<e31e01>><e51<e21<e01<e31e01>>>>>_6_3_5
+The enacted  composite interaction is: <<e11<e31e01>><e51<e21<e01<e31e01>>>>>_6_3_5
+learnCompositeInteraction()
+REINFORCE:<<e51<e21<e01e30>>><<e11<e31e01>><e51<e21<e01<e31e01>>>>>>_5_11_6
+REINFORCE:<e30<<e51<e21<e01e30>>><<e11<e31e01>><e51<e21<e01<e31e01>>>>>>>_3_9_7
+REINFORCE:<<e30<e51<e21<e01e30>>>><<e11<e31e01>><e51<e21<e01<e31e01>>>>>>_3_9_6
+--------------------------------------------------------------------------------------------------------
+loop number is:515
+The best choice of the anticipation interaction is composite and its weight is:22
+The best choice of the anticipation interaction's weight plus than threshold and proclivity is positive
+The primitive intendedInteraction is: e31_-1_0_0
+The primitive enactedInteraction  is: e30_-2_0_0
+The intended composite interaction is: <<e31e01><e51<e21<e01<e31e01>>>>>_9_23_5
+The enacted  composite interaction is: e30_-2_0_0
+learnCompositeInteraction()
+REINFORCE:<<<e11<e31e01>><e51<e21<e01<e31e01>>>>>e30>_4_11_6
+REINFORCE:<<e51<e21<e01e30>>><<<e11<e31e01>><e51<e21<e01<e31e01>>>>>e30>>_3_9_7
+REINFORCE:<<<e51<e21<e01e30>>><<e11<e31e01>><e51<e21<e01<e31e01>>>>>>e30>_3_9_7
+--------------------------------------------------------------------------------------------------------
+loop number is:516
+The best choice of the anticipation interaction is composite and its weight is:36
+The best choice of the anticipation interaction's weight plus than threshold and proclivity is positive
+The primitive intendedInteraction is: e51_-1_0_0
+The primitive enactedInteraction  is: e51_-1_0_0
+The primitive intendedInteraction is: e21_-3_0_0
+The primitive enactedInteraction  is: e21_-3_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The primitive intendedInteraction is: e31_-1_0_0
+The primitive enactedInteraction  is: e31_-1_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The intended composite interaction is: <e51<e21<e01<e31e01>>>>_5_9_4
+The enacted  composite interaction is: <e51<e21<e01<e31e01>>>>_5_9_4
+learnCompositeInteraction()
+REINFORCE:<e30<e51<e21<e01<e31e01>>>>>_3_29_5
+REINFORCE:<<<e11<e31e01>><e51<e21<e01<e31e01>>>>><e30<e51<e21<e01<e31e01>>>>>>_9_9_6
+REINFORCE:<<<<e11<e31e01>><e51<e21<e01<e31e01>>>>>e30><e51<e21<e01<e31e01>>>>>_9_9_7
+--------------------------------------------------------------------------------------------------------
+loop number is:517
+The best choice of the anticipation interaction is composite and its weight is:53
+The best choice of the anticipation interaction's weight plus than threshold and proclivity is positive
+The primitive intendedInteraction is: e31_-1_0_0
+The primitive enactedInteraction  is: e31_-1_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The intended composite interaction is: <e31e01>_4_6_1
+The enacted  composite interaction is: <e31e01>_4_6_1
+learnCompositeInteraction()
+REINFORCE:<<e51<e21<e01<e31e01>>>><e31e01>>_9_33_5
+REINFORCE:<e30<<e51<e21<e01<e31e01>>>><e31e01>>>_7_18_6
+REINFORCE:<<e30<e51<e21<e01<e31e01>>>>><e31e01>>_7_18_6
+--------------------------------------------------------------------------------------------------------
+loop number is:518
+The best choice of the anticipation interaction is composite and its weight is:44
+The best choice of the anticipation interaction's weight plus than threshold and proclivity is positive
+The primitive intendedInteraction is: e51_-1_0_0
+The primitive enactedInteraction  is: e51_-1_0_0
+The primitive intendedInteraction is: e21_-3_0_0
+The primitive enactedInteraction  is: e21_-3_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The primitive intendedInteraction is: e31_-1_0_0
+The primitive enactedInteraction  is: e31_-1_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The intended composite interaction is: <e51<e21<e01<e31e01>>>>_5_9_4
+The enacted  composite interaction is: <e51<e21<e01<e31e01>>>>_5_9_4
+learnCompositeInteraction()
+REINFORCE:<<e31e01><e51<e21<e01<e31e01>>>>>_9_24_5
+REINFORCE:<<e51<e21<e01<e31e01>>>><<e31e01><e51<e21<e01<e31e01>>>>>>_14_23_6
+REINFORCE:<<<e51<e21<e01<e31e01>>>><e31e01>><e51<e21<e01<e31e01>>>>>_14_22_6
+--------------------------------------------------------------------------------------------------------
+loop number is:519
+The best choice of the anticipation interaction is composite and its weight is:24
+The best choice of the anticipation interaction's weight plus than threshold and proclivity is positive
+The primitive intendedInteraction is: e31_-1_0_0
+The primitive enactedInteraction  is: e31_-1_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The primitive intendedInteraction is: e51_-1_0_0
+The primitive enactedInteraction  is: e51_-1_0_0
+The primitive intendedInteraction is: e21_-3_0_0
+The primitive enactedInteraction  is: e21_-3_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The primitive intendedInteraction is: e31_-1_0_0
+The primitive enactedInteraction  is: e31_-1_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The intended composite interaction is: <<e31e01><e51<e21<e01<e31e01>>>>>_9_24_5
+The enacted  composite interaction is: <<e31e01><e51<e21<e01<e31e01>>>>>_9_24_5
+learnCompositeInteraction()
+REINFORCE:<<e51<e21<e01<e31e01>>>><<e31e01><e51<e21<e01<e31e01>>>>>>_14_24_6
+REINFORCE:<<e31e01><<e51<e21<e01<e31e01>>>><<e31e01><e51<e21<e01<e31e01>>>>>>>_18_2_7
+REINFORCE:<<<e31e01><e51<e21<e01<e31e01>>>>><<e31e01><e51<e21<e01<e31e01>>>>>>_18_2_6
+--------------------------------------------------------------------------------------------------------
+loop number is:520
+The best choice of the anticipation interaction is composite and its weight is:26
+The best choice of the anticipation interaction's weight plus than threshold and proclivity is positive
+The primitive intendedInteraction is: e31_-1_0_0
+The primitive enactedInteraction  is: e30_-2_0_0
+The intended composite interaction is: <<e31e01><e51<e21<e01<e31e01>>>>>_9_24_5
+The enacted  composite interaction is: e30_-2_0_0
+learnCompositeInteraction()
+REINFORCE:<<<e31e01><e51<e21<e01<e31e01>>>>>e30>_7_12_6
+REINFORCE:<<e51<e21<e01<e31e01>>>><<<e31e01><e51<e21<e01<e31e01>>>>>e30>>_12_2_7
+REINFORCE:<<<e51<e21<e01<e31e01>>>><<e31e01><e51<e21<e01<e31e01>>>>>>e30>_12_2_7
+--------------------------------------------------------------------------------------------------------
+loop number is:521
+The best choice of the anticipation interaction is composite and its weight is:18
+The best choice of the anticipation interaction's weight plus than threshold and proclivity is positive
+The primitive intendedInteraction is: e51_-1_0_0
+The primitive enactedInteraction  is: e51_-1_0_0
+The primitive intendedInteraction is: e21_-3_0_0
+The primitive enactedInteraction  is: e21_-3_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The primitive intendedInteraction is: e31_-1_0_0
+The primitive enactedInteraction  is: e30_-2_0_0
+REINFORCE:<e01e30>_3_29_1
+REINFORCE:<e21<e01e30>>_0_25_2
+REINFORCE:<e51<e21<e01e30>>>_-1_24_3
+The intended composite interaction is: <<e51<e21<e01<e31e01>>>><e31e01>>_9_33_5
+The enacted  composite interaction is: <e51<e21<e01e30>>>_-1_24_3
+learnCompositeInteraction()
+REINFORCE:<e30<e51<e21<e01e30>>>>_-3_20_4
+REINFORCE:<<<e31e01><e51<e21<e01<e31e01>>>>><e30<e51<e21<e01e30>>>>>_6_2_6
+REINFORCE:<<<<e31e01><e51<e21<e01<e31e01>>>>>e30><e51<e21<e01e30>>>>_6_2_7
+--------------------------------------------------------------------------------------------------------
+
+
+
+--------------------------------------------------------------------------------------------------------
+loop number is:552
+The best choice of the anticipation interaction is composite and its weight is:29
+The best choice of the anticipation interaction's weight plus than threshold and proclivity is positive
+The primitive intendedInteraction is: e31_-1_0_0
+The primitive enactedInteraction  is: e30_-2_0_0
+The intended composite interaction is: <<e31e01><e51<e21<e01<e31e01>>>>>_9_25_5
+The enacted  composite interaction is: e30_-2_0_0
+learnCompositeInteraction()
+REINFORCE:<<<e11<e31e01>><e51<e21<e01<e31e01>>>>>e30>_4_16_6
+REINFORCE:<<e51<e21<e01e30>>><<<e11<e31e01>><e51<e21<e01<e31e01>>>>>e30>>_3_14_7
+REINFORCE:<<<e51<e21<e01e30>>><<e11<e31e01>><e51<e21<e01<e31e01>>>>>>e30>_3_14_7
+--------------------------------------------------------------------------------------------------------
+loop number is:553
+The best choice of the anticipation interaction is composite and its weight is:46
+The best choice of the anticipation interaction's weight plus than threshold and proclivity is positive
+The primitive intendedInteraction is: e51_-1_0_0
+The primitive enactedInteraction  is: e51_-1_0_0
+The primitive intendedInteraction is: e21_-3_0_0
+The primitive enactedInteraction  is: e21_-3_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The primitive intendedInteraction is: e31_-1_0_0
+The primitive enactedInteraction  is: e31_-1_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The intended composite interaction is: <e51<e21<e01<e31e01>>>>_5_9_4
+The enacted  composite interaction is: <e51<e21<e01<e31e01>>>>_5_9_4
+learnCompositeInteraction()
+REINFORCE:<e30<e51<e21<e01<e31e01>>>>>_3_34_5
+REINFORCE:<<<e11<e31e01>><e51<e21<e01<e31e01>>>>><e30<e51<e21<e01<e31e01>>>>>>_9_14_6
+REINFORCE:<<<<e11<e31e01>><e51<e21<e01<e31e01>>>>>e30><e51<e21<e01<e31e01>>>>>_9_14_7
+--------------------------------------------------------------------------------------------------------
+loop number is:554
+The best choice of the anticipation interaction is composite and its weight is:32
+The best choice of the anticipation interaction's weight plus than threshold and proclivity is positive
+The primitive intendedInteraction is: e31_-1_0_0
+The primitive enactedInteraction  is: e31_-1_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The primitive intendedInteraction is: e51_-1_0_0
+The primitive enactedInteraction  is: e51_-1_0_0
+The primitive intendedInteraction is: e21_-3_0_0
+The primitive enactedInteraction  is: e21_-3_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The primitive intendedInteraction is: e31_-1_0_0
+The primitive enactedInteraction  is: e31_-1_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The intended composite interaction is: <<e31e01><e51<e21<e01<e31e01>>>>>_9_25_5
+The enacted  composite interaction is: <<e31e01><e51<e21<e01<e31e01>>>>>_9_25_5
+learnCompositeInteraction()
+REINFORCE:<<e51<e21<e01<e31e01>>>><<e31e01><e51<e21<e01<e31e01>>>>>>_14_30_6
+REINFORCE:<e30<<e51<e21<e01<e31e01>>>><<e31e01><e51<e21<e01<e31e01>>>>>>>_12_4_7
+REINFORCE:<<e30<e51<e21<e01<e31e01>>>>><<e31e01><e51<e21<e01<e31e01>>>>>>_12_4_6
+--------------------------------------------------------------------------------------------------------
+loop number is:555
+The best choice of the anticipation interaction is composite and its weight is:39
+The best choice of the anticipation interaction's weight plus than threshold and proclivity is positive
+The primitive intendedInteraction is: e31_-1_0_0
+The primitive enactedInteraction  is: e31_-1_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The primitive intendedInteraction is: e51_-1_0_0
+The primitive enactedInteraction  is: e51_-1_0_0
+The primitive intendedInteraction is: e21_-3_0_0
+The primitive enactedInteraction  is: e21_-3_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The primitive intendedInteraction is: e31_-1_0_0
+The primitive enactedInteraction  is: e31_-1_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The intended composite interaction is: <<e31e01><e51<e21<e01<e31e01>>>>>_9_25_5
+The enacted  composite interaction is: <<e31e01><e51<e21<e01<e31e01>>>>>_9_25_5
+learnCompositeInteraction()
+REINFORCE:<<<e31e01><e51<e21<e01<e31e01>>>>><<e31e01><e51<e21<e01<e31e01>>>>>>_18_7_6
+REINFORCE:<<e51<e21<e01<e31e01>>>><<<e31e01><e51<e21<e01<e31e01>>>>><<e31e01><e51<e21<e01<e31e01>>>>>>>_23_4_7
+REINFORCE:<<<e51<e21<e01<e31e01>>>><<e31e01><e51<e21<e01<e31e01>>>>>><<e31e01><e51<e21<e01<e31e01>>>>>>_23_4_7
+--------------------------------------------------------------------------------------------------------
+loop number is:556
+The best choice of the anticipation interaction is composite and its weight is:37
+The best choice of the anticipation interaction's weight plus than threshold and proclivity is positive
+The primitive intendedInteraction is: e31_-1_0_0
+The primitive enactedInteraction  is: e30_-2_0_0
+The intended composite interaction is: <<e31e01><e51<e21<e01<e31e01>>>>>_9_25_5
+The enacted  composite interaction is: e30_-2_0_0
+learnCompositeInteraction()
+REINFORCE:<<<e31e01><e51<e21<e01<e31e01>>>>>e30>_7_17_6
+REINFORCE:<<<e31e01><e51<e21<e01<e31e01>>>>><<<e31e01><e51<e21<e01<e31e01>>>>>e30>>_16_4_7
+REINFORCE:<<<<e31e01><e51<e21<e01<e31e01>>>>><<e31e01><e51<e21<e01<e31e01>>>>>>e30>_16_4_7
+--------------------------------------------------------------------------------------------------------
+loop number is:557
+The best choice of the anticipation interaction is composite and its weight is:19
+The best choice of the anticipation interaction's weight plus than threshold and proclivity is positive
+The primitive intendedInteraction is: e51_-1_0_0
+The primitive enactedInteraction  is: e51_-1_0_0
+The primitive intendedInteraction is: e21_-3_0_0
+The primitive enactedInteraction  is: e21_-3_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The primitive intendedInteraction is: e31_-1_0_0
+The primitive enactedInteraction  is: e30_-2_0_0
+REINFORCE:<e01e30>_3_34_1
+REINFORCE:<e21<e01e30>>_0_30_2
+REINFORCE:<e51<e21<e01e30>>>_-1_29_3
+The intended composite interaction is: <<e51<e21<e01<e31e01>>>><e31e01>>_9_34_5
+The enacted  composite interaction is: <e51<e21<e01e30>>>_-1_29_3
+learnCompositeInteraction()
+REINFORCE:<e30<e51<e21<e01e30>>>>_-3_25_4
+REINFORCE:<<<e31e01><e51<e21<e01<e31e01>>>>><e30<e51<e21<e01e30>>>>>_6_7_6
+REINFORCE:<<<<e31e01><e51<e21<e01<e31e01>>>>>e30><e51<e21<e01e30>>>>_6_7_7
+--------------------------------------------------------------------------------------------------------
+loop number is:558
+The best choice of the anticipation interaction is composite and its weight is:30
+The best choice of the anticipation interaction's weight plus than threshold and proclivity is positive
+The primitive intendedInteraction is: e11_-3_0_0
+The primitive enactedInteraction  is: e11_-3_0_0
+The primitive intendedInteraction is: e31_-1_0_0
+The primitive enactedInteraction  is: e31_-1_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The primitive intendedInteraction is: e51_-1_0_0
+The primitive enactedInteraction  is: e51_-1_0_0
+The primitive intendedInteraction is: e21_-3_0_0
+The primitive enactedInteraction  is: e21_-3_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The primitive intendedInteraction is: e31_-1_0_0
+The primitive enactedInteraction  is: e31_-1_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The intended composite interaction is: <<e11<e31e01>><e51<e21<e01<e31e01>>>>>_6_3_5
+The enacted  composite interaction is: <<e11<e31e01>><e51<e21<e01<e31e01>>>>>_6_3_5
+learnCompositeInteraction()
+REINFORCE:<<e51<e21<e01e30>>><<e11<e31e01>><e51<e21<e01<e31e01>>>>>>_5_17_6
+REINFORCE:<e30<<e51<e21<e01e30>>><<e11<e31e01>><e51<e21<e01<e31e01>>>>>>>_3_15_7
+REINFORCE:<<e30<e51<e21<e01e30>>>><<e11<e31e01>><e51<e21<e01<e31e01>>>>>>_3_15_6
+--------------------------------------------------------------------------------------------------------
+loop number is:559
+The best choice of the anticipation interaction is composite and its weight is:30
+The best choice of the anticipation interaction's weight plus than threshold and proclivity is positive
+The primitive intendedInteraction is: e31_-1_0_0
+The primitive enactedInteraction  is: e30_-2_0_0
+The intended composite interaction is: <<e31e01><e51<e21<e01<e31e01>>>>>_9_25_5
+The enacted  composite interaction is: e30_-2_0_0
+learnCompositeInteraction()
+REINFORCE:<<<e11<e31e01>><e51<e21<e01<e31e01>>>>>e30>_4_17_6
+REINFORCE:<<e51<e21<e01e30>>><<<e11<e31e01>><e51<e21<e01<e31e01>>>>>e30>>_3_15_7
+REINFORCE:<<<e51<e21<e01e30>>><<e11<e31e01>><e51<e21<e01<e31e01>>>>>>e30>_3_15_7
+--------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------------------------------
+loop number is:610
+The best choice of the anticipation interaction is composite and its weight is:48
+The best choice of the anticipation interaction's weight plus than threshold and proclivity is positive
+The primitive intendedInteraction is: e31_-1_0_0
+The primitive enactedInteraction  is: e31_-1_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The primitive intendedInteraction is: e51_-1_0_0
+The primitive enactedInteraction  is: e51_-1_0_0
+The primitive intendedInteraction is: e21_-3_0_0
+The primitive enactedInteraction  is: e21_-3_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The primitive intendedInteraction is: e31_-1_0_0
+The primitive enactedInteraction  is: e31_-1_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The intended composite interaction is: <<e31e01><e51<e21<e01<e31e01>>>>>_9_25_5
+The enacted  composite interaction is: <<e31e01><e51<e21<e01<e31e01>>>>>_9_25_5
+learnCompositeInteraction()
+REINFORCE:<<e51<e21<e01<e31e01>>>><<e31e01><e51<e21<e01<e31e01>>>>>>_14_38_6
+REINFORCE:<e30<<e51<e21<e01<e31e01>>>><<e31e01><e51<e21<e01<e31e01>>>>>>>_12_12_7
+REINFORCE:<<e30<e51<e21<e01<e31e01>>>>><<e31e01><e51<e21<e01<e31e01>>>>>>_12_12_6
+--------------------------------------------------------------------------------------------------------
+loop number is:611
+The best choice of the anticipation interaction is composite and its weight is:63
+The best choice of the anticipation interaction's weight plus than threshold and proclivity is positive
+The primitive intendedInteraction is: e31_-1_0_0
+The primitive enactedInteraction  is: e31_-1_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The primitive intendedInteraction is: e51_-1_0_0
+The primitive enactedInteraction  is: e51_-1_0_0
+The primitive intendedInteraction is: e21_-3_0_0
+The primitive enactedInteraction  is: e21_-3_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The primitive intendedInteraction is: e31_-1_0_0
+The primitive enactedInteraction  is: e31_-1_0_0
+The primitive intendedInteraction is: e01_5_0_0
+The primitive enactedInteraction  is: e01_5_0_0
+The intended composite interaction is: <<e31e01><e51<e21<e01<e31e01>>>>>_9_25_5
+The enacted  composite interaction is: <<e31e01><e51<e21<e01<e31e01>>>>>_9_25_5
+learnCompositeInteraction()
+REINFORCE:<<<e31e01><e51<e21<e01<e31e01>>>>><<e31e01><e51<e21<e01<e31e01>>>>>>_18_15_6
+REINFORCE:<<e51<e21<e01<e31e01>>>><<<e31e01><e51<e21<e01<e31e01>>>>><<e31e01><e51<e21<e01<e31e01>>>>>>>_23_12_7
+REINFORCE:<<<e51<e21<e01<e31e01>>>><<e31e01><e51<e21<e01<e31e01>>>>>><<e31e01><e51<e21<e01<e31e01>>>>>>_23_12_7
