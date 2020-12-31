@@ -1,0 +1,2 @@
+string intendedInteraction
+string enactedInteraction
