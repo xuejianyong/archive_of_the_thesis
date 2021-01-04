@@ -10,3 +10,6 @@ The folder of presentations shows all slides that I have presented for my groups
 The folder of thesis presents the dissertation of my Phd thesis.
 
 The folder of video shows all videos of the agent's performance of the algorithms that I have designed and the results from other scholars work which related to my research domain.
+
+The new progress in CCA and GAIT could find here:
+https://xuejianyong.github.io/
