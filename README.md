@@ -1,5 +1,4 @@
 # Archive of the works in my PhD thesis
-# This archieve includes all of my works in my PhD thesis.
 
 The folder of articles presents all the papers that I have published in my PhD period.
 
