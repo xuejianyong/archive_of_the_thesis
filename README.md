@@ -1,1 +1,14 @@
-# archive_of_the_thesis
+# Archive of the works in my PhD thesis
+
+The folder of articles presents all the papers that I have published in my PhD period.
+
+The folder of implementations includes all source code of projects that I have done in my work.
+
+The folder of presentations shows all slides that I have presented for my groups, committees and the jury of the thesis defense.
+
+The folder of thesis presents the dissertation of my Phd thesis.
+
+The folder of video shows all videos of the agent's performance of the algorithms that I have designed and the results from other scholars work which related to my research domain.
+
+The new progress in CCA and GAIT could find here:
+https://xuejianyong.github.io/
